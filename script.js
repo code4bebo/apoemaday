@@ -15,7 +15,10 @@ function getDateString() {
 
 function getTodaysPoem() {
     const baselineDate = new Date("2024-10-20");
-    const offsetInDays = Math.floor((new Date() - baselineDate) / (1000 * 60 * 60 * 24));
+    const currentDate = new Date();
+    baselineDate.setHours(0, 0, 0, 0);
+    currentDate.setHours(0, 0, 0, 0);
+    const offsetInDays = Math.floor((currentDate - baselineDate) / (1000 * 60 * 60 * 24));
     const poems = getPoems();
     return poems[offsetInDays % poems.length];
 }

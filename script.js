@@ -27,6 +27,10 @@ function getPoems() {
         "<b>your heart?</b>\nfragile, but the kindest of all,\nthe only treasure i long to guard\n" +
         "<b>your eyes?</b>\noceans where my fears drown,\nleaving nothing but light\n" +
         "<b>your lips?</b>\nmagnetic,\npulling me closer with every glance\n",
-        "I carry your heart with me (I carry it in my heart) I am never without it (anywhere I go you go, my dear; and whatever is done by only me is"
+        "No matter the doubts that fill your heart,\nYou've been enough right from the start.\nThrough every fear and tear you show,\nI'll love you more than you could ever know.\n\n" +
+        "Your insecurities, I sometimes see them too\nBut they won't change the way I feel for you.\nIn every moment, high or low,\nMy love for you will only grow.\n\n" +
+        "Even when you're scared or feeling small,\nI'll be the one to catch your fall.\nThrough every trial, and stormy night\nI'll be the one to hold you tight.\n\n" +
+        "So trust in us, through thick and thin,\nNo matter what, we'll always win.\nI'll be your rock, your guiding light,\nAnd love you through the darkest night.\n\n" +
+        "Allow me to be there for you,\nLet me hold you tight, my sugar boo.\nI'll try to give my all again,\nAnd love you more, than I did then.\n",
     ]
 }

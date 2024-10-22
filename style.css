@@ -74,15 +74,15 @@ h1 {
 #poem {
     padding: 3rem;
     margin-top: 3rem;
-    max-height: 48vh;
+    max-height: 45vh;
     overflow-y: auto;
 }
 
 #poem-text {
     white-space: pre-wrap;
     letter-spacing: 1px;
-    font-size: 2.2rem;
-    line-height: 2.7rem;
+    font-size: 1.8rem;
+    line-height: 2.3rem;
     font-weight: lighter;
     color: #f9e9ff;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);

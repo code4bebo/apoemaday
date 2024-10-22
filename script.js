@@ -9,10 +9,21 @@ function getDateString() {
     const today = new Date();
     const month = today.toLocaleString('en', { month: 'long' }).toLowerCase();
     const day = today.getDate();
-    const ending = (day % 10 === 1 && day % 100 !== 11) ? "st" :
-               (day % 10 === 2 && day % 100 !== 12) ? "nd" :
-               (day % 10 === 3 && day % 100 !== 13) ? "rd" : "th";
+    const ending = getDaySuffix(day);
     return `${month} ${day}${ending}`;
+}
+
+function getDaySuffix(day) {
+    if ([1, 21, 31].includes(day)) {
+        return "st";
+    }
+    if ([2, 22].includes(day)) {
+        return "nd";
+    }
+    if ([3, 23].includes(day)) {
+        return "rd";
+    }
+    return "th";
 }
 
 function getTodaysPoem() {

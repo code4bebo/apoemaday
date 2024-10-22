@@ -74,7 +74,7 @@ h1 {
 #poem {
     padding: 3rem;
     margin-top: 3rem;
-    max-height: 55vh;
+    max-height: 48vh;
     overflow-y: auto;
 }
 

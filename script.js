@@ -9,7 +9,9 @@ function getDateString() {
     const today = new Date();
     const month = today.toLocaleString('en', { month: 'long' }).toLowerCase();
     const day = today.getDate();
-    const ending = day === 1 ? "st" : day === 2 ? "nd" : day === 3 ? "rd" : "th";
+    const ending = (day % 10 === 1 && day % 100 !== 11) ? "st" :
+               (day % 10 === 2 && day % 100 !== 12) ? "nd" :
+               (day % 10 === 3 && day % 100 !== 13) ? "rd" : "th";
     return `${month} ${day}${ending}`;
 }
 

@@ -53,5 +53,19 @@ function getPoems() {
         "stargazing\nsunsets, puzzles\nlistening to music, amusement parks\naquariums, zoos\nwaking up, living\nbreathing, existing\n" +
         "\nlife without you sucks\n\nps: you want to watch frozen II sometime? <3",
         "<b>one room over?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>outside our door?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>at work?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>at my family's?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>in another city?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>in another country?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>on another continent?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>on another planet?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>in another universe?</b>\ni am with you,\nmy heart is with you,\nmy mind is with you.\n<b>if i'm ever gone?</b>\ni am with you,\nmy heart is with you,\nand my soul is with you.\n<b>for eternity</b>",
+        "<b>i had a great day today.</b>\ni think to myself\nyet i keep thinking\n" +
+          "<b>did i sit next to you on the train today? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i grab my morning coffee together with you? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i walk through the city with you by my side? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i grab lunch together with you, with that funky music in the store? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i almost get stuck in the elevator together with you? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i clink my champagne glass with you today? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i ride the metro with you leaning on my shoulder? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i sit next to you at the restauraunt, enjoying delicious food? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i walk you to the office, holding your hand? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i get ready for bed, to lay down next to you in our hotel room? - no?</b>\nmy day was alright, not great\n" +
+          "<b>did i fall asleep with you in my arms? - no?</b>\nmy day was alright, not great\n\n" +
+          "i had a decent day today,\nbut it could have been great\nif i just had you by my side\n" +
+          "everything is more fun with you <3"
     ]
 }

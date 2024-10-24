@@ -66,6 +66,13 @@ function getPoems() {
           "<b>did i get ready for bed, to lay down next to you in our hotel room? - no?</b>\nmy day was alright, not great\n" +
           "<b>did i fall asleep with you in my arms? - no?</b>\nmy day was alright, not great\n\n" +
           "i had a decent day today,\nbut it could have been great\nif i just had you by my side\n" +
-          "everything is more fun with you <3"
+          "everything is more fun with you <3",
+        "<b>a shooting star so bright flies by,\nbrightening the dark night sky</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
+        "<b>dandelions are dancing in the breeze,\nready to read my thoughts with ease</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
+        "<b>my coin flips high into the wishing well,\neven the stone-made structure can tell</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
+        "<b>the moon is full, the night is clear,\nthe stars are shining bright and near</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
+        "<b>fireworks light the sky on new year's eve,\nall the colors put my mind at ease</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
+        "<b>i check the time, oh lucky me,\nthe clock, it reads 3:33</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
+        "<b>another year aged, as time flies by\ni want the rest of this life, right by your side</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n<b><3</b>",
     ]
 }

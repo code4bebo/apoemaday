@@ -67,7 +67,7 @@ function getPoems() {
           "<b>did i fall asleep with you in my arms? - no?</b>\nmy day was alright, not great\n\n" +
           "i had a decent day today,\nbut it could have been great\nif i just had you by my side\n" +
           "everything is more fun with you <3",
-        "<b>a shooting star so bright flies by,\nbrightening the dark night sky</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
+        "<b>a shooting star so bright flies by,\nlighting up the dark night sky</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
         "<b>dandelions are dancing in the breeze,\nready to read my thoughts with ease</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
         "<b>my coin flips high into the wishing well,\neven the stone-made structure can tell</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +
         "<b>the moon is full, the night is clear,\nthe stars are shining bright and near</b>\ni close my eyes and make a wish\nfor you, my love, my only bliss\n\n" +

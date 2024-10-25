@@ -27,7 +27,7 @@ function getDaySuffix(day) {
 }
 
 function getTodaysPoem() {
-    const baselineDate = new Date("2024-10-19");
+    const baselineDate = new Date("2024-10-20");
     const currentDate = new Date();
     baselineDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
@@ -78,9 +78,9 @@ function getPoems() {
         "<b>the universe gave me ears</b>\nit gave me ears, so i can listen to you,\nto hear your angelic voice\nand listen to you sing\n\n" +
         "<b>the universe gave me a mouth</b>\nit gave me a mouth, so i can tell you 'i love you',\nto kiss your adorable face\nand sing along with you\n\n" +
         "<b>the universe gave me a nose</b>\nit gave me a nose, so i can savor your perfume\nto recognize your pleasant scent\nand feel at home when i do\n\n" +
-        "<b>the universe gave me hands</b>\nit gave me hands, so i can touch you\nto hold your beautiful hands\nand caress every part of you\n\n\n" +
-        "<b>the universe gave me all those senses</b>\nand i am convinced, it was for you\nso let me hold you tight\nand let us go into the night\n\n" +
-        "i want to make us feel good, like no one else ever could, and to make all of our senses explode with glee, this wonderful heaven only knows you, and me\n\n" +
+        "<b>the universe gave me hands</b>\nit gave me hands, so i can touch you\nto hold your beautiful hands\nand caress every part of you\n\n" +
+        "<b>all these senses, through and through,</b>\nand i am convinced, i got them just for you\nso let me hold you tight\nand let us go into the night\n\n" +
+        "i want to make us feel good,\nlike no one else ever could,\nand to make all of our senses explode with glee,\nthis wonderful heaven only knows you, and me\n\n" +
         "so let us sin together <3\n"
     ]
 }

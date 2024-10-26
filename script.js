@@ -81,6 +81,13 @@ function getPoems() {
         "<b>the universe gave me hands</b>\nit gave me hands, so i can touch you\nto hold your beautiful hands\nand caress every part of you\n\n" +
         "<b>all these senses, through and through,</b>\nand i am convinced, i got them just for you\nso let me hold you tight\nand let us go into the night\n\n" +
         "i want to make us feel good,\nlike no one else ever could,\nand to make all of our senses explode with glee,\nthis wonderful heaven only knows you, and me\n\n" +
-        "so let us sin together <3\n"
+        "so let us sin together <3\n",
+        "<b>do you know why i am certain that i love you?</b>\nbecause with you by my side, i feel safe\nall the worries go away\nand i can finally breathe\n\n" +
+        "all the noise in my head, it disappears\nand i can finally think\nall the doubts in my heart, they vanish\nand i can finally feel\n\n" +
+        "never have i felt so at peace\nnever have i felt so at home\nnever have i felt so understood and loved\nas i have when i am with you\n\n" +
+        "thank you for entering my life\nthank you for loving me the way i am\nthank you for being yourself\nand my heart wishes nothing more, but for you to stay by my side for eternity\n\n" +
+        "i cry as i am writing this\nbecause i want to hold you so bad right now\nand i want to tell you how much i love you\nall while i caress your beautiful face\n\n" +
+        "you are the best thing that ever happened to me\nand i will never let you go\nyou're the most perfect person i know\nand i want to be with you, forevermore\n\n" +
+        "<b>thank you for everything, my precious sweetheart\ni love you <3</b>",
     ]
 }

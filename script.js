@@ -89,5 +89,17 @@ function getPoems() {
         "i cry as i am writing this\nbecause i want to hold you so bad right now\nand i want to tell you how much i love you\nall while i caress your beautiful face\n\n" +
         "you are the best thing that ever happened to me\nand i will never let you go\nyou're the most perfect person i know\nand i want to be with you, forevermore\n\n" +
         "<b>thank you for everything, my precious sweetheart\ni love you <3</b>",
+        "<b>you are the sun that shines all so bright,</b>\nthe moon that lights up the starry night\n" +
+        "<b>you are the stars that twinkle in the sky,</b>\nthe clouds that float above so high\n\n" +
+        "<b>you are the wind that whispers in the trees,</b>\nthe rain that falls to the ground so free\n" +
+        "<b>you are the whitest snow that covers the ground,</b>\nthe rainbow that's so colorful and profound\n\n" +
+        "<b>you are all the things that make me smile</b>\nthe one that makes my life worthwhile\n" +
+        "<b>you are the one that makes my heart beat,</b>\nthe one that makes my life complete\n\n" +
+        "<b>you are the one that makes me feel so alive</b>\nthe one that makes me want to thrive\n" +
+        "<b>you are the one that makes me feel so good</b>\nthe one that makes me feel understood\n\n" +
+        "<b>thank you for being part of my life</b>\ni am sure, one day, i will make you my wife\n" +
+        "<b>and spend the rest of my days with you</b>\nmy love for you is all so true\n\n" +
+        "<b>the only one i want in a white dress is you</b>\nand i will try my best, so you will say 'i do'\n" +
+        "<b>please, stay with me, and let's grow old</b>\nour beautiful story, is yet to be told\n",
     ]
 }

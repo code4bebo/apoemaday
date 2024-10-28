@@ -101,5 +101,18 @@ function getPoems() {
         "<b>and spend the rest of my days with you</b>\nmy love for you is all so true\n\n" +
         "<b>the only one i want in a white dress is you</b>\nand i will try my best, so you will say 'i do'\n" +
         "<b>please, stay with me, and let's grow old</b>\nour beautiful story, is yet to be told\n",
+        "<b>i am not anywhere near perfect</b>\nthe lunch you had today?\nway more perfect than me\n\n" +
+        "<b>i am still not anywhere near perfect</b>\nthe coffee you drank today?\nway more perfect than me\n\n" +
+        "<b>i am nowhere close to being perfect</b>\nthe walk you had yesterday?\nway more perfect than me\n\n" +
+        "<b>i am still not perfect</b>\nthe people you talked to today?\nway more perfect than me\n\n" +
+        "<b>i am anything, but perfect</b>\nthe flaws i have are many\nand the mistakes i make are plenty\n\n" +
+        "<b>and yet you are still here</b>\nloving me, caring for me\nand making me feel like i am the most perfect person in the world\n\n" +
+        "<b>and i promise you, i am trying</b>\ni am trying my very hardest\nto become the perfect person for you\n\n" +
+        "<b>and i will not stop trying</b>\ni will never stop trying\nbecause you deserve the best there is\n\n" +
+        "<b>so i am thriving to become the best there is</b>\ni am nowhere close to being that person\nbut as long as you are by my side, i will keep on trying\n\n" +
+        "<b>thank you for believing in me</b>\nthank you for not giving up on me\nthank you for loving me\n\n" +
+        "<b>i am so grateful to be allowed to be part of your life</b>\ni will keep trying, to become perfect\nuntil the day i die\n\n" +
+        "<b>and i may never become perfect</b>\nbut i hope i will become good enough\nfor you to stay by my side\n\n" +
+        "<b>that is the one wish i have in life</b>\nfor us to one day share a last name\nand to love each other, until the end of time\n",
     ]
 }

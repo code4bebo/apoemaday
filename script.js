@@ -114,5 +114,13 @@ function getPoems() {
         "<b>i am so grateful to be allowed to be part of your life</b>\ni will keep trying, to become perfect\nuntil the day i die\n\n" +
         "<b>and i may never become perfect</b>\nbut i hope i will become good enough\nfor you to stay by my side\n\n" +
         "<b>that is the one wish i have in life</b>\nfor us to one day share a last name\nand to love each other, until the end of time\n",
+        "<b>i love when you talk</b>\nthe way your voice sounds\nthe way your lips move\nthe way your eyes light up\n\n" +
+        "<b>i love when you sing</b>\nthe excitement that fills you\nthe passion that drives you\nthe joy that radiates from you\n\n" +
+        "<b>i love when you laugh</b>\nthe way your cheeks crinkle\nthe way your nose scrunches\nthe way your smile shows\n\n" +
+        "<b>i love when you smile</b>\nthe way your eyes sparkle\nthe way your cheeks rise\nthe way your lips curve upwards\n\n" +
+        "<b>i love when you yap</b>\nthe way you tell stories\nthe way you share your thoughts\nthe jokes you say to make me laugh\n\n" +
+        "<b>how are you so beautiful?</b>\nhow are you so perfect?\nhow are you so amazing?\nhow are you... so you?\n\n" +
+        "<b>once again, thank you for being the way you are</b>\nyou are the only person that makes me smile this much\nthe only person that makes me forget about my worries\nthe only person that makes me feel like i am the luckiest man in the world\n\n" +
+        "<b>thank you for everything, bianca <3</b>\nps: i <b>really</b> love your voice, it's so soothing ...",
     ]
 }

@@ -131,6 +131,6 @@ function getPoems() {
         "<b>your doubts are not annoying</b>\nthey are understandable, and they are human\nand i want to help you get rid of them\ni want to make you feel secure\n\n" +
         "<b>your past is not annoying</b>\nit's a part of you, and it made you who you are\nand i love who you are\ni love you, <b>for who you are</b>\n\n" +
         "<b>you are not annoying</b>\nand you are not difficult\nyou are the most wonderful person i ever met\nand i want to be with you, forevermore\n\n" +
-        "<b>i love you bianca, you are beautiful in every single way <3</b>,
+        "<b>i love you bianca, you are beautiful in every single way <3</b>",
     ]
 }

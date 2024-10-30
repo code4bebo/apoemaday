@@ -27,7 +27,7 @@ function getDaySuffix(day) {
 }
 
 function getTodaysPoem() {
-    const baselineDate = new Date("2024-10-20");
+    const baselineDate = new Date("2024-10-19");
     const currentDate = new Date();
     baselineDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
@@ -122,5 +122,14 @@ function getPoems() {
         "<b>how are you so beautiful?</b>\nhow are you so perfect?\nhow are you so amazing?\nhow are you... so you?\n\n" +
         "<b>once again, thank you for being the way you are</b>\nyou are the only person that makes me smile this much\nthe only person that makes me forget about my worries\nthe only person that makes me feel like i am the luckiest man in the world\n\n" +
         "<b>thank you for everything, bianca <3</b>\nps: i <b>really</b> love your voice, it's so soothing ...",
+        "<b>i know things aren't always easy</b>\nand i know that i am a huge idiot at times\nand i want to apologize to you\nfor all the times i made you feel insecure\n\n" +
+        "<b>there will be good days</b>\nand there will be bad days\nbut i want you to know\ni will always love you the same, on either\n\n" +
+        "<b>you are not annoying, and you are not difficult</b>\nif anyone is, then i am\nand i am sorry for that\ni am trying to be better, everyday\n\n" +
+        "<b>your jealousy is not annoying</b>\nit's cute, and it's a sign that you care\nand i love that about you\ni love that you care so much about me\n\n" +
+        "<b>your insecurities are not annoying</b>\nthey are a part of you\nand i love every part about you\nand i especially love that you are so open with me\n\n" +
+        "<b>your fears are not annoying</b>\nthey are valid, and they are real\nand i want to help you overcome them\ni want to be there for you, always\n\n" +
+        "<b>your doubts are not annoying</b>\nthey are understandable, and they are human\nand i want to help you get rid of them\ni want to make you feel secure\n\n" +
+        "<b>your past is not annoying</b>\nit's a part of you, and it made you who you are\nand i love who you are\ni love you, <b>for who you are</b>\n\n" +
+        "<b>you are not annoying</b>\nand you are not difficult\nyou are the most wonderful person i ever met\nand i want to be with you, forevermore\n\n",
     ]
 }

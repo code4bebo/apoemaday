@@ -141,6 +141,6 @@ function getPoems() {
         "<b>Jason may chase, but I’ll stand my ground,</b>\nWith you in my arms, I won’t make a sound.\n" +
         "<b>Let him haunt the woods or the coldest lake,</b>\nI’m here to protect you, making no mistake.\n\n" +
         "<b>Pennywise may lurk in the sewers below,</b>\nBut for you, I’d face every fear I know.\n" +
-        "<b>Let him try his tricks, his laugh, his bite,</b>\nI will be your protector, through Halloween night.";
+        "<b>Let him try his tricks, his laugh, his bite,</b>\nI will be your protector, through Halloween night.",
     ]
 }

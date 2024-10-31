@@ -27,7 +27,7 @@ function getDaySuffix(day) {
 }
 
 function getTodaysPoem() {
-    const baselineDate = new Date("2024-10-20");
+    const baselineDate = new Date("2024-10-19");
     const currentDate = new Date();
     baselineDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
@@ -132,5 +132,15 @@ function getPoems() {
         "<b>your past is not annoying</b>\nit's a part of you, and it made you who you are\nand i love who you are\ni love you, <b>for who you are</b>\n\n" +
         "<b>you are not annoying</b>\nand you are not difficult\nyou are the most wonderful person i ever met\nand i want to be with you, forevermore\n\n" +
         "<b>i love you bianca, you are beautiful in every single way <3</b>",
+        "<b>When Ghostface calls, I’m not running away,</b>\nI’ll hold you tight, keep the fear at bay.\n" +
+        "<b>Let him try his tricks with that mask and knife,</b>\nI’ll stand strong with you, we'll be keeping our life\n\n" +
+        "<b>Freddy might haunt the dark and the deep,</b>\nBut I’ll lay beside you as you fall asleep.\n" +
+        "<b>His claws won’t touch you, not while I’m here,</b>\nI’ll guard your dreams and hold you near.\n\n" +
+        "<b>Pyramid Head’s sword may be heavy and sharp,</b>\nbut I’ll block every strike, ensure you're not scarred.\n" +
+        "<b>The only time I’ll ever let pierce through,</b>\nis my love for you, so fierce and true.\n\n" +
+        "<b>Jason may chase, but I’ll stand my ground,</b>\nWith you in my arms, I won’t make a sound.\n" +
+        "<b>Let him haunt the woods or the coldest lake,</b>\nI’m here to protect you, making no mistake.\n\n" +
+        "<b>Pennywise may lurk in the sewers below,</b>\nBut for you, I’d face every fear I know.\n" +
+        "<b>Let him try his tricks, his laugh, his bite,</b>\nI will be your protector, through Halloween night.";
     ]
 }

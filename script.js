@@ -33,7 +33,7 @@ function getTodaysPoem() {
     currentDate.setHours(0, 0, 0, 0);
     const offsetInDays = Math.floor((currentDate - baselineDate) / (1000 * 60 * 60 * 24));
     const poems = getPoems();
-    return poems[poems.length - 1];
+    return poems[offsetInDays % poems.length];
 }
 
 function getPoems() {

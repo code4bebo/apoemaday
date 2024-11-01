@@ -33,7 +33,6 @@ function getTodaysPoem() {
     currentDate.setHours(0, 0, 0, 0);
     const offsetInDays = Math.floor((currentDate - baselineDate) / (1000 * 60 * 60 * 24));
     const poems = getPoems();
-    //return poems[offsetInDays % poems.length];
     return poems[poems.length - 1];
 }
 
@@ -143,5 +142,10 @@ function getPoems() {
         "<b>Let him haunt the woods or the coldest lake,</b>\nI’m here to protect you, making no mistake.\n\n" +
         "<b>Pennywise may lurk in the sewers below,</b>\nBut for you, I’d face every fear I know.\n" +
         "<b>Let him try his tricks, his laugh, his bite,</b>\nI will be your protector, through Halloween night.",
+        "<b>Words cannot describe my love for you</b>\nno matter what I will write\nno matter what I will say\nit will never convey the feelings I have\n\n" +
+        "<b>Touch cannot describe my love for you</b>\nno matter how much I caress you\nno matter how much I kiss your face\nmy feelings are so, so much more\n\n" +
+        "<b>Actions cannot describe my love for you</b>\nno matter what I gift you\nno matter how often I open the door for you\nit will never be enough, to display my true love\n\n" +
+        "<b>Time cannot describe my love for you</b>\nno matter how many moments we share\nno matter how many months pass by\nit will never encompass my feelings for you\n\n" +
+        "<b>Words, touch, actions, and time fail me</b>\nmy love goes beyond what's felt or seen\nit is boundless, a silent promise\nfor a lifetime, and far beyond",
     ]
 }

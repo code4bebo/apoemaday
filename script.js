@@ -147,5 +147,9 @@ function getPoems() {
         "<b>Actions cannot describe my love for you</b>\nno matter what I gift you\nno matter how often I open the door for you\nit will never be enough, to display my true love\n\n" +
         "<b>Time cannot describe my love for you</b>\nno matter how many moments we share\nno matter how many months pass by\nit will never encompass my feelings for you\n\n" +
         "<b>Words, touch, actions, and time fail me</b>\nmy love goes beyond what's felt or seen\nit is boundless, a silent promise\nfor a lifetime, and far beyond",
+        "<b>her gaze?</b>\na soft warmth pulling me close,\nwhere everything fades, and it's just us,\nwrapped in quiet, timeless glow.\n\n" +  
+        "<b>her eyes?</b>\nlike autumn, deep and true,\ni get lost there, endlessly,\na calm that feels like coming home.\n\n" +  
+        "<b>her soul?</b>\nheld there, beneath those gentle shades,\nwhere fears dissolve, and peace remains,\na place i never want to leave.\n\n",
+
     ]
 }

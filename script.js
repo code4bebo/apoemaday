@@ -167,6 +167,6 @@ function getPoems() {
         "<b>let's make the universe ours tonight?</b>\n\nwith you, I'd explore the endless unknown,\nclaim every star as ours alone\nyes each constellation, a vow, a sign\nfor your heart is the brightest, forever mine <3\n",
         "<b>i love gaming with you</b>\nnot because of the game\nand not because of the gameplay\nbut because of you\nyour laugher, your singing, your humming, your humor, all these little things that make me fall in love\n\n" +
         "<b>i love watching shows with you</b>\nnot because of the story\nor because of the actors\nbut because of you\nyour engagement, your jokes, your funny comments, your enthusiasm about 'i know that guy!', and sharing all those emotions\n\n" +
-        "<b>i love cuddling with you</b>\nbeing wrapped in that warm embrace\nfeeling at ease, feeling at peace\nwhen i hold your hand, and kiss it, rnu my fingers along your arm, and you run yours along my head, my neck, my arms... i feel so soft and sweet, like i am a child again, and i love making you feel good\nthank you for allowing me to be with you in all those ways, you are so much more than perfect <3",
+        "<b>i love cuddling with you</b>\nbeing wrapped in that warm embrace\nfeeling at ease, feeling at peace\nwhen i hold your hand, and kiss it, run my fingers along your arm, and you run yours along my head, my neck, my arms... i feel so soft and sweet, like i am a child again, and i love making you feel good\nthank you for allowing me to be with you in all those ways, you are so much more than perfect <3",
     ]
 }

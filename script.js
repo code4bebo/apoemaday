@@ -155,5 +155,18 @@ function getPoems() {
         "<b>I may never fully know you</b>\nand see all the things you fear at first glance\nbut I will spend the rest of my life\nlearning to read it better\n\n" +
         "<b>I may never be able to fulfill you</b>\nall the dreams and wishes in your heart,\nbut I will spend the rest of my life\ngiving you the best i can\n\n" +
         "<b>I may never be perfect</b>\nor the prince of your dreams,\nbut I will spend the rest of my life\ngiving my all to be worthy of you.\n\n",
+        "<b>when you laugh after i make a joke</b>\nmy world lights up, colors burst alive\nsuddenly the ordinary is a dopamine dive\nstraight into joy, with you by my side\n\n" +
+        "<b>when you talk with me</b>\nevery word turns my doubts into dust\nyou make every thought shine\nand the bad ones combust\n\n" +
+        "<b>when you walk with me</b>\neach step starts a melody\na quiet rhythm guiding us\nturning every path into a memory\n\n" +
+        "<b>when you smile for me</b>\nthe whole day shifts from gray to gold\ni feel braver, stronger, happier\nencased in a warmth only you could mold\n\n" +
+        "<b>when you are near me</b>\neven silence becomes my favorite song\nwith you, I am finally at home\nand i found who was missing all along\n",
+        "<b>fly me to the moon?</b>\n\ni'd follow you through stars that light the way,\nto places unknown, feeling night turn to dawn\neach step with you, in your orbit drawn\nyes, with you, through night and day\n\n" +
+        "<b>shall we dance among the stars?</b>\n\nI can't dance at all, but for you I'd try,\nfeet stumbling, heart beating out of tune,\nunder the gaze, of a silver-lit moon\nas we twirl beneath the midnight sky\n\n" +
+        "<b>wish upon a shooting star?</b>\n\na whispered hope as it blazes through,\nI've wished a thousand, all for you\nfor every spark, a promise made,\nthat love like ours will never fade\n\n" +
+        "<b>hold my hand at the galaxy's edge?</b>\n\nwhere light grows faint, and space turns deep\nI'd follow you there, through dark and bright\nour journey beyond the stars we'll keep\nfor with you near, there's no fear in sight\n\n" +
+        "<b>let's make the universe ours tonight?</b>\n\nwith you, I'd explore the endless unknown,\nclaim every star as ours alone\nyes each constellation, a vow, a sign\nfor your heart is the brightest, forever mine <3\n",
+        "<b>i love gaming with you</b>\nnot because of the game\nand not because of the gameplay\nbut because of you\nyour laugher, your singing, your humming, your humor, all these little things that make me fall in love\n\n" +
+        "<b>i love watching shows with you</b>\nnot because of the story\nor because of the actors\nbut because of you\nyour engagement, your jokes, your funny comments, your enthusiasm about 'i know that guy!', and sharing all those emotions\n\n" +
+        "<b>i love cuddling with you</b>\nbeing wrapped in that warm embrace\nfeeling at ease, feeling at peace\nwhen i hold your hand, and kiss it, run my fingers along your arm, and you run yours along my head, my neck, my arms... i feel so soft and sweet, like i am a child again, and i love making you feel good\nthank you for allowing me to be with you in all those ways, you are so much more than perfect <3",
     ]
 }

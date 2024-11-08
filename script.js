@@ -174,5 +174,12 @@ function getPoems() {
         "<b>but beyond that there's more</b>\ncuddling with you, caressing you\ni want you to feel at ease, to feel unanxious\ni want to massage your back, and treat you like the beautiful princess you are to me\n\n" +
         "<b>you know what i want?</b>\nto be the man that makes you smile\nthe man that you can't wait to come home to after work\nthe man who you want to kiss your forehead, and hold you tight at night, all night long\n\n" +
         "<b>that is who i want to be...</b>\nand who i strive to be every day <3\nwords can never explain how perfect you are to me\nso i will spoil you with love to try and get close to expressing what i really feel\n",
+        "<h2>moving in</h2><b>engine noise, diesel fumes, doors closing</b>\ncreaking steps of stairs, sweat, sore arms\n<b>big trunk, arranging pieces like tetris</b>\ncar keys turning, music, autobahn noise\n\n" +
+        "<b>driving break, fast food smell, quick lunch</b>\nmore music, more singing, more autobahn\n<b>blue signs, 130 km/h, big world, big city</b>\nsqueaking breaks, searching parking spaces\n\n" +
+        "<b>entrance keys, sweat again, heavy lifting</b>\ncall elevator, load up, elevator ride, load off\n<b>rinse and repeat, elevator, and elevator</b>\ntoo small, stairs, out of breath, arms hurt\n\n" +
+        "<b>moving done, unpacking todo, sleep first</b>\nthe first night, snuggled up, so much love\n<b>the first day, still snuggling, arms so sore</b>\nget up, cardboard smell, big boxes, clothes\n\n" +
+        "<b>unpacking, clothing, full wardrobe, oops</b>\ncar ride, trailer, autobahn, ikea, meatballs\n<b>walking, confusion, distractions, decisions</b>\ntrailer door, grunting, drive, stairs, more boxes\n\n" +
+        "<b>music, instructions, sorting pieces, masterplan</b>\nwood smell, hammering, confusion, contemplation\n<b>dedication, realization, teamwork, success</b>\nunpacking, finishing, ripped up cardboard, trashbin\n\n" +
+        "<b>together. our home. our place. our life. us. forever.</b>",
     ]
 }

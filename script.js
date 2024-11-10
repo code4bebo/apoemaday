@@ -187,5 +187,12 @@ function getPoems() {
         "<b>night turns late, last treat, heading home</b>\nslightly drunk, laughing together, telling stories\n<b>cozy socks on, blankets piled, movie time</b>\npopcorn popping, snuggled warm, cuddled up\n\n" +
         "<b>eyes heavy, fading warmth, lifting you with care</b>\nsafe in bed, soft breaths shared, closer than ever\n<b>soft kisses, cheek to cheek, warm under blanket</b>\nfalling asleep, dreamy night, heart to heart\n\n" +
         "<b>just us. just home. wrapped up. warm together.</b>",
+        "<h2>perfection</h2><b>you are not hard to handle</b>\nstop thinking you are a burden\nor that your overthinking makes you one\ni promise you, you are not, and i don't mind your overthinking\n\n" +
+        "<b>you are not hard to love</b>\nit's quite the opposite, if i'm honest\nbecause there is so much perfection to love about you\ni promise you, you are the most lovable person i know\n\n" +
+        "<b>you are not a waste of time</b>\nif you ever thought that, please never do it again\nbecause i love spending time with you\ni promise you, every second with you is like heaven on earth\n\n" +
+        "<b>you are not annoying</b>\nand you never have been, never. ever.\ni know people in the past might have told you so\ni promise you, you did not annoy me once since i met you\n\n" +
+        "<b>you are not 'not enough'</b>\nyou are everything i could ever ask for\nyour lovable character, gorgeous body, beautiful face, <b>YOU.</b>\ni promise you, i love everything about you so, so much\n\n" +
+        "<b>you are not replacable</b>\nthere is noone quite as perfect as you out there\ni will never ever forget or replace you\nbecause i already found the perfect woman that i want to put a ring on, and i will never ever let her go, you will have to push me away to get rid of me, because i won't be leaving voluntarily. forget it.\n" +
+        "i promise you, i really mean to go all the way with you, and spend the rest of my life - our life - together with you\n\n<b>because i love every bit of you so freaking much <3</b>",
     ]
 }

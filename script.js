@@ -27,7 +27,7 @@ function getDaySuffix(day) {
 }
 
 function getTodaysPoem() {
-    const baselineDate = new Date("2024-10-21");
+    const baselineDate = new Date("2024-10-20");
     const currentDate = new Date();
     baselineDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);

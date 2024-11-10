@@ -27,7 +27,7 @@ function getDaySuffix(day) {
 }
 
 function getTodaysPoem() {
-    const baselineDate = new Date("2024-10-21");
+    const baselineDate = new Date("2024-10-20");
     const currentDate = new Date();
     baselineDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
@@ -181,5 +181,11 @@ function getPoems() {
         "<b>unpacking, clothing, full wardrobe, oops</b>\ncar ride, trailer, autobahn, ikea, meatballs\n<b>walking, confusion, distractions, decisions</b>\ntrailer door, grunting, drive, stairs, more boxes\n\n" +
         "<b>music, instructions, sorting pieces, masterplan</b>\nwood smell, hammering, confusion, contemplation\n<b>dedication, realization, teamwork, success</b>\nunpacking, finishing, ripped up cardboard, trashbin\n\n" +
         "<b>together. our home. our place. our life. us. forever.</b>",
+        "<h2>christmas market</h2><b>front door creaking, cold air, snowy streets</b>\nhand in hand, strolling along, towards xmas smell\n<b>twinkling lights, loud chatter, voices laughing</b>\ndecorations, christmas trees, choir singing\n\n" +
+        "<b>tummy growling, mouth watering, nose tingling</b>\nsweet crepes, powdered sugar, warm hands\n<b>sizzling stalls, sugar-glazed strawberries</b>\ncinnamon warmth, holiday tunes, wooden huts\n\n" +
+        "<b>crispy potato spirals, hot chocolate steam</b>\ncheeks red, scarves tight, mittened hands\n<b>lanterns glowing, laughter in the cold</b>\nstars above, footsteps crunch, holiday cheer\n\n" +
+        "<b>night turns late, last treat, heading home</b>\nslightly drunk, laughing together, telling stories\n<b>cozy socks on, blankets piled, movie time</b>\npopcorn popping, snuggled warm, cuddled up\n\n" +
+        "<b>eyes heavy, fading warmth, lifting you with care</b>\nsafe in bed, soft breaths shared, closer than ever\n<b>soft kisses, cheek to cheek, warm under blanket</b>\nfalling asleep, dreamy night, heart to heart\n\n" +
+        "<b>just us. just home. wrapped up. warm together.</b>",
     ]
 }

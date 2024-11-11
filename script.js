@@ -194,5 +194,9 @@ function getPoems() {
         "<b>you are not 'not enough'</b>\nyou are everything i could ever ask for\nyour lovable character, gorgeous body, beautiful face, <b>YOU.</b>\ni promise you, i love everything about you so, so much\n\n" +
         "<b>you are not replacable</b>\nthere is noone quite as perfect as you out there\ni will never ever forget or replace you\nbecause i already found the perfect woman that i want to put a ring on, and i will never ever let her go, you will have to push me away to get rid of me, because i won't be leaving voluntarily. forget it.\n" +
         "i promise you, i really mean to go all the way with you, and spend the rest of my life - our life - together with you\n\n<b>because i love every bit of you so freaking much <3</b>",
+        "<b>your past?</b>\na wound, heavy and deep,\netched with lies and scars you keep.\nbut darling, i'm here to help you mend,\nwith all I am, until the very end.\n\n" +
+        "<b>your trust?</b>\nshaken and fragile, like glass,\nyet in my hands, it shall forever last.\ni'll hold it close, guard it tight,\nbe your steady peace, your guiding light.\n\n" +
+        "<b>your heart?</b>\nonce shattered, now deserving of grace,\nlet me be your shelter, your safest place.\ni promise you, love, unbreakable and pure,\na future full of hope, forever secure\n\n" +
+        "<b>our tomorrow?</b>\na path of joy, a journey ahead,\nno more doubts, no more dread.\ni vow to love you, honest and true,\nand build our little world, just for me and you. &#10084;\n\n",
     ]
 }

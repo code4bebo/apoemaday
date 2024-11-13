@@ -202,5 +202,9 @@ function getPoems() {
         "<b>your body?</b>\nevery curve, every line, a dream to me,\nyou're the picture of pure beauty, as true as can be.\ni'm obsessed, my love, with all that you are,\nto me you're more beautiful, than the brightest star\n\n" +
         "<b>your insecurities?</b>\nthey're shadows, unfounded in my eyes' light,\ni'll remind you each day, i'll hold you tight.\nto me you're flawless, and endlessly rare,\ni'm obsessed, enchanted, way beyond compare.\n\n" +
         "<b>you?</b>\nmy idea of perfection, of endless delight,\nthe one i truly adore, from morning to night.\nevery part of you truthfully adored,\nin you, there's true beauty, and every day it grows more.\n",
+        "<b>in the quiet night, i lie alone,</b>\njust my thoughts, and the soft-lit phone.\n<b>yet with each buzz, i feel you near,</b>\na gentle whisper, from you, my dear.\n\n" +
+        "<b>i close my eyes, the world fades slow,</b>\nand in my arms, it's you I know.\n<b>the pillow's warmth, a soft embrace</b>\nbrings me closer to your distant place.\n\n" +
+        "<b>miles may keep our worlds apart,</b>\nbut you're here with me, heart to heart\n<b>every message, every sound</b>\nis a trace of you, that i have found\n\n" +
+        "<b>so i fall asleep, with you in mind,</b>\nin dreams, our hands and hearts entwined.\n<b>and though you're far tonight i swear</b>\nin my arms, you're truly there\n",
     ]
 }

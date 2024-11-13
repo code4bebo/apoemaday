@@ -187,5 +187,20 @@ function getPoems() {
         "<b>night turns late, last treat, heading home</b>\nslightly drunk, laughing together, telling stories\n<b>cozy socks on, blankets piled, movie time</b>\npopcorn popping, snuggled warm, cuddled up\n\n" +
         "<b>eyes heavy, fading warmth, lifting you with care</b>\nsafe in bed, soft breaths shared, closer than ever\n<b>soft kisses, cheek to cheek, warm under blanket</b>\nfalling asleep, dreamy night, heart to heart\n\n" +
         "<b>just us. just home. wrapped up. warm together.</b>",
+        "<h2>perfection</h2><b>you are not hard to handle</b>\nstop thinking you are a burden\nor that your overthinking makes you one\ni promise you, you are not, and i don't mind your overthinking\n\n" +
+        "<b>you are not hard to love</b>\nit's quite the opposite, if i'm honest\nbecause there is so much perfection to love about you\ni promise you, you are the most lovable person i know\n\n" +
+        "<b>you are not a waste of time</b>\nif you ever thought that, please never do it again\nbecause i love spending time with you\ni promise you, every second with you is like heaven on earth\n\n" +
+        "<b>you are not annoying</b>\nand you never have been, never. ever.\ni know people in the past might have told you so\ni promise you, you did not annoy me once since i met you\n\n" +
+        "<b>you are not 'not enough'</b>\nyou are everything i could ever ask for\nyour lovable character, gorgeous body, beautiful face, <b>YOU.</b>\ni promise you, i love everything about you so, so much\n\n" +
+        "<b>you are not replacable</b>\nthere is noone quite as perfect as you out there\ni will never ever forget or replace you\nbecause i already found the perfect woman that i want to put a ring on, and i will never ever let her go, you will have to push me away to get rid of me, because i won't be leaving voluntarily. forget it.\n" +
+        "i promise you, i really mean to go all the way with you, and spend the rest of my life - our life - together with you\n\n<b>because i love every bit of you so freaking much <3</b>",
+        "<b>your past?</b>\na wound, heavy and deep,\netched with lies and scars you keep.\nbut darling, i'm here to help you mend,\nwith all I am, until the very end.\n\n" +
+        "<b>your trust?</b>\nshaken and fragile, like glass,\nyet in my hands, it shall forever last.\ni'll hold it close, guard it tight,\nbe your steady peace, your guiding light.\n\n" +
+        "<b>your heart?</b>\nonce shattered, now deserving of grace,\nlet me be your shelter, your safest place.\ni promise you, love, unbreakable and pure,\na future full of hope, forever secure\n\n" +
+        "<b>our tomorrow?</b>\na path of joy, a journey ahead,\nno more doubts, no more dread.\ni vow to love you, honest and true,\nand build our little world, just for me and you. &#10084;\n\n",
+        "<b>your face?</b>\neach glance, each smile, is all i need,\nthe way your eyes shine, how your lips lead.\ni could stare forever, lost in your grace,\nyou're my definition of beauty, in every place.\n\n" +
+        "<b>your body?</b>\nevery curve, every line, a dream to me,\nyou're the picture of pure beauty, as true as can be.\ni'm obsessed, my love, with all that you are,\nto me you're more beautiful, than the brightest star\n\n" +
+        "<b>your insecurities?</b>\nthey're shadows, unfounded in my eyes' light,\ni'll remind you each day, i'll hold you tight.\nto me you're flawless, and endlessly rare,\ni'm obsessed, enchanted, way beyond compare.\n\n" +
+        "<b>you?</b>\nmy idea of perfection, of endless delight,\nthe one i truly adore, from morning to night.\nevery part of you truthfully adored,\nin you, there's true beauty, and every day it grows more.\n",
     ]
 }

@@ -206,5 +206,12 @@ function getPoems() {
         "<b>i close my eyes, the world fades slow,</b>\nand in my arms, it's you I know.\n<b>the pillow's warmth, a soft embrace</b>\nbrings me closer to your distant place.\n\n" +
         "<b>miles may keep our worlds apart,</b>\nbut you're here with me, heart to heart\n<b>every message, every sound</b>\nis a trace of you, that i have found\n\n" +
         "<b>so i fall asleep, with you in mind,</b>\nin dreams, our hands and hearts entwined.\n<b>and though you're far tonight i swear</b>\nin my arms, you're truly there\n",
+        "<h2>counting down</h2><b>55 hours</b> - wake up, think about cuddling with you\n<b>54 hours</b> - shower, think about hugging you\n<b>53 hours</b> - head to work, think about kissing you\n" +
+        "<b>52 hours</b> - eat krapfen, think about sharing them with you\n<b>51 hours</b> - coding, think about aot with you\n<b>50 hours</b> - lunch time, think about dinner with you\n" +
+        "<b>49 hours</b> - more coding, think about gaming with you\n<b>48 hours</b> - acoustic panels, think about moving in together\n<b>47 hours</b> - coffee gossip, think about movies with you\n" +
+        "<b>46 hours</b> - podcast ideas, think about talking to you\n<b>47 hours</b> - work end, think about coming home to you\n<b>46 hours</b> - lay down in bed, daydream about you\n" +
+        "<b>45 hours</b> - quick nap, dreaming all about you\n<b>44 hours</b> - gaming with you, loving your soft voice\n<b>43 hours</b> - still gaming, laughing with you\n" +
+        "<b>42 hours</b> - watching reels, constantly cutesy texting you\n<b>41 hours</b> - snacking haribo, thinking about laying next to you\n<b>40 hours</b> - finishing this text, loving you more than ever &#10084;\n" +
+        "\n40 more hours left to count, until i am the happiest man on planet earth again <3"
     ]
 }

@@ -212,6 +212,11 @@ function getPoems() {
         "<b>46 hours</b> - podcast ideas, think about talking to you\n<b>47 hours</b> - work end, think about coming home to you\n<b>46 hours</b> - lay down in bed, daydream about you\n" +
         "<b>45 hours</b> - quick nap, dreaming all about you\n<b>44 hours</b> - gaming with you, loving your soft voice\n<b>43 hours</b> - still gaming, laughing with you\n" +
         "<b>42 hours</b> - watching reels, constantly cutesy texting you\n<b>41 hours</b> - snacking haribo, thinking about laying next to you\n<b>40 hours</b> - finishing this text, loving you more than ever &#10084;\n" +
-        "\n40 more hours left to count, until i am the happiest man on planet earth again <3"
+        "\n40 more hours left to count, until i am the happiest man on planet earth again <3",
+        "<b>tomorrow?</b>\na day i've been waiting for, counting each hour\nfinally seeing you again, my beautiful flower\nyour presence, your touch, your smile so warm,\ni'm ready to lose myself in your charm\n\n" +
+        "<b>your forehead?</b>\na gentle kiss, my first hello\nand hugging you, not letting go\nthen your cheeks, so sweet and divine\nwith each kiss i whisper, 'you're forever mine'\n\n" +
+        "<b>your hands?</b>\nso soft, so perfect, entwined with mine\ni'll kiss them both, with love so fine\nthen your arms, massaging them with care\ndrawing us closer, nothing else can compare\n\n" +
+        "<b>your lips?</b>\nsoft, inviting, a taste of bliss\nwith every second, another kiss\ni'll kiss you, hold you, never let go\nunder the blanket love's warmth will flow\n\n" +
+        "<b>your eyes?</b>\nwhere my sight lingers, lost in their glow\na place where endless love will show\ni see all you are, so soft and sweet\nwith you, my love, i feel complete",
     ]
 }

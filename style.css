@@ -11,6 +11,11 @@ body {
     background: radial-gradient(circle, rgb(1, 11, 35) 0%, rgb(43, 1, 54) 100%);
 }
 
+a {
+    font-weight: bold;
+    color: rgba(209, 92, 255, 0.82);
+}
+
 h1 {
     font-size: 7rem;
     text-align: center;

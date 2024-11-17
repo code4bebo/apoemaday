@@ -218,5 +218,8 @@ function getPoems() {
         "<b>your hands?</b>\nso soft, so perfect, entwined with mine\ni'll kiss them both, with love so fine\nthen your arms, massaging them with care\ndrawing us closer, nothing else can compare\n\n" +
         "<b>your lips?</b>\nsoft, inviting, a taste of bliss\nwith every second, another kiss\ni'll kiss you, hold you, never let go\nunder the blanket love's warmth will flow\n\n" +
         "<b>your eyes?</b>\nwhere my sight lingers, lost in their glow\na place where endless love will show\ni see all you are, so soft and sweet\nwith you, my love, i feel complete",
+        "",
+        "<b>i listened to a lot of songs on my drive home today...</b>\nand i constantly imagined you sitting on the passenger seat, the whole ride home...\n\n" +
+        "",
     ]
 }

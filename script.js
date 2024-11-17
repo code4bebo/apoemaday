@@ -202,5 +202,24 @@ function getPoems() {
         "<b>your body?</b>\nevery curve, every line, a dream to me,\nyou're the picture of pure beauty, as true as can be.\ni'm obsessed, my love, with all that you are,\nto me you're more beautiful, than the brightest star\n\n" +
         "<b>your insecurities?</b>\nthey're shadows, unfounded in my eyes' light,\ni'll remind you each day, i'll hold you tight.\nto me you're flawless, and endlessly rare,\ni'm obsessed, enchanted, way beyond compare.\n\n" +
         "<b>you?</b>\nmy idea of perfection, of endless delight,\nthe one i truly adore, from morning to night.\nevery part of you truthfully adored,\nin you, there's true beauty, and every day it grows more.\n",
+        "<b>in the quiet night, i lie alone,</b>\njust my thoughts, and the soft-lit phone.\n<b>yet with each buzz, i feel you near,</b>\na gentle whisper, from you, my dear.\n\n" +
+        "<b>i close my eyes, the world fades slow,</b>\nand in my arms, it's you I know.\n<b>the pillow's warmth, a soft embrace</b>\nbrings me closer to your distant place.\n\n" +
+        "<b>miles may keep our worlds apart,</b>\nbut you're here with me, heart to heart\n<b>every message, every sound</b>\nis a trace of you, that i have found\n\n" +
+        "<b>so i fall asleep, with you in mind,</b>\nin dreams, our hands and hearts entwined.\n<b>and though you're far tonight i swear</b>\nin my arms, you're truly there\n",
+        "<h2>counting down</h2><b>55 hours</b> - wake up, think about cuddling with you\n<b>54 hours</b> - shower, think about hugging you\n<b>53 hours</b> - head to work, think about kissing you\n" +
+        "<b>52 hours</b> - eat krapfen, think about sharing them with you\n<b>51 hours</b> - coding, think about aot with you\n<b>50 hours</b> - lunch time, think about dinner with you\n" +
+        "<b>49 hours</b> - more coding, think about gaming with you\n<b>48 hours</b> - acoustic panels, think about moving in together\n<b>47 hours</b> - coffee gossip, think about movies with you\n" +
+        "<b>46 hours</b> - podcast ideas, think about talking to you\n<b>47 hours</b> - work end, think about coming home to you\n<b>46 hours</b> - lay down in bed, daydream about you\n" +
+        "<b>45 hours</b> - quick nap, dreaming all about you\n<b>44 hours</b> - gaming with you, loving your soft voice\n<b>43 hours</b> - still gaming, laughing with you\n" +
+        "<b>42 hours</b> - watching reels, constantly cutesy texting you\n<b>41 hours</b> - snacking haribo, thinking about laying next to you\n<b>40 hours</b> - finishing this text, loving you more than ever &#10084;\n" +
+        "\n40 more hours left to count, until i am the happiest man on planet earth again <3",
+        "<b>tomorrow?</b>\na day i've been waiting for, counting each hour\nfinally seeing you again, my beautiful flower\nyour presence, your touch, your smile so warm,\ni'm ready to lose myself in your charm\n\n" +
+        "<b>your forehead?</b>\na gentle kiss, my first hello\nand hugging you, not letting go\nthen your cheeks, so sweet and divine\nwith each kiss i whisper, 'you're forever mine'\n\n" +
+        "<b>your hands?</b>\nso soft, so perfect, entwined with mine\ni'll kiss them both, with love so fine\nthen your arms, massaging them with care\ndrawing us closer, nothing else can compare\n\n" +
+        "<b>your lips?</b>\nsoft, inviting, a taste of bliss\nwith every second, another kiss\ni'll kiss you, hold you, never let go\nunder the blanket love's warmth will flow\n\n" +
+        "<b>your eyes?</b>\nwhere my sight lingers, lost in their glow\na place where endless love will show\ni see all you are, so soft and sweet\nwith you, my love, i feel complete",
+        "",
+        "<b>i listened to a lot of songs on my drive home today...</b>\nand i constantly imagined you sitting on the passenger seat, the whole ride home...\n\n" +
+        "",
     ]
 }

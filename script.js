@@ -219,7 +219,53 @@ function getPoems() {
         "<b>your lips?</b>\nsoft, inviting, a taste of bliss\nwith every second, another kiss\ni'll kiss you, hold you, never let go\nunder the blanket love's warmth will flow\n\n" +
         "<b>your eyes?</b>\nwhere my sight lingers, lost in their glow\na place where endless love will show\ni see all you are, so soft and sweet\nwith you, my love, i feel complete",
         "",
-        "<b>i listened to a lot of songs on my drive home today...</b>\nand i constantly imagined you sitting on the passenger seat, the whole ride home...\n\n" +
-        "",
+        "<b>i listened to a lot of songs on my drive home today...</b>\nand i constantly imagined you sitting on the passenger seat, the whole ride home...\nand every one reminded me of you, because...\n\n" +
+        "i would walk over <a href='https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7?si=dc9763b9a882417f'>Landmines</a> for you\n" +
+        "i want to spoil you with gifts, like a <a href='https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa?si=b76945e45d784ce8'>Heart-Shaped Box</a>\n" +
+        "i love it when we <a href='https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx?si=5a859da856f24b68'>GOSSIP</a> about things\n" +
+        "i love kissing you, even though i got some <a href='https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN?si=0263b06f10fc4fa2'> Fat Lip</a>s\n" +
+        "i only ever would <a href='https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7?si=5374ecd3e5bb4b55'>Dance, Dance</a> with you\n" +
+        "maybe one day i'll go and finally hit the gym again, to <a href='https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc?si=788f1178085d4826'>Pump It</a>, to look better for you\n" +
+        "i want to <a href='https://open.spotify.com/track/5O6SumCYk8Ug81UbfXAPJC?si=e21baad53d544f87'>Give It All</a> i have, to make you happy\n" +
+        "people in your past might've been <a href='https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt?si=2885323175d94219'>Two Faced</a>\nbut i promise, to you i only show my real face\n" +
+        "take my hand, and kiss me <a href='https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd?si=89ad4706627d4744'>In the Shadows</a>\n" +
+        "because anywhere, anytime, and forever, you are <a href='https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r?si=1cac808d63184c4f'>All I Want</a>\n" +
+        "i want to be by your side, to be your <a href='https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB?si=9ec402414b7146ef'>Savior</a>\n" +
+        "i still remember our <a href='https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP?si=18f00ca62cb74ea1'>First Date</a>, and our First Kiss\n" +
+        "and while i'm often scared to <a href='https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX?si=db638ed9d9d04dad'>Break Stuff</a>, because i tend to be a stupid idiot\n" +
+        "i'm still sure we'll always have our <a href='https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z?si=d63ffb61f39e4c7a'>Houdini</a> moment, and make anything work out\n" +
+        "the young, little Marco thought to himself: <a href='https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT?si=ca0c7ba0a2494007'>You're Gonna Go Far, Kid</a>\nand he was right, because i'm here, with you by my side\n" +
+        "and while it's obsolete to say this... <a href='https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf?si=b3ff66fb05224465'>i like the way you kiss me</a>, like... <b>really</b> like it...\n" +
+        "little Marco would probably think i am <a href='https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA?si=922654ab9f3945ae'>Pretty Fly</a>, since i have such a beautiful and perfect woman by my side\n" +
+        "at the start of 2024 i really thought my feelings would stay <a href='https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h?si=715654aa84ba4996'>Numb</a>\n" +
+        "that i would have to suffer and <a href='https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA?si=c5135d5539824598'>Bleed It Out</a>\n" +
+        "'<a href='https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK?si=2aa2ed7cbefd426a'>Heavy Is the Crown</a>', i thought to myself, trying to cheer up\n" +
+        "i started getting <a href='https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs?si=48c227efef2e466c'>Rusted From the Rain</a>, feeling down\n" +
+        "but with you by my side, i feel like we're <a href='https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0?si=1c588d03ac5b4d30'>Teenagers</a> madly in love with eachother\n" +
+        "and while i am <a href='https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD?si=6aa25d3baacf4c19'>Still Waiting</a> for you to come to Austria\n" +
+        "i'll try and prepare myself to not <a href='https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU?si=2343757ac78e482f'>Faint</a> once it really happens\n" +
+        "it is <a href='https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU?si=650199f1f1f2496f'>All The Small Things</a> you do, that really fill my heart\n" +
+        "i am sure we will never ever be <a href='https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe?si=f3867da5e81442c7'>Over Each Other</a>\n" +
+        "because i just <a href='https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx?si=ccb360d381c2419d'>Can't Stop</a> loving you so, so much\n" +
+        "i wanna be <a href='https://open.spotify.com/track/3IV4swNduIRunHREK80owz?si=610d797f11374b0f'>Rollin'</a> with you for the rest of my life\n" +
+        "and while boys <a href='https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn?si=df6009e4447444b2'>Don't Stay</a>, i promise to be the man that does.\n" +
+        "i bet the old people at the greek restauraunt today thought <a href='https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf?si=eb0dc3312c1d4b5d'>The Kids Aren't Alright</a>, when they heard us talking about video games and stuff... hihi\n" +
+        "i will never ever <a href='https://open.spotify.com/track/5mFZipkX1HZ4Idz5LOWpzq?si=33fcb4c7fd5b460c'>Cut the Bridge</a> between our hearts\n" +
+        "and i'm glad neither one of us is an <a href='https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj?si=f769041bd2d345b2'>American Idiot</a>, because we made the right choice when voting for who we want by our side\n" +
+        "I <a href='https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7?si=b31cc06ab0c54ce0'>Want You Bad</a>, like really bad, i want to kiss you right now\n" +
+        "whatever you want to do together, <a href='https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe?si=cbf251e525804ce9'>Dear Bianca, Count Me In</a> <i>(might've messed with the title here, hihi)</i>\n" +
+        "without you, my heart would just be a <a href='https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9?si=5e254e85b87a4ea3'>Supermassive Black Hole</a>\n" +
+        "we can do anything together, because <a href='https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa?si=0e4a5f6a726143c3'>We Got the Moves</a>\n" +
+        "and our love <a href='https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj?si=90bb3cee37074a27'>Smells Like Teen Spirit</a>\n" +
+        "you make my heart go <a href='https://open.spotify.com/track/5tXgNRHlUyfrc7P5GgpwnI?si=e44ffc23f3de4c1f'>Hypa Hypa</a> every single day, and it never stops\n" +
+        "if i only had <a href='https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK?si=03fffe119f944e8e'>One Last Dance</a> in life, i'd want to have it with you\n" +
+        "and while some of your past partners were the embodiment of <a href='https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A?si=bab29ebac9bd420e'>The Emptiness Machine</a>\n" +
+        "and said that <a href='https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc?si=3045957ca13f43ef'>You Give Love A Bad Name</a>, and put the blame on you\n" +
+        "those were all just some <a href='https://open.spotify.com/track/3jUTjCISntIUFL8jnAjzgc?si=7b3ca5033d6c42e9'>Fallen Leaves</a>, that don't have true meaning behind them\n" +
+        "yes, they may have <a href='https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF?si=138ac166b2ef46c3'>Stained</a> your past,\nbut that does not stop us, from having our beautiful future together\n" +
+        "because <a href='https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk?si=903e47922b344f9d'>Everytime We Touch</a>, my emotions skyrocket, in a surge of pure happiness\n" +
+        "the others may have left you, <a href='https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO?si=3a85e54269004b0b'>Okay, But This Is The Last Time</a> you had to fall in love, because i am here to stay, and i don't plan on ever leaving\n" +
+        "even if one day it's gonna be <a href='https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED?si=c198ad07126f4521'>The Downfall Of Us All</a>\n" +
+        "i will stay with you, for <a href='https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=93954abd48414c13'>Everlong</a>\n",
     ]
 }

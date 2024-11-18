@@ -267,5 +267,13 @@ function getPoems() {
         "the others may have left you, <a href='https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO?si=3a85e54269004b0b'>Okay, But This Is The Last Time</a> you had to fall in love, because i am here to stay, and i don't plan on ever leaving\n" +
         "even if one day it's gonna be <a href='https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED?si=c198ad07126f4521'>The Downfall Of Us All</a>\n" +
         "i will stay with you, for <a href='https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=93954abd48414c13'>Everlong</a>\n",
+        "<h2>a wish</h2><b>if i had one wish right now</b>\none wish to shape my future\n<b>without hesitation, i'd wish for you</b>\ni'd wish for us, for us to be forever\n\n" +
+        "<b>wish for you to lay by my side</b>\nso i can scratch your back, and kiss you<b>\nkiss your forehead, your cheeks, your hands</b>\nbut most importantly your beautiful, soft lips\n\n" +
+        "<b>wish for us to be together here</b>\nto build your little gaming room\n<b>to decorate it together, just us</b>\nto build our own little home, how we want it\n\n" +
+        "<b>wish for us to walk the old town together</b>\nto look at all the cute christmas decorations\n<b>and to see you smile because of them</b>\nseeing you smile so excitedly makes me happy\n\n" +
+        "<b>wish for us to snuggle up every night</b>\nwatching our shows and movies together\n<b>cracking jokes and tearing up, you and me</b>\nsharing those wonderful little moments together\n\n" +
+        "<b>wish to be able to truly convey how i feel</b>\ni think about all these things i said\n<b>multiple times a day, every day</b>\nand i really mean it when i say\n" +
+        "<b>never ever have i wanted something as much</b>\nas i want to be able to be with you\n<b>to call you my wife, and live our lifes together</b>\nevery single day, i fall in love with you\n\n" +
+        "<b>and every single day, that love grows stronger... &#10084;</b>",
     ]
 }

@@ -27,7 +27,7 @@ function getDaySuffix(day) {
 }
 
 function getTodaysPoem() {
-    const baselineDate = new Date("2024-10-20");
+    const baselineDate = new Date("2024-10-19");
     const currentDate = new Date();
     baselineDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
@@ -275,5 +275,13 @@ function getPoems() {
         "<b>wish to be able to truly convey how i feel</b>\ni think about all these things i said\n<b>multiple times a day, every day</b>\nand i really mean it when i say\n" +
         "<b>never ever have i wanted something as much</b>\nas i want to be able to be with you\n<b>to call you my wife, and live our lifes together</b>\nevery single day, i fall in love with you\n\n" +
         "<b>and every single day, that love grows stronger... &#10084;</b>",
+        "<h2>walk</h2><b>i want to go on a walk with you</b>\na walk during spring\n\n" +
+        "<b>seeing all those pretty flowers blossom</b>\nfinally hearing birds chirp vividly again\n<b>with the last remainder of snow</b>\nbeing pierced by saturated greens\n\n" +
+        "<b>i want to go on a walk with you</b>\na walk during summer\n\n" +
+        "<b>somewhere calm along the water</b>\nbreathing in warm, humid summer air\n<b>walking along shores and river banks</b>\npassively bathing in the sun\n\n" +
+        "<b>i want to go on a walk with you</b>\na walk during autumn\n\n" +
+        "<b>walking through the parks in our city</b>\nleaves on the ground, children playing around\n<b>all those orange, yellow, red, brown hues</b>\nso colorful, and pretty, just like you\n\n" +
+        "<b>i want to go on a walk with you</b>\na walk during winter\n\n" +
+        "<b>hearing the snow crunch beneath our boots</b>\nfreezing air, but cozy & warm mitten and clothes\nfestive decorations at every corner\nwith the prettiest snowflakes falling onto our little heads <3",
     ]
 }

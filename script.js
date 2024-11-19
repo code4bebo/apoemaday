@@ -27,7 +27,7 @@ function getDaySuffix(day) {
 }
 
 function getTodaysPoem() {
-    const baselineDate = new Date("2024-10-19");
+    const baselineDate = new Date("2024-10-20");
     const currentDate = new Date();
     baselineDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
@@ -282,6 +282,6 @@ function getPoems() {
         "<b>i want to go on a walk with you</b>\na walk during autumn\n\n" +
         "<b>walking through the parks in our city</b>\nleaves on the ground, children playing around\n<b>all those orange, yellow, red, brown hues</b>\nso colorful, and pretty, just like you\n\n" +
         "<b>i want to go on a walk with you</b>\na walk during winter\n\n" +
-        "<b>hearing the snow crunch beneath our boots</b>\nfreezing air, but cozy & warm mitten and clothes\nfestive decorations at every corner\nwith the prettiest snowflakes falling onto our little heads <3",
+        "<b>hearing the snow crunch beneath our boots</b>\nfreezing air, but cozy & warm mitten and clothes\n<b>festive decorations and sweet treats at every corner</b>\nwith the prettiest snowflakes falling onto our little heads <3",
     ]
 }

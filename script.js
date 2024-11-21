@@ -287,5 +287,12 @@ function getPoems() {
         "<b>in your heart, i see it day by day</b>\nso much love, that won't ever decay\n<b>each step you take, to make us two whole</b>\ndeepens our love, our bond, our soul\n\n" +
         "<b>each second with you, is a treasure so rare</b>\nmy world is full of joy, when you are there\n<b>our laughing echoes, our hearts entwine</b>\ni'll give it my all, to make you mine\n\n" +
         "<b>tonight, i glimpsed a life with you</b>\nmy biggest dream, come brightly true\n<b>thank you dear, for taking time and showing me</b>\nthat my cozy home, is wherever you choose to be <3",
+                "<b>people say life will never be like movies, or shows</b>\nthat the things that happen there are purely fictional\n<b>that love like that could never exist for real</b>\nand those people are right... kind of\n\n" +
+        "<b>there will never be love without tears</b>\nwithout disasgreements, sadness, and even arguments\n<b>never without ups and downs</b>\nand never without difficult or challenging times\n\n" +
+        "<b>but what these people don't know...</b>\nis that there can be love as strong as in fiction\n<b>like the kind that Mikasa feels for Eren</b>\nit sometimes reminds me of my feelings for you\n\n" +
+        "<b>because no matter what happens</b>\nno matter how challenging things might be\n<b>i will stay by your side, i won't leave</b>\nif you ever want to get rid of me, it's gonna have to be you who does it\n\n" +
+        "<b>no matter what you say or do</b>\nno matter how upset or hurt i should be\n<b>i will never leave you, because i love you</b>\ni truly love you, with all that i have\n\n" +
+        "<b>the times where people hurt you</b>\nand where people only care about themselves\n<b>those times are over, because i only care about you</b>\ni'll fight through anything, in order to be with you\n\n" +
+        "<b>and i will not stop before we grow old</b>\nbefore we move in together\n<b>before we live our everyday lifes together</b>\nand before we share the same last name\n\n<b>i'm here for the long run bianca, and i've never been an early quitter <3</b>",
     ]
 }

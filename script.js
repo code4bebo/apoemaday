@@ -283,5 +283,9 @@ function getPoems() {
         "<b>walking through the parks in our city</b>\nleaves on the ground, children playing around\n<b>all those orange, yellow, red, brown hues</b>\nso colorful, and pretty, just like you\n\n" +
         "<b>i want to go on a walk with you</b>\na walk during winter\n\n" +
         "<b>hearing the snow crunch beneath our boots</b>\nfreezing air, but cozy & warm mitten and clothes\n<b>festive decorations and sweet treats at every corner</b>\nwith the prettiest snowflakes falling onto our little heads <3",
+        "<b>in your eyes, i see the stars align</b>\nyour love so pure, it feels divine\n<b>for all you give, and all you do</b>\ni'm so endlessly grateful, grateful for you\n\n" +
+        "<b>in your heart, i see it day by day</b>\nso much love, that won't ever decay\n<b>each step you take, to make us two whole</b>\ndeepens our love, our bond, our soul\n\n" +
+        "<b>each second with you, is a treasure so rare</b>\nmy world is full of joy, when you are there\n<b>our laughing echoes, our hearts entwine</b>\ni'll give it my all, to make you mine\n\n" +
+        "<b>tonight, i glimpsed a life with you</b>\nmy biggest dream, come brightly true\n<b>thank you dear, for taking time and showing me</b>\nthat my cozy home, is wherever you choose to be <3",
     ]
 }

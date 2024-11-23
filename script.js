@@ -304,5 +304,12 @@ function getPoems() {
         "of course sometimes we disagree\nsome pieces in the puzzle aren't a perfect fit\nsome have wiggle room, some scratched paint\nbut you can still make a beautiful puzzle out of them\n\n" +
         "and i want to build a puzzle with you\nthat spans over a lifetime\na puzzle of all our memories\nbecause we are meant for eachother\n\n" +
         "i want to build this puzzle\nwith noone else but you\ni am yours, truly yours, and i am so proud to be\nso please, will you be mine, for eternity? &#10084;",
+        "<b>i will never stop texting you good morning</b>\nyou are the reason my mornings are great\nso i'll try me best to make yours great too\neven if its just a teeny tiny message\n\n" +
+        "<b>i will never stop making you compliments</b>\nbecause my words will never be enough\nto actually encapsule your beauty\nfor you are the most gorgeous woman in the world in my eyes\n\n" +
+        "<b>i will never stop gaming with you</b>\nbecause you make everything so much more fun\nthe jokes we crack, hearing your pretty laugh\nand having our own little hype moments together\n\n" +
+        "<b>i will never stop watching shows with you</b>\nbecause you always teach me new things\nand it's so cute when you're invested in the story\nit makes me smile and giggle everytime\n\n" +
+        "<b>i will never stop writing these texts</b>\nbecause no words can describe my true feelings\nbut i will keep trying everday\nas long as it makes you smile even a little bit\n\n" +
+        "<b>lastly... i will never stop loving you</b>\nbecause you showed me what true love means\nand i want to give everything i have\nto try and make your life as beautiful as possible for a simple man like me\n\n" +
+        "i am yours, and only yours. you won my heart, not just one time, but you win it once more every single day i am with you",
     ]
 }

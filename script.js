@@ -294,5 +294,15 @@ function getPoems() {
         "<b>no matter what you say or do</b>\nno matter how upset or hurt i should be\n<b>i will never leave you, because i love you</b>\ni truly love you, with all that i have\n\n" +
         "<b>the times where people hurt you</b>\nand where people only care about themselves\n<b>those times are over, because i only care about you</b>\ni'll fight through anything, in order to be with you\n\n" +
         "<b>and i will not stop before we grow old</b>\nbefore we move in together\n<b>before we live our everyday lifes together</b>\nand before we share the same last name\n\n<b>i'm here for the long run bianca, and i've never been an early quitter <3</b>",
+        "<h2>how?</h2how do you do it?\ni really want to know\nwhat is your secret, your key\nthat makes me so endlessly happy\n\n" +
+        "when you're cuddling with me\nwhen we're watching shows together\nwhen you laugh about my jokes\n... when you say 'i love you'\n\n" +
+        "there is no single other thing on earth\nno other thing in this universe\nthat makes me feel so carefree\nthat makes me feel in love with you, limitless\n\n" +
+        "whatever you are doing\nplesae keep doing it, i beg you\nkeep doing what you're doing\nand please do it even more\n\n" +
+        "i know this is just words on your phone screen\ni know i'm not even saying it out loud\nyou're just reading it, but please\nplease keep doing it, as much and often as you can\n\n" +
+        "there is nothing in this world\nthat makes me even remotely as happy as you do\ni am addicted, but i'm proudly addicted\naddicted to you, and the ways you love me\n\n" +
+        "the last months felt so surreal\nbecause i can't believe it came ot of nowhere\nfinding the one i truly want to be with\nand matching like a puzzle in so, so many aspects\n\n" +
+        "of course sometimes we disagree\nsome pieces in the puzzle aren't a perfect fit\nsome have wiggle room, some scratched paint\nbut you can still make a beautiful puzzle out of them\n\n" +
+        "and i want to build a puzzle with you\nthat spans over a lifetime\na puzzle of all our memories\nbecause we are meant for eachother\n\n" +
+        "i want to build this puzzle\nwith noone else but you\ni am yours, truly yours, and i am so proud to be\nso please, will you be mine, for eternity? &#10084;",
     ]
 }

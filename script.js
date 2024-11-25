@@ -311,5 +311,16 @@ function getPoems() {
         "<b>i will never stop writing these texts</b>\nbecause no words can describe my true feelings\nbut i will keep trying everday\nas long as it makes you smile even a little bit\n\n" +
         "<b>lastly... i will never stop loving you</b>\nbecause you showed me what true love means\nand i want to give everything i have\nto try and make your life as beautiful as possible for a simple man like me\n\n" +
         "i am yours, and only yours. you won my heart, not just one time, but you win it once more every single day i am with you",
+                "<h2>thank you</h2>\nthank you for always being there for me\nthank you for listening to my concerns\nthank you for being there when i overthink\nthank you for doing all those little things\nthank you for telling me where you're going" +
+        "\nthank you for telling me who you're calling with\nthank you for telling me how you truly feel\nthank you for telling me what concerns you\nthank you for telling me your bad thoughts\nthank you for telling me your fears\n" +
+        "thank you for trusting me\nthank you for watching shows with me\nthank you for making me smile\nthank you for making me happy\nthank you for making my life so much better\nthank you for loving me\n" +
+        "thank you for making me compliments\nthank you for calling me cute\nthank you for telling me you love me\nthank you for sending cute couple memes\nthank you for cuddling with me\nthank you for being there at all times\n" +
+        "thank you for not judging me\nthank you for understanding me\nthank you for laughing at my bad jokes\nthank you for spending time with me\nthank you for texting with me everyday\nthank you for putting up with my annoying fears\n" +
+        "thank you for giving me security\nthank you for telling me all those cute things\nthank you for being the missing puzzle piece\nthank you for staying by my side\nthank you for being my beautiful girlfriend\nthank you for" +
+        "playing games with me\nthank you for letting me hear your voice\nthank you for being the cutest girl in the world\nthank you for being so unbelievably perfect\nthank you for being so, so gorgeous\nthank you for being insanely hot\n" +
+        "thank you for not expecting me to be 'a man' at all times\nthank you for allowing me to cry\nthank you for caring about me\nthank you for showing empathy for all my delusions\nthank you for loving me\n" +
+        "<b>thank you... thank you for everything</b>\n\nthere is so much more that i want to thank you for, and no matter how often i say it, i feel like it's never enough... so i want to keep saying it, and keep saying it" +
+        "and keep saying it... until i've said it enough... i don't think that moment will ever come... so i'll keep thanking you for all that you do, for all the things, and for being the woman i am able to love with all my heart\n\n" +
+        "<b>thank you for everything, bianca <3</b>",
     ]
 }

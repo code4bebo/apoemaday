@@ -27,7 +27,7 @@ function getDaySuffix(day) {
 }
 
 function getTodaysPoem() {
-    const baselineDate = new Date("2024-10-20");
+    const baselineDate = new Date("2024-10-21");
     const currentDate = new Date();
     baselineDate.setHours(0, 0, 0, 0);
     currentDate.setHours(0, 0, 0, 0);
@@ -287,5 +287,29 @@ function getPoems() {
         "<b>in your heart, i see it day by day</b>\nso much love, that won't ever decay\n<b>each step you take, to make us two whole</b>\ndeepens our love, our bond, our soul\n\n" +
         "<b>each second with you, is a treasure so rare</b>\nmy world is full of joy, when you are there\n<b>our laughing echoes, our hearts entwine</b>\ni'll give it my all, to make you mine\n\n" +
         "<b>tonight, i glimpsed a life with you</b>\nmy biggest dream, come brightly true\n<b>thank you dear, for taking time and showing me</b>\nthat my cozy home, is wherever you choose to be <3",
+                "<b>people say life will never be like movies, or shows</b>\nthat the things that happen there are purely fictional\n<b>that love like that could never exist for real</b>\nand those people are right... kind of\n\n" +
+        "<b>there will never be love without tears</b>\nwithout disasgreements, sadness, and even arguments\n<b>never without ups and downs</b>\nand never without difficult or challenging times\n\n" +
+        "<b>but what these people don't know...</b>\nis that there can be love as strong as in fiction\n<b>like the kind that Mikasa feels for Eren</b>\nit sometimes reminds me of my feelings for you\n\n" +
+        "<b>because no matter what happens</b>\nno matter how challenging things might be\n<b>i will stay by your side, i won't leave</b>\nif you ever want to get rid of me, it's gonna have to be you who does it\n\n" +
+        "<b>no matter what you say or do</b>\nno matter how upset or hurt i should be\n<b>i will never leave you, because i love you</b>\ni truly love you, with all that i have\n\n" +
+        "<b>the times where people hurt you</b>\nand where people only care about themselves\n<b>those times are over, because i only care about you</b>\ni'll fight through anything, in order to be with you\n\n" +
+        "<b>and i will not stop before we grow old</b>\nbefore we move in together\n<b>before we live our everyday lifes together</b>\nand before we share the same last name\n\n<b>i'm here for the long run bianca, and i've never been an early quitter <3</b>",
+        "<h2>how?</h2>how do you do it?\ni really want to know\nwhat is your secret, your key\nthat makes me so endlessly happy\n\n" +
+        "when you're cuddling with me\nwhen we're watching shows together\nwhen you laugh about my jokes\n... when you say 'i love you'\n\n" +
+        "there is no single other thing on earth\nno other thing in this universe\nthat makes me feel so carefree\nthat makes me feel in love with you, limitless\n\n" +
+        "whatever you are doing\nplesae keep doing it, i beg you\nkeep doing what you're doing\nand please do it even more\n\n" +
+        "i know this is just words on your phone screen\ni know i'm not even saying it out loud\nyou're just reading it, but please\nplease keep doing it, as much and often as you can\n\n" +
+        "there is nothing in this world\nthat makes me even remotely as happy as you do\ni am addicted, but i'm proudly addicted\naddicted to you, and the ways you love me\n\n" +
+        "the last months felt so surreal\nbecause i can't believe it came ot of nowhere\nfinding the one i truly want to be with\nand matching like a puzzle in so, so many aspects\n\n" +
+        "of course sometimes we disagree\nsome pieces in the puzzle aren't a perfect fit\nsome have wiggle room, some scratched paint\nbut you can still make a beautiful puzzle out of them\n\n" +
+        "and i want to build a puzzle with you\nthat spans over a lifetime\na puzzle of all our memories\nbecause we are meant for eachother\n\n" +
+        "i want to build this puzzle\nwith noone else but you\ni am yours, truly yours, and i am so proud to be\nso please, will you be mine, for eternity? &#10084;",
+        "<b>i will never stop texting you good morning</b>\nyou are the reason my mornings are great\nso i'll try me best to make yours great too\neven if its just a teeny tiny message\n\n" +
+        "<b>i will never stop making you compliments</b>\nbecause my words will never be enough\nto actually encapsule your beauty\nfor you are the most gorgeous woman in the world in my eyes\n\n" +
+        "<b>i will never stop gaming with you</b>\nbecause you make everything so much more fun\nthe jokes we crack, hearing your pretty laugh\nand having our own little hype moments together\n\n" +
+        "<b>i will never stop watching shows with you</b>\nbecause you always teach me new things\nand it's so cute when you're invested in the story\nit makes me smile and giggle everytime\n\n" +
+        "<b>i will never stop writing these texts</b>\nbecause no words can describe my true feelings\nbut i will keep trying everday\nas long as it makes you smile even a little bit\n\n" +
+        "<b>lastly... i will never stop loving you</b>\nbecause you showed me what true love means\nand i want to give everything i have\nto try and make your life as beautiful as possible for a simple man like me\n\n" +
+        "i am yours, and only yours. you won my heart, not just one time, but you win it once more every single day i am with you",
     ]
 }

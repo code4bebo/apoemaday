@@ -334,5 +334,17 @@ function getPoems() {
         "and i am endlessly thankful, that it is you, in the exact way your are, with all your little perfect imperfections, and nobody else," +
         "because i want nobody else, everything i want has six letters in her name, lives in a pretty town in bavaria, and has the prettiest face," +
         "cutest smile, most heartwarming laugh, most insanely gorgeous body, and is a whopping 1000/10 package, in every single way <3",
+                "",
+        "",
+        "<h2>i am sure</h2>i am 100% sure bianca\n100% sure that i want to be with you\nto spend the rest of my life with you\nand to give it my all for you\n\n" +
+        "you wanna know why?\ni've seen you laugh, smile, love me\nbut i've also seen your lows\nyour insecurities and perfect imperfections\n\n" +
+        "your trauma, your doubts\ni've seen you tremble, even scared\ni've seen you upset, and full of regret\ni've seen you ready to throw it all away\n\n" +
+        "and yet? i love you, everything about you\nnot once have i stopped loving you\nnot once have i even doubted my love\nand not once did i think about giving up\n\n" +
+        "because you are way too perfect\nway too perfect to just give up\ni want to fight, cry, beat myself up\ni'm ready to do anything to be with you\n\n" +
+        "i've told you, and i'll tell you again\ni am not giving you up\nno matter what happens\ni will stay by your side\n\n" +
+        "because i truly do love you\nand i truly do want to make you happy\nand want to become the perfect man\n... to become your husband\n\n" +
+        "because i have a dream\nthat one day you'll proudly call me that\nyour husband, not just for ourselves\nbut also in front of others\n\n" +
+        "to be the one you proudly introduce\nto your friends, your family\nyour enemies, the people you dislike\nand in front of all other females around us\n\n" +
+        "because i am yours\nand i will forever be yours\njust yours, because that's all i want\nto be the husband you're proud of <3",
     ]
 }

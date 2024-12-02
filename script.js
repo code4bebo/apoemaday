@@ -33,7 +33,8 @@ function getTodaysPoem() {
     currentDate.setHours(0, 0, 0, 0);
     const offsetInDays = Math.floor((currentDate - baselineDate) / (1000 * 60 * 60 * 24));
     const poems = getPoems();
-    return poems[offsetInDays % poems.length];
+    return poems[poems.length - 1];
+    //return poems[offsetInDays % poems.length];
 }
 
 function getPoems() {
@@ -346,5 +347,37 @@ function getPoems() {
         "because i have a dream\nthat one day you'll proudly call me that\nyour husband, not just for ourselves\nbut also in front of others\n\n" +
         "to be the one you proudly introduce\nto your friends, your family\nyour enemies, the people you dislike\nand in front of all other females around us\n\n" +
         "because i am yours\nand i will forever be yours\njust yours, because that's all i want\nto be the husband you're proud of <3",
+                "<h2>love</h2>it's the most natural thing to be jealous\nto fear of losing someone\nand i will never ever judge you for that\nbecause i feel the same way\n\n" +
+        "i am scared to lose you\ni am so scared to lose the one i love\nthe one i want to spend my life with\nthe one i want to call my wife\n\n" +
+        "and not just 'the one', but the only one\nthat is able to make me feel that way\nand that person is you, bianca\ni am scared to lose YOU.\n\n" +
+        "never once in my life was i more sure\nthat i want to be with someone forever\nthat i want to spend my life with that person\nthat i want to be the love of that person's life\n\n" +
+        "and i have to confess something to you\ntoday when i laid in bed\nand thanked your for asking to come to austria\ni cried, because i was so happy\n\n" +
+        "finally getting to spend a night with you\nfinally getting to hold you in my arms\nfinally getting to kiss you goodnight\nfinally getting to wake up next to you\n\n" +
+        "you are making my dreams come true\nyou are the one who makes me happy\nyou are the one who makes me feel loved\nyou make me feel all those things, like nobody else can\n\n" +
+        "i do not want to be with someone\ni want to be with you bianca\nnobody even remotely comes close to you\nyou are the one i want to be with\n\n" +
+        "and i am so looking forward to being with you\nto cuddle wit you, fall asleep next to you\ngo shopping with you, cook dinner\nto watch the aot finale with you\n\n" +
+        "and most importantly, to make our wish come true\ngo look at all the cute things at the xmas markets\nand to see you smile, because of them\nbecause seeing you smile makes me happy\n\n" +
+        "i know i've told you this already\nbut you not only have the cutest voice\nbut also the most adorable laugh\nand the prettiest smile\n\n" +
+        "just looking at your pretty face makes me grin\ni'm so happy when i see your beautiful eyes\nit's like everything else around me fades\nand all i see is you, and your perfection\n\n" +
+        "to this day i do not know how you do it\nhow you make me feel so happy\nhow you make me feel so loved\nhow you make me feel so special\n\n" +
+        "but somehow you manage to do it\nand i never ever want it to stop\nand i want to make you feel just the same way\nbecause you deserve it more than anyone else\n\n" +
+        "after all the things you've been through\nall the things you had to suffer through\nyou deserve nothing but the best\nprincess treatment and endless love for the rest of your life\n\n" +
+        "and i want to be the one to give it to you\nthe one to make you feel loved\nthe one to make you feel special\nthe one to make you feel happy\n\n" +
+        "please allow me to be the one\ni know others have hurt you\nand i know others have left you\nbut i will stay, no matter what happens\n\n" +
+        "you are not a burden\nyou are not complicated\nyou are not difficult\nyou are not a problem\n\n" +
+        "no matter how broken you think you are\nno matter how much you think you're not worth it\nno matter how much you think you're not enough\nyou are perfect, just the way you are\n\n" +
+        "and nothing will ever change that\nnot even the worst things you've done\nnot even the worst things you've said\nnot even the worst things you've thought\n\n" +
+        "nothing will change my mind\nnothing will change my heart\nnothing will change my love\nnothing will change my feelings\n\n" +
+        "because you are all i want\nyou are all i need\nyou are all i love\nyou are all i care about\n\n" +
+        "and i will never ever stop loving you\ni will never ever stop caring about you\ni will never ever stop thinking about you\ni will never ever stop wanting you\n\n" +
+        "there's so much me still need to do\nso much we still need to experience\nso much we still need to see\nso much we still need to feel\n\n" +
+        "we have not been to a christmas market yet\nwe haven't watched vampire diaries yet\nwe haven't been on vacation yet\nwe haven't seen lapland yet\n\n" +
+        "we haven't been to a spa together yet\nwe haven't seen new york at christmas time\nwe haven't seen the northern lights yet\nwe haven't seen dozens of lanterns fly into the sky yet\n\n" +
+        "i still didn't take you out to nuba bar\ni still haven't shown you our office like the nerd i am\ni still haven't covered you in 1000 blankets during winter\ni still didn't get to kiss you goodnight\n\n" +
+        "and i want to do all those things\ni want to do all those things with you\ni want to do all those things for you\ni want to do all those things because of you\n\n" +
+        "and you are the only person i want to do them with\nthe only one to share the joy with\nthe only one to share the happiness with\nthe only one to share the love with\n\n" +
+        "and i am so looking forward to it\ni am so looking forward to all of it\ni am so looking forward to you\ni am so looking forward to us\n\n" +
+        "because i am certain, bianca\nthat we will be forever\nthis is our last love, because it's stronger than ever\nand i am the happiest man on earth, because i have you\n\n" +
+        "and you know what else we didn't do yet...?\ni didn't get to see your in a red dress yet\nand i especially didn't yet get to see you in a white one\nand we both haven't said 'i do' yet... <3\n\n",
     ]
 }

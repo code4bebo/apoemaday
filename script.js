@@ -33,8 +33,8 @@ function getTodaysPoem() {
     currentDate.setHours(0, 0, 0, 0);
     const offsetInDays = Math.floor((currentDate - baselineDate) / (1000 * 60 * 60 * 24));
     const poems = getPoems();
-    return poems[poems.length - 1];
-    //return poems[offsetInDays % poems.length];
+    //return poems[poems.length - 1];
+    return poems[offsetInDays % poems.length];
 }
 
 function getPoems() {
@@ -379,5 +379,10 @@ function getPoems() {
         "and i am so looking forward to it\ni am so looking forward to all of it\ni am so looking forward to you\ni am so looking forward to us\n\n" +
         "because i am certain, bianca\nthat we will be forever\nthis is our last love, because it's stronger than ever\nand i am the happiest man on earth, because i have you\n\n" +
         "and you know what else we didn't do yet...?\ni didn't get to see your in a red dress yet\nand i especially didn't yet get to see you in a white one\nand we both haven't said 'i do' yet... <3\n\n",
+                "<h2>keeping you safe</h2><b>when darkness comes and fear takes hold</b>\ni'll be your shield, your warmth from cold\n<b>no harm will reach, no pain will stay</b>\ni'll stand beside you, come what may\n\n" +
+        "<b>when life feels heavy, and you feel small</b>\nlean on me, i'll break your fall\n<b>a rock, unshaken for you to lean</b>\nto hold you steady, through fears unseen\n\n" +
+        "<b>at your worst, when tears might flow</b>\ni'll be the place where you can always go\n<b>a steady hand, a soft embrace</b>\nwiping the tears off your beautiful face\n\n" +
+        "<b>i promise, my love, with all my heart</b>\ni'll keep you safe, and never part\n<b>through every storm and every fight</b>\ni'll make you smile before morninglight\n\n" +
+        "<b>please trust in me, i'll always be near</b>\nto guard your heart, and calm your fear\n<b>forever yours, i'm here to stay</b>\nprotecting you with all i have, every step of the way\n\n",
     ]
 }

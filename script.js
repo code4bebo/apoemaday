@@ -384,5 +384,10 @@ function getPoems() {
         "<b>at your worst, when tears might flow</b>\ni'll be the place where you can always go\n<b>a steady hand, a soft embrace</b>\nwiping the tears off your beautiful face\n\n" +
         "<b>i promise, my love, with all my heart</b>\ni'll keep you safe, and never part\n<b>through every storm and every fight</b>\ni'll make you smile before morninglight\n\n" +
         "<b>please trust in me, i'll always be near</b>\nto guard your heart, and calm your fear\n<b>forever yours, i'm here to stay</b>\nprotecting you with all i have, every step of the way\n\n",
+                "<h2>holding you close</h2><b>at the xmas market, beneath twinkling lights</b>\ni'll hold your hand through the festive nights\n<b>with every step, your warmth in mine</b>\ntogether, we'll make every moment shine\n\n" +
+        "<b>on the train, as the world rushes past</b>\ni'll hug you close, make the moment last\n<b>your head on my shoulder, your hand in my own</b>\nin your presence, I've found my home\n\n" +
+        "<b>in bed at night, as the world turns still</b>\ni'll hold you tight, through the evening's chill\n<b>your heartbeat steady, your breath so near</b>\nwrapped in your love, there's nothing to fear\n\n" +
+        "<b>watching movies, as laughter fills the air</b>\ni'll reach for your hand, to show I care\n<b>a gentle touch, a simple sign</b>\nreminding you always, you're forever mine\n\n" +
+        "<b>when I gaze into your pretty eyes</b>\ni see my future, where love never dies\n<b>i'll hold your hand, forever, my dear</b>\nand keep you close, year after year\n\n",
     ]
 }

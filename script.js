@@ -389,5 +389,10 @@ function getPoems() {
         "<b>in bed at night, as the world turns still</b>\ni'll hold you tight, through the evening's chill\n<b>your heartbeat steady, your breath so near</b>\nwrapped in your love, there's nothing to fear\n\n" +
         "<b>watching movies, as laughter fills the air</b>\ni'll reach for your hand, to show I care\n<b>a gentle touch, a simple sign</b>\nreminding you always, you're forever mine\n\n" +
         "<b>when I gaze into your pretty eyes</b>\ni see my future, where love never dies\n<b>i'll hold your hand, forever, my dear</b>\nand keep you close, year after year\n\n",
+        "<h2>always here for you</h2><b>no matter how others have made you feel</b>\ni'll show you love, steady and real\n<b>your words will never meet anger or blame</b>\ni'll ensure you'll never have to feel shame\n\n" +
+        "<b>your concerns, your wishes, your every plea</b>\nare treasures to share safely with me\n<b>i'll hold your heart, your fears, your voice</b>\nwith care and love, your perfect choice\n\n" +
+        "<b>when the world feels cold and leaves you unheard</b>\ni'll be your shelter, and hold every word\n<b>your happiness, love, is my only goal</b>\nto keep you safe and make you whole\n\n" +
+        "<b>you're my princess, my world, my light</b>\nthe reason I strive, my heart's delight\n<b>i'll do whatever it takes to make you see</b>\nthat your love means everything to me\n\n" +
+        "<b>so trust in my arms, my unwavering care</b>\ni'll listen and cherish, and always be there\n<b>for you, my love, are my greatest part</b>\nthe queen of my soul, the beat of my heart\n\n",
     ]
 }

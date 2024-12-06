@@ -394,5 +394,24 @@ function getPoems() {
         "<b>when the world feels cold and leaves you unheard</b>\ni'll be your shelter, and hold every word\n<b>your happiness, love, is my only goal</b>\nto keep you safe and make you whole\n\n" +
         "<b>you're my princess, my world, my light</b>\nthe reason I strive, my heart's delight\n<b>i'll do whatever it takes to make you see</b>\nthat your love means everything to me\n\n" +
         "<b>so trust in my arms, my unwavering care</b>\ni'll listen and cherish, and always be there\n<b>for you, my love, are my greatest part</b>\nthe queen of my soul, the beat of my heart\n\n",
+        	"<h2>jealousy</h2>today might not be much of a poem\nbut i want you to know\nthat i am often jealous\neven if i didn't always say it\n\n" +
+		"please know the things i thought\nare just the things i'm scared off\ni know they're not the truth...\nbecause you've proven me the opposite <3\n\n" +
+		"when you call with Manu late at night?\ni was so jealous, why not me?\nam i too boring to talk to?\nis he more fun than me?\n\n" +
+		"does he make you laugh more than i do?\nand when you're with him\ndo you even think of me?\nwhat if i lose you to him?\n\n" +
+		"when eric called you 'my bianca' and 'schatz'\ni was so close to snapping\ni had a message ready in his dm\ni didn't want to send it though...\n\n" +
+		"because i know it could backfire\nand i know you would not want that\nbut i was so close to sending it\nwho the hell is he?\n\n" +
+		"thinking he can call you those things?\nwho does this fucking guy think he is\nacting like your boyfriend...\nhe can fuck right off with that, or i'll make sure he does\n\n" +
+		"when satch makes nasty comments\nmy blood starts boiling\nyou've heard me tell him to shut up\ni did it multiple times already\n\n" +
+		"but that's just the tip of the iceberg\nof the things i'd want to say\nthe things i can't say yet\nyou don't know how protective my head is\n\n" +
+		"when tim made you laugh\nand when he made flirty comments\ni often muted and screamed in anger\nto let out the words i can't say to his face\n\n" +
+		"when you're so in-talk with jessi\nthat you don't even hear my comments\ndo you care about me when she's there?\nam i really that forgettable so fast?\n\n" +
+		"when you told me someones 'younger brother'\nis joining for the christmas market\nand he was 24? why that phrasing?\nwhy would you call him that?\n\n" +
+		"i had to ask first to find out\nwho is he? why did you word it like that?\nare you interested in him?\nis he attractie, and you don't want to admit it?\n\n" +
+		"people in twitch chat\npeople you talk about\npeople that message you that i've not heard of\npeople that you text with...\n\n" +
+		"i was jealous lots of times already...\nbut i didn't want to admit it\nbecause i didn't want to be a burden\ni am so scared you'll find someone better\n\n" +
+		"someone that makes you laugh more\nsomeone that makes you feel better\nsomeone that makes you feel more loved\nsomeone that makes you feel more special\n\n" +
+		"because i sometimes feel like i'm not doing good enough\ni'm trying my very best, but you're so perfect\ncan i ever be enough for you? a guy like me?\ni don't know... but i'll never stop trying!\n\n" +
+		"and those were not even all of the times\nnot close to all the times i was jealous\nbecause i overthink a lot, just like you\nand i'm scared of losing you\n\n" +
+		"i love you so much, my dear bianca\ni hope you know that\ni hope you know that i'm trying my best\nand you really are, the most important and most loved person in the world to me <3\n\n",
     ]
 }

@@ -413,5 +413,15 @@ function getPoems() {
 		"because i sometimes feel like i'm not doing good enough\ni'm trying my very best, but you're so perfect\ncan i ever be enough for you? a guy like me?\ni don't know... but i'll never stop trying!\n\n" +
 		"and those were not even all of the times\nnot close to all the times i was jealous\nbecause i overthink a lot, just like you\nand i'm scared of losing you\n\n" +
 		"i love you so much, my dear bianca\ni hope you know that\ni hope you know that i'm trying my best\nand you really are, the most important and most loved person in the world to me <3\n\n",
+	"<h2>the future</h2>the future is a scary place\nfull of unknowns, full of fears\nbut one thing i know for sure\nis that i want you there\n\n" +
+        "i know the weekend that you visit\nis going to have lots of new situations\nand i know you worry about those, but i promise\ni'll be there with you, every step of the way\n\n" +
+        "i am 100% sure my mom will love you\ni am 100% sure vienna with fatih will be fun\ni am 100% sure the christmas market will be beautiful\nand i am 100% my friends will love you too\n\n" +
+        "i know you're afraid something might happen\nthat someone might not like you\nor that you'll say a wrong thing\nbut no matter what happens, i'll be there\n\n" +
+        "and i will not let anything happen to you\ni will not let anyone hurt you\ni will not let anyone make you feel bad\ni will not let anyone make you cry\n\n" +
+        "not happening, no matter what\ni will be there for you\ni will be there with you\ni will be there to protect you\n\n" +
+        "you are perfect, just the way you are\nand i will not let anyone tell you otherwise\ni will not let anyone make you feel bad\ni will not let anyone make you feel insecure\n\n" +
+        "and regardless... i'm certain nothing will happen\nyou are worried about all the little things\n'what if something goes wrong, or something happens?'\nbut i promise you, everything will be fine\n\n" +
+        "while the future may be scary when you overthink\ni don't want to imagine any future without you\nany future where i'm not your husband\nand any future where you're not my wife\n\n" +
+        "because at the end of the story\nit's gonna be our little big love story\nand i want to be the one to write it with you\nand the one to live it with you.\n",
     ]
 }

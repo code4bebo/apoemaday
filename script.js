@@ -33,8 +33,8 @@ function getTodaysPoem() {
     currentDate.setHours(0, 0, 0, 0);
     const offsetInDays = Math.floor((currentDate - baselineDate) / (1000 * 60 * 60 * 24));
     const poems = getPoems();
-    return poems[poems.length - 1];
-    //return poems[offsetInDays % poems.length];
+    //return poems[poems.length - 1];
+    return poems[offsetInDays % poems.length];
 }
 
 function getPoems() {
@@ -423,5 +423,10 @@ function getPoems() {
         "and regardless... i'm certain nothing will happen\nyou are worried about all the little things\n'what if something goes wrong, or something happens?'\nbut i promise you, everything will be fine\n\n" +
         "while the future may be scary when you overthink\ni don't want to imagine any future without you\nany future where i'm not your husband\nand any future where you're not my wife\n\n" +
         "because at the end of the story\nit's gonna be our little big love story\nand i want to be the one to write it with you\nand the one to live it with you.\n",
+    	"<h2>thanks</h2>i don't have much energy today\ni'm feeling really heavy\nand my brain isn't braining much\nso today is rather short\n\n" +
+    	"thank you for being there for me\nand for doing your best to cheer me up\nfor being there when i'm down\nand loving me no matter what\n\n" +
+    	"i really do love you bianca\nbecause you are the most beautiful girl in the world\nphysically & visually, but also character-wise\nthank you for caring\n\n" +
+    	"i don't think anybody cared before you\nat least not as much as you do\nand i am truly thankful for that\nand want to offer you the same love\n\n" +
+    	"i am so looking forward to cuddling you\nand to kiss you, and your face\nto spend time with you and laugh with you\nonly 10 more days <3",
     ]
 }

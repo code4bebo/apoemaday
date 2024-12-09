@@ -33,8 +33,8 @@ function getTodaysPoem() {
     currentDate.setHours(0, 0, 0, 0);
     const offsetInDays = Math.floor((currentDate - baselineDate) / (1000 * 60 * 60 * 24));
     const poems = getPoems();
-    //return poems[poems.length - 1];
-    return poems[offsetInDays % poems.length];
+    return poems[poems.length - 1];
+    //return poems[offsetInDays % poems.length];
 }
 
 function getPoems() {
@@ -428,5 +428,15 @@ function getPoems() {
     	"i really do love you bianca\nbecause you are the most beautiful girl in the world\nphysically & visually, but also character-wise\nthank you for caring\n\n" +
     	"i don't think anybody cared before you\nat least not as much as you do\nand i am truly thankful for that\nand want to offer you the same love\n\n" +
     	"i am so looking forward to cuddling you\nand to kiss you, and your face\nto spend time with you and laugh with you\nonly 10 more days <3",
+	            "<h2>presence</h2>your presence is a gift\na treasure, a delight\na beacon in the night\na comfort, a light\n\n" +
+        "your presence is a joy\na wonder, a thrill\na medicine for every ill\na love that's real\n\n" +
+        "your presence is a dream\na hope, a grace\nthe brightest smile on my face\nthe warmest embrace\n\n" +
+        "your presence is a home\na shelter to take care\na true love beyond compare\nand the strongest bond we share\n\n" +
+        "you don't even have to do anything\njust you being with me makes me happy\nmore happy than anyone ever could\nand i am so thankful for that\n\n" +
+        "you are my everything, my love\nmy best friend, my companion, my soulmate\nmy lover, my dream girl, and most importantly\nmy future wife - thanks for being in my life <3\n\n" +
+        "i sometimes ask myself\nhow the people before me were so dumb\nto treat you like they did\nand ever let you go, let you leave\n\n" +
+        "i feel like asking them\n'what the hell were you thinking?'\n'how could you ever let her go?'\n'how could you ever make her cry?'\n\n" +
+        "but then i realized...\ni want to shake their hand, and thank them\n'thank you for being so stupid'\n'thank you for not seeing her worth'\n\n" +
+        "because if they hadn't been so dumb\ni would have never met you\ni would have never fallen in love with you\nand i would have never been able to call you my beautiful little princess <3\n",
     ]
 }

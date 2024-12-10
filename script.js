@@ -438,5 +438,12 @@ function getPoems() {
         "i feel like asking them\n'what the hell were you thinking?'\n'how could you ever let her go?'\n'how could you ever make her cry?'\n\n" +
         "but then i realized...\ni want to shake their hand, and thank them\n'thank you for being so stupid'\n'thank you for not seeing her worth'\n\n" +
         "because if they hadn't been so dumb\ni would have never met you\ni would have never fallen in love with you\nand i would have never been able to call you my beautiful little princess <3\n",
+	            "<h2>your eyes</h2>your eyes are like the stars\nbright, beautiful, and clear\nthey light up the night\nand make everything feel right\n\n" +
+        "i can't even wait to finally look into them again\nto see the sparkle in them\nto try and fill them with happiness\nand to make you feel loved\n\n" +
+        "becuase you deserve nothing less than the world\nand i want to give you everything\ni want to make you feel special\nand i want to make you feel loved\n\n" +
+        "that is the only wish i have\nthe only thing i really want\nthe only thing i really need\nand the only thing i really care about\n\n" +
+        "making you happy, because you are perfect\nmaking you smile, because you are beautiful\nmaking you laugh, because it's my favorite sound\nmaking you feel loved, because you deserve it\n\n" +
+        "and even when days are bad\nand when you feel down\ni want to be there for you\nand make you feel better\n\n" +
+        "i really hope i could achieve this today\neven with everything going in\ni still hope i made your day even the tiniest bit better\nand i hope i could make you smile\n\n",
     ]
 }

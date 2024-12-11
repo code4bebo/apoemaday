@@ -445,5 +445,9 @@ function getPoems() {
         "making you happy, because you are perfect\nmaking you smile, because you are beautiful\nmaking you laugh, because it's my favorite sound\nmaking you feel loved, because you deserve it\n\n" +
         "and even when days are bad\nand when you feel down\ni want to be there for you\nand make you feel better\n\n" +
         "i really hope i could achieve this today\neven with everything going in\ni still hope i made your day even the tiniest bit better\nand i hope i could make you smile\n\n",
+    	        "<h2>superpowers</h2>i dream of powers, far and wide\nto <b>teleport</b> right by your side\nno distance vast, no time to steal\ntogether, by your side for real\n\n" +
+        "with <b>telepathy</b>, i'd let you see\nthe dephts, of what you truly mean to me\neach hidden thought, inside my head\neach whispered word, each tear i shed\n\n" +
+        "to <b>materialize</b> treasures, food, and more\nyour every wish, i'd bring ashore\na feast, a gift, a smile, a kiss\na world of wonder, the purest bliss\n\n" +
+        "and last if i could, i'd <b>stop the time</b>\nso every glance, every touch, every rhyme\nwould last forever, in endless grace\nour love, a never-ending embrace\n\n",
     ]
 }

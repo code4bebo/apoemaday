@@ -449,5 +449,13 @@ function getPoems() {
         "with <b>telepathy</b>, i'd let you see\nthe dephts, of what you truly mean to me\neach hidden thought, inside my head\neach whispered word, each tear i shed\n\n" +
         "to <b>materialize</b> treasures, food, and more\nyour every wish, i'd bring ashore\na feast, a gift, a smile, a kiss\na world of wonder, the purest bliss\n\n" +
         "and last if i could, i'd <b>stop the time</b>\nso every glance, every touch, every rhyme\nwould last forever, in endless grace\nour love, a never-ending embrace\n\n",
+	    "<h2>life</h2>when i say i want to live my live with you\ni don't just mean cute dates, and cuddles\nroad trips, vacations, social media couple goals\nor flowers, love letters and poems\n\n" +
+        "i mean waking up next to you\ni mean making breakfast, brewing coffee\ni mean writing the grocery shopping list\ni mean doing the laundry, and cleaning the house\n\n" +
+        "i mean watching shows together\ni mean gaming together\ni mean cooking dinner together\ni mean going to bed together\n\n" +
+        "i mean talking about our days\ni mean discussing our future\ni mean planning our lives\ni mean dreaming about our future\n\n" +
+        "i mean buying furniture, and decorations\nholding hands on the drive there\npicking out the perfect pieces\nand building our life together\n\n" +
+        "i mean wandering aimlessly on walks with you\ni mean sitting in silence, just enjoying each other's presence\ni mean laughing at stupid jokes\ni mean making fun of each other\n\n" +
+        "i mean singing in the car\ni mean dancing in the kitchen\ni mean pillow fights when changing the sheets\ni mean lying under the stars with you\n\n" +
+        "i want all those things in life\ni want to experience all those things with you\nand with nobody, but you\nbecause you are the one for eternity, and beyond\n\n",
     ]
 }

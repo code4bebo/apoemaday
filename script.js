@@ -33,8 +33,8 @@ function getTodaysPoem() {
     currentDate.setHours(0, 0, 0, 0);
     const offsetInDays = Math.floor((currentDate - baselineDate) / (1000 * 60 * 60 * 24));
     const poems = getPoems();
-    //return poems[poems.length - 1];
-    return poems[offsetInDays % poems.length];
+    return poems[poems.length - 1];
+    //return poems[offsetInDays % poems.length];
 }
 
 function getPoems() {
@@ -428,5 +428,26 @@ function getPoems() {
     	"i really do love you bianca\nbecause you are the most beautiful girl in the world\nphysically & visually, but also character-wise\nthank you for caring\n\n" +
     	"i don't think anybody cared before you\nat least not as much as you do\nand i am truly thankful for that\nand want to offer you the same love\n\n" +
     	"i am so looking forward to cuddling you\nand to kiss you, and your face\nto spend time with you and laugh with you\nonly 10 more days <3",
+	            "<h2>presence</h2>your presence is a gift\na treasure, a delight\na beacon in the night\na comfort, a light\n\n" +
+        "your presence is a joy\na wonder, a thrill\na medicine for every ill\na love that's real\n\n" +
+        "your presence is a dream\na hope, a grace\nthe brightest smile on my face\nthe warmest embrace\n\n" +
+        "your presence is a home\na shelter to take care\na true love beyond compare\nand the strongest bond we share\n\n" +
+        "you don't even have to do anything\njust you being with me makes me happy\nmore happy than anyone ever could\nand i am so thankful for that\n\n" +
+        "you are my everything, my love\nmy best friend, my companion, my soulmate\nmy lover, my dream girl, and most importantly\nmy future wife - thanks for being in my life <3\n\n" +
+        "i sometimes ask myself\nhow the people before me were so dumb\nto treat you like they did\nand ever let you go, let you leave\n\n" +
+        "i feel like asking them\n'what the hell were you thinking?'\n'how could you ever let her go?'\n'how could you ever make her cry?'\n\n" +
+        "but then i realized...\ni want to shake their hand, and thank them\n'thank you for being so stupid'\n'thank you for not seeing her worth'\n\n" +
+        "because if they hadn't been so dumb\ni would have never met you\ni would have never fallen in love with you\nand i would have never been able to call you my beautiful little princess <3\n",
+	            "<h2>your eyes</h2>your eyes are like the stars\nbright, beautiful, and clear\nthey light up the night\nand make everything feel right\n\n" +
+        "i can't even wait to finally look into them again\nto see the sparkle in them\nto try and fill them with happiness\nand to make you feel loved\n\n" +
+        "becuase you deserve nothing less than the world\nand i want to give you everything\ni want to make you feel special\nand i want to make you feel loved\n\n" +
+        "that is the only wish i have\nthe only thing i really want\nthe only thing i really need\nand the only thing i really care about\n\n" +
+        "making you happy, because you are perfect\nmaking you smile, because you are beautiful\nmaking you laugh, because it's my favorite sound\nmaking you feel loved, because you deserve it\n\n" +
+        "and even when days are bad\nand when you feel down\ni want to be there for you\nand make you feel better\n\n" +
+        "i really hope i could achieve this today\neven with everything going in\ni still hope i made your day even the tiniest bit better\nand i hope i could make you smile\n\n",
+    	        "<h2>superpowers</h2>i dream of powers, far and wide\nto <b>teleport</b> right by your side\nno distance vast, no time to steal\ntogether, by your side for real\n\n" +
+        "with <b>telepathy</b>, i'd let you see\nthe dephts, of what you truly mean to me\neach hidden thought, inside my head\neach whispered word, each tear i shed\n\n" +
+        "to <b>materialize</b> treasures, food, and more\nyour every wish, i'd bring ashore\na feast, a gift, a smile, a kiss\na world of wonder, the purest bliss\n\n" +
+        "and last if i could, i'd <b>stop the time</b>\nso every glance, every touch, every rhyme\nwould last forever, in endless grace\nour love, a never-ending embrace\n\n",
     ]
 }

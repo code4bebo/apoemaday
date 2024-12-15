@@ -465,5 +465,12 @@ function getPoems() {
     	"please don't ever be scared\nyou are perfect to me in every way\nand i can't even think about ever giving you up\nor how anyone could possibly be 'better than you'\n\n" +
     	"because no matter how silly it sounds\nto me, you are perfection, just the way you are\nwith all your perfect imperfections\nevery dimple, every pimple, every little scar\n\n" +
     	"i wanna be with you, stay with you, live life with you\nby your side for eternity\njust the two of us, forevermore\nplease let me love you with all my might, bianca <3",
+	            "<h2>beauty</h2>when you sent me that picture today\ni was so happy, excited, grinning all wide\ngiggling like a little child on the inside\nbecause i love seeing your pretty face\n\n" +
+        "i love seeing your beautiful eyes\nyour cute nose, your pretty smile\nyour gorgeous hair, and stunning beauty\ni know you don't believe me, but i truly mean it\n\n" +
+        "at least once a day\ni look at your pictures, and smile\ni look at your cute face, and grin\ni look at your eyes, and feel happy\n\n" +
+        "because to me, you are the most beautiful\nthe most stunning, the most gorgeous\nthe most perfect, the most cute\nthe most pretty, the most lovely person out there\n\n" +
+        "and i am so happy, so lucky, so grateful\nthat i get to call you mine\nthat i get to love you, and be loved by you\nthat i get to spend my life with you\n\n" +
+        "and i want to make all the other guys jealous\nto show them what they're missing out on\nto make them feel upset and sad\nthat their girlfriend isn't as pretty as mine\n\n" +
+        "because my girlfriend is gorgeous\nshe's the prettiest of them all\nnobody on this world, will ever come close\nto the beauty that is you, my love\n\n",
     ]
 }

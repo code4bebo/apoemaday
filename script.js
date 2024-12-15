@@ -472,5 +472,18 @@ function getPoems() {
         "and i am so happy, so lucky, so grateful\nthat i get to call you mine\nthat i get to love you, and be loved by you\nthat i get to spend my life with you\n\n" +
         "and i want to make all the other guys jealous\nto show them what they're missing out on\nto make them feel upset and sad\nthat their girlfriend isn't as pretty as mine\n\n" +
         "because my girlfriend is gorgeous\nshe's the prettiest of them all\nnobody on this world, will ever come close\nto the beauty that is you, my love\n\n",
+	            "<h2>through hell and back</h2>no matter how hard it gets\nno matter how tough the road\nno matter how dark the night\nno matter how deep the hole\n\n" +
+        "no matter the problem\nno matter the fight\nno matter the struggle\nno matter the plight\n\n" +
+        "no matter the distance\nno matter the time\nno matter the pain\nno matter the whine\n\n" +
+        "i will be there for you\nalways, forever, and more\ni will be there to hold you\nto love you, and to adore\n\n" +
+        "and i know these are once again just words\nbut i mean every one of it, from my heart\ni want to go through hell and back with you\nand i want to be there for you, no matter what\n\n" +
+        "because you are also there for me\nyou are there to hold me\nto love me, and to adore me\nand i want to do the same for you\n\n" +
+        "my love for you is the truest it can be\ni mean it Bianca\nand never have i been so certain\nthat my love for you is endless\n\n" +
+        "no matter what you do, i will love you\nno matter what you say, i will love you\nno matter what you think, i will love you\nno matter what you feel, i will love you\n\n" +
+        "because you are the most important person in my life\nand i want to be there for you\ni want to be there with you\ni want to be there to love you\n\n" +
+        "i truly mean every word i am writing here\nand i wish for you to believe me\nand to trust me when i say\nthat i will be there for you, no matter what\n\n" +
+        "this is not me trying to be cute\nthis is not me trying to be poetic\nthis is me trying to be honest\nand to somehow try and express my love for you\n\n" +
+        "i am not in relationship with you\nto have everything be perfect from the start\ni am in a relationship with you\nbecause i want to be the one to make it perfect\n" +
+        "together with you\nand that is going to take time\nbut i am not in a rush\ni am here to stay, and make it work\nno matter how long it takes\ni love you, my beautiful princess\n\n",
     ]
 }

@@ -449,5 +449,21 @@ function getPoems() {
         "with <b>telepathy</b>, i'd let you see\nthe dephts, of what you truly mean to me\neach hidden thought, inside my head\neach whispered word, each tear i shed\n\n" +
         "to <b>materialize</b> treasures, food, and more\nyour every wish, i'd bring ashore\na feast, a gift, a smile, a kiss\na world of wonder, the purest bliss\n\n" +
         "and last if i could, i'd <b>stop the time</b>\nso every glance, every touch, every rhyme\nwould last forever, in endless grace\nour love, a never-ending embrace\n\n",
+	    "<h2>life</h2>when i say i want to live my live with you\ni don't just mean cute dates, and cuddles\nroad trips, vacations, social media couple goals\nor flowers, love letters and poems\n\n" +
+        "i mean waking up next to you\ni mean making breakfast, brewing coffee\ni mean writing the grocery shopping list\ni mean doing the laundry, and cleaning the house\n\n" +
+        "i mean watching shows together\ni mean gaming together\ni mean cooking dinner together\ni mean going to bed together\n\n" +
+        "i mean talking about our days\ni mean discussing our future\ni mean planning our lives\ni mean dreaming about our future\n\n" +
+        "i mean buying furniture, and decorations\nholding hands on the drive there\npicking out the perfect pieces\nand building our life together\n\n" +
+        "i mean wandering aimlessly on walks with you\ni mean sitting in silence, just enjoying each other's presence\ni mean laughing at stupid jokes\ni mean making fun of each other\n\n" +
+        "i mean singing in the car\ni mean dancing in the kitchen\ni mean pillow fights when changing the sheets\ni mean lying under the stars with you\n\n" +
+        "i want all those things in life\ni want to experience all those things with you\nand with nobody, but you\nbecause you are the one for eternity, and beyond\n\n",
+    	"<h2>choice</h2>no matter who wants to burst into my life\nno matter how friendly they are\nno matter how pretty they are\nno matter what their body looks like\n\n" +
+    	"i do not care a single bit\ni made my choice. months ago.\nand my choice is you, my love\nbecause in my eyes, you are perfection\n\n" +
+    	"if someone else ever comes near me\nno matter how pretty they are\nto me, they're not nearly as pretty as you\n\n" +
+    	"no matter how cute they act\nto me, they'll never be as insanely cute as you\nno matter what their body is like\nto me, they'll never be as stunningly gorgeous as you\n\n" +
+    	"because that person is not you\nbut it is you, who i love, and only you\nbecause you are the only person that is you\nand thus, the only person i love, and want\n\n" +
+    	"please don't ever be scared\nyou are perfect to me in every way\nand i can't even think about ever giving you up\nor how anyone could possibly be 'better than you'\n\n" +
+    	"because no matter how silly it sounds\nto me, you are perfection, just the way you are\nwith all your perfect imperfections\nevery dimple, every pimple, every little scar\n\n" +
+    	"i wanna be with you, stay with you, live life with you\nby your side for eternity\njust the two of us, forevermore\nplease let me love you with all my might, bianca <3",
     ]
 }

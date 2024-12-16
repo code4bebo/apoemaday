@@ -485,5 +485,11 @@ function getPoems() {
         "this is not me trying to be cute\nthis is not me trying to be poetic\nthis is me trying to be honest\nand to somehow try and express my love for you\n\n" +
         "i am not in relationship with you\nto have everything be perfect from the start\ni am in a relationship with you\nbecause i want to be the one to make it perfect\n" +
         "together with you\nand that is going to take time\nbut i am not in a rush\ni am here to stay, and make it work\nno matter how long it takes\ni love you, my beautiful princess\n\n",
+	            "<h2>snuggled up</h2>snuggled up in bed so tight\nyou and me, right by your side\nyour head on my chest, your hand in mine\nin your presence, i've found my shrine\n\n" +
+        "your warmth, your scent, your gentle breath\nthe softest touch, the sweetest caress\nyour heartbeat steady, your body near\nwrapped in your love, there's nothing to fear\n\n" +
+        "the world outside, a distant sound\nin my arms you're safe and sound\nyour love, a shelter, a guiding light\na haven in the darkest night\n\n" +
+        "only three more days to go\nuntil i get to hold you close\nand get to kiss you goodnight\nand wake up with you right by my side\n\n" +
+        "during movie night, or late at bed\ni'll reach for your hand, with no regret\na gentle touch, a simple sign\nreminding you always, you're forever mine\n\n" +
+        "and forever yours, i'll always be\nto guard your heart, keep you at sea\nforever yours, i'm here to stay\nprotecting you, every step of the way\n",
     ]
 }

@@ -465,5 +465,31 @@ function getPoems() {
     	"please don't ever be scared\nyou are perfect to me in every way\nand i can't even think about ever giving you up\nor how anyone could possibly be 'better than you'\n\n" +
     	"because no matter how silly it sounds\nto me, you are perfection, just the way you are\nwith all your perfect imperfections\nevery dimple, every pimple, every little scar\n\n" +
     	"i wanna be with you, stay with you, live life with you\nby your side for eternity\njust the two of us, forevermore\nplease let me love you with all my might, bianca <3",
+	            "<h2>beauty</h2>when you sent me that picture today\ni was so happy, excited, grinning all wide\ngiggling like a little child on the inside\nbecause i love seeing your pretty face\n\n" +
+        "i love seeing your beautiful eyes\nyour cute nose, your pretty smile\nyour gorgeous hair, and stunning beauty\ni know you don't believe me, but i truly mean it\n\n" +
+        "at least once a day\ni look at your pictures, and smile\ni look at your cute face, and grin\ni look at your eyes, and feel happy\n\n" +
+        "because to me, you are the most beautiful\nthe most stunning, the most gorgeous\nthe most perfect, the most cute\nthe most pretty, the most lovely person out there\n\n" +
+        "and i am so happy, so lucky, so grateful\nthat i get to call you mine\nthat i get to love you, and be loved by you\nthat i get to spend my life with you\n\n" +
+        "and i want to make all the other guys jealous\nto show them what they're missing out on\nto make them feel upset and sad\nthat their girlfriend isn't as pretty as mine\n\n" +
+        "because my girlfriend is gorgeous\nshe's the prettiest of them all\nnobody on this world, will ever come close\nto the beauty that is you, my love\n\n",
+	            "<h2>through hell and back</h2>no matter how hard it gets\nno matter how tough the road\nno matter how dark the night\nno matter how deep the hole\n\n" +
+        "no matter the problem\nno matter the fight\nno matter the struggle\nno matter the plight\n\n" +
+        "no matter the distance\nno matter the time\nno matter the pain\nno matter the whine\n\n" +
+        "i will be there for you\nalways, forever, and more\ni will be there to hold you\nto love you, and to adore\n\n" +
+        "and i know these are once again just words\nbut i mean every one of it, from my heart\ni want to go through hell and back with you\nand i want to be there for you, no matter what\n\n" +
+        "because you are also there for me\nyou are there to hold me\nto love me, and to adore me\nand i want to do the same for you\n\n" +
+        "my love for you is the truest it can be\ni mean it Bianca\nand never have i been so certain\nthat my love for you is endless\n\n" +
+        "no matter what you do, i will love you\nno matter what you say, i will love you\nno matter what you think, i will love you\nno matter what you feel, i will love you\n\n" +
+        "because you are the most important person in my life\nand i want to be there for you\ni want to be there with you\ni want to be there to love you\n\n" +
+        "i truly mean every word i am writing here\nand i wish for you to believe me\nand to trust me when i say\nthat i will be there for you, no matter what\n\n" +
+        "this is not me trying to be cute\nthis is not me trying to be poetic\nthis is me trying to be honest\nand to somehow try and express my love for you\n\n" +
+        "i am not in relationship with you\nto have everything be perfect from the start\ni am in a relationship with you\nbecause i want to be the one to make it perfect\n" +
+        "together with you\nand that is going to take time\nbut i am not in a rush\ni am here to stay, and make it work\nno matter how long it takes\ni love you, my beautiful princess\n\n",
+	            "<h2>snuggled up</h2>snuggled up in bed so tight\nyou and me, right by your side\nyour head on my chest, your hand in mine\nin your presence, i've found my shrine\n\n" +
+        "your warmth, your scent, your gentle breath\nthe softest touch, the sweetest caress\nyour heartbeat steady, your body near\nwrapped in your love, there's nothing to fear\n\n" +
+        "the world outside, a distant sound\nin my arms you're safe and sound\nyour love, a shelter, a guiding light\na haven in the darkest night\n\n" +
+        "only three more days to go\nuntil i get to hold you close\nand get to kiss you goodnight\nand wake up with you right by my side\n\n" +
+        "during movie night, or late at bed\ni'll reach for your hand, with no regret\na gentle touch, a simple sign\nreminding you always, you're forever mine\n\n" +
+        "and forever yours, i'll always be\nto guard your heart, keep you at sea\nforever yours, i'm here to stay\nprotecting you, every step of the way\n",
     ]
 }

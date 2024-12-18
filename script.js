@@ -491,5 +491,16 @@ function getPoems() {
         "only three more days to go\nuntil i get to hold you close\nand get to kiss you goodnight\nand wake up with you right by my side\n\n" +
         "during movie night, or late at bed\ni'll reach for your hand, with no regret\na gentle touch, a simple sign\nreminding you always, you're forever mine\n\n" +
         "and forever yours, i'll always be\nto guard your heart, keep you at sea\nforever yours, i'm here to stay\nprotecting you, every step of the way\n",
+	            "",
+        "<h2>tomorrow</h2>tomorrow is the day\nwhere i hold your hand\nwhere i kiss your face\nwhere i hug you tight\n\n" +
+        "where i look into your eyes\nwhere i see your smile\nwhere i hear your laugh\nwhere i feel your warmth\n\n" +
+        "the long, long drive, feeling oh so short\nthe endless wait, finally coming to an end\nthe anticipation, finally turning into reality\nthe dream, finally becoming true\n\n" +
+        "a whole weekend, with me and you\na whole weekend, with cuddles and kisses\na whole weekend, with laughter and joy\na whole weekend, with love and happiness\n\n" +
+        "i'm sitting here, wondering what you'll wear\ni'm sitting here, wondering how you'll smell\ni'm sitting here, wondering how many bags you have\ni'm sitting here, wondering how you'll look\n\n" +
+        "i am so nervous, but so insanely happy\nfinally being with you again\nand furthermore, sharing a bed with you\nsharing the night with you, and waking up next to youn\n\n" +
+        "you don't know how long i've been dreaming\nof this very exact moment\nof this very exact day\nof this very exact weekend\n\n" +
+        "thank you for being part of my life\nthank you for being my love\nthank you for being the very thing to look forward to\nand thank you for being my reason to miss you when you're not here\n\n" +
+        "my love for you is endless\nmy love for you is true\nmy love for you is pure\nand my love for you is forever\n\n" +
+        "<b>see you tomorrow, my darling <3</b>\n",
     ]
 }

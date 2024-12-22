@@ -502,5 +502,12 @@ function getPoems() {
         "thank you for being part of my life\nthank you for being my love\nthank you for being the very thing to look forward to\nand thank you for being my reason to miss you when you're not here\n\n" +
         "my love for you is endless\nmy love for you is true\nmy love for you is pure\nand my love for you is forever\n\n" +
         "<b>see you tomorrow, my darling <3</b>\n",
+	            "<h2>a glimpse of heaven</h2>our weekend together was a glimpse of heaven to me\na taste of what life could be\na promise of what's yet to come\na dream of what we will become\n\n" +
+        "though it was four days, it felt so short\nmaking me wish even more, that i could teleport\nback to your side, to hold you tight\nto kiss you goodnight, and lay by your side\n\n" +
+        "i miss your voice, your laugh, your smile\ni miss your eyes, your scent, your style\ni miss your warmth, your touch, your grace\ni miss your love, your sweet embrace\n\n" +
+        "8 hours since i held your hand\n8 hours since i kissed your face\n8 hours since i hugged you tight\n8 hours since i looked into your eyes\n\n" +
+        "just 8 hours have passed from that time\nand i already miss you, and wish for you to be mine\nto be with you forever, to hold you close\nand to never let you go, to love you the most\n\n" +
+        "because you are so much more than just a girl\nyou are my love, my life, my world\nyou are my everything, my reason to be\nyou are my future, i even want to say - my destiny\n\n" +
+        "i cannot wait for the day\nwhere you come to austria, to stay\nso we don't have to worry about goodbyes\nand can focus on our love and our lives\n\n",
     ]
 }

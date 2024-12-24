@@ -509,5 +509,13 @@ function getPoems() {
         "just 8 hours have passed from that time\nand i already miss you, and wish for you to be mine\nto be with you forever, to hold you close\nand to never let you go, to love you the most\n\n" +
         "because you are so much more than just a girl\nyou are my love, my life, my world\nyou are my everything, my reason to be\nyou are my future, i even want to say - my destiny\n\n" +
         "i cannot wait for the day\nwhere you come to austria, to stay\nso we don't have to worry about goodbyes\nand can focus on our love and our lives\n\n",
+	            "<h2>christmas</h2>i don't wish for much this christmas\ni already have my present\ni already have my gift\ni already have my love\n\n" +
+        "i wish for nothing but you, us being together\ni wish for nothing but your smile, your laugh\ni wish for nothing but your happiness, your joy\ni wish for nothing but your love, your warmth\n\n" +
+        "because you are the only one\nthat i want to kiss under the mistletoe\nthe only one i want to cuddle with\nthe only one i want to spend my life with\n\n" +
+        "i have cranked the little music box\nover and over again, i still love it\nit reminds me of you with every turn\nand i am so thankful for such an insanely cute present\n\n" +
+        "at the end of christmas day\nthe best gift i've received this year\nis the music box, and you, my love\nbecause you make me smile, and make me happy\n\n" +
+        "you make me happy like no gift in the world could\nneither money, nor clothes, nor games\nneither books, nor movies, nor music\nneither food, nor drinks, nor sweets\n\n" +
+        "not a single thing in this whole world\nmakes me feel like you do\nthank you for being by my side\nand thank you for gifting me... you by my side <3\n\n" +
+        "merry christmas, sweetheart\ni hope you have a wonderful christmas\ni hope you know how much i love you\nand i hope you know how much i care about you\n\n",
     ]
 }

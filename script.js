@@ -517,5 +517,21 @@ function getPoems() {
         "you make me happy like no gift in the world could\nneither money, nor clothes, nor games\nneither books, nor movies, nor music\nneither food, nor drinks, nor sweets\n\n" +
         "not a single thing in this whole world\nmakes me feel like you do\nthank you for being by my side\nand thank you for gifting me... you by my side <3\n\n" +
         "merry christmas, sweetheart\ni hope you have a wonderful christmas\ni hope you know how much i love you\nand i hope you know how much i care about you\n\n",
+	            "<h2>idiot</h2>that's the word that best describes me right now\nat least from my point of view\ni really appreciate you telling me\nthat your overthinking shouldn't overpower my desires\n\n" +
+        "but i want to disagree\ni always promise to be there for you\nto be strong, when you can't be\nand to be the one you can lean on\n\n" +
+        "yet i don't even manage to do that\nempty promises, because i start crying and get scared\nand i want to apologize for that\ni want to apologize for being weak\n\n" +
+        "i am sure so many guys out there would do better\nthat you deserve better, because i can't even manage that\nthat you maybe would be be better off\nwith someone who can be strong for you\n\n" +
+        "but at the same time, i'm weak once again\nbecause i can't have that be true\ni can't accept the fact that i am weak\nand i hate the thought of you being with anybody else\n\n" +
+        "i hate even hypothetically thinking about it\nit makes me wanna throw up, scream, and cry\nit makes me wanna punch the wall\ni never ever want anybody else to have you\n\n" +
+        "i want you to be as happy as possible\nand yet i'm too weak to accept\nthat others might be able to make you happier\nthat others might be able to make you feel better\n\n" +
+        "i don't want anybody else replacing me\ni don't want anybody else to make you laugh\ni don't want anybody else to make you smile\ni don't want anybody else to make you feel loved\n\n" +
+        "i hate that thought, i hate it, i hate it so much\ni'm crying as i'm writing this because i'm so scared\ni'm so scared of losing you\ni'm so scared of not being enough for you\n\n" +
+        "and yet i keep failing and failing\nand i just want you to know that i'm sorry\ni am so terribly sorry, that i'm not yet strong enough\nto be there for you at all times\n\n" +
+        "i promise you i really am trying\nand i want to do better, i really do\nbut sometimes i'm so incredibly weak\nbecause i'm a fucking loser that acts all tough\n\n" +
+        "i'm so sorry, my love\ni'm so sorry, my princess\ni'm so sorry, my angel\ni'm so sorry, my everything\n\n" +
+        "please allow me to learn, and to grow\nplease allow me to become stronger\nplease allow me to become the one you deserve\nplease allow me to become the one you need\n\n" +
+        "i need time, but i want to promise you\nthat i will never stop trying\nbecause i know i can be better than this\nand i know i can, no, i have to put you first - always\n\n" +
+        "because you deserve nothing less\neverybody else put themselves first in your past\nand i don't want to be like everybody else\nnot anymore, not ever again, i want to be better\n\n" +
+        "i am sorry for being weak today\nplease forgive me, and please give me the chance\nto stay with you, and become the one you need\ni love you, i really do, so much, my dear bianca\n\n",
     ]
 }

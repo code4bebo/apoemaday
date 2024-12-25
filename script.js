@@ -533,5 +533,10 @@ function getPoems() {
         "i need time, but i want to promise you\nthat i will never stop trying\nbecause i know i can be better than this\nand i know i can, no, i have to put you first - always\n\n" +
         "because you deserve nothing less\neverybody else put themselves first in your past\nand i don't want to be like everybody else\nnot anymore, not ever again, i want to be better\n\n" +
         "i am sorry for being weak today\nplease forgive me, and please give me the chance\nto stay with you, and become the one you need\ni love you, i really do, so much, my dear bianca\n\n",
+	            "<h2>thank you for making my cry</h2>i cried a little today\nand i want to thank you for that\nbecause the reasons i cried\nare not caused by pain or sadness\n\n" +
+        "i cried, because the blanket barely smells like you anymore\ni cried, because i don't have a nightstand\nwhich i can put the aot jukebox on\nso i usually keep it at my desk\n\n" +
+        "i cried, because i threw your towels in the washer\ni cried, because i saw the spot where your shampoo was\ni cried, because you're not in the room over\ni cried, because i miss you so much\n\n" +
+        "but i want to thank you\nfor being the person i can miss\nthe person i can cry for\nthe person i can love\n\n" +
+        "because what would love be\nwithout missing the person you love\nwhen they're not here\nand without looking forward to seeing them again\n\n",
     ]
 }

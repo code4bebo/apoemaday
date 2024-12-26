@@ -538,5 +538,13 @@ function getPoems() {
         "i cried, because i threw your towels in the washer\ni cried, because i saw the spot where your shampoo was\ni cried, because you're not in the room over\ni cried, because i miss you so much\n\n" +
         "but i want to thank you\nfor being the person i can miss\nthe person i can cry for\nthe person i can love\n\n" +
         "because what would love be\nwithout missing the person you love\nwhen they're not here\nand without looking forward to seeing them again\n\n",
+	    "<h2>the most caring girl</h2>in every smile you bring to light\nthere's warmth that glows, pure and bright\nyou lift everyone up, with gentle grace\nare there, for all problems to face\n\n" +
+        "through every storm, you stand so strong\nyou right the world's most grievous wrong\nyou're there for everyone, with open heart\nand never let anyone fall apart\n\n" +
+        "you wear youjr heart upon your sleeve\nin every kindness, you believe\nyou're the most caring girl, i've ever seen\nand you're the most beautiful, in every scene\n\n" +
+        "put everyone else before your own\nyou're the most selfless, i've ever known\nyou're the most loving, in every way\nand you're the most perfect, every day\n\n" +
+        "so here's to you, my love, my dear\nthanks for always being near\nforever grateful, always true\nthe world is brighter, thanks to you\n\n" +
+        "one last thing, before i go\ni love you more than you'll ever know\nand i'll be there, forevermore\nthe one you can always trust, always adore\n\n" +
+        "and my last wish, my last few lines\nmake sure to keep yourself in mind\nyou're the most important, in every way\nplease love <b>yourself</b> just as much, every day\n\n" +
+        "<b>thank you for being there for everyone bianca, but please, please, please do not forget about your own wellbeing too <3\nyou deserve the best, and only the best, and you should treat yourself with just as much love and care</b>",
     ]
 }

@@ -546,5 +546,10 @@ function getPoems() {
         "one last thing, before i go\ni love you more than you'll ever know\nand i'll be there, forevermore\nthe one you can always trust, always adore\n\n" +
         "and my last wish, my last few lines\nmake sure to keep yourself in mind\nyou're the most important, in every way\nplease love <b>yourself</b> just as much, every day\n\n" +
         "<b>thank you for being there for everyone bianca, but please, please, please do not forget about your own wellbeing too <3\nyou deserve the best, and only the best, and you should treat yourself with just as much love and care</b>",
+    	        "<h2>2025</h2>a year, yet to come\na year, yet to be\na year, yet to pass\na year, yet to see\n\n" +
+        "a year, where i'll be there\na year, that brings fresh air\na year, where i'll hold you tight\na year, where i'll kiss you goodnight\n\n" +
+        "a year, where we'll be together\na year, where we'll face the weather\na year, where we'll laugh and cry\na year, where we'll reach to the sky\n\n" +
+        "a year, to make memories, you and me\na year, to make dreams come true, you'll see\na year, to love eachother, and live our life\na year, that brings me closer, to you being my wife\n\n" +
+        "our best times are yet to come\nwith every rise and dawn of moon and sun\nwe'll make it through, together, you and me\nand i can't wait for 2025, our year to be\n",
     ]
 }

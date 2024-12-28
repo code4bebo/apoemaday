@@ -551,5 +551,13 @@ function getPoems() {
         "a year, where we'll be together\na year, where we'll face the weather\na year, where we'll laugh and cry\na year, where we'll reach to the sky\n\n" +
         "a year, to make memories, you and me\na year, to make dreams come true, you'll see\na year, to love eachother, and live our life\na year, that brings me closer, to you being my wife\n\n" +
         "our best times are yet to come\nwith every rise and dawn of moon and sun\nwe'll make it through, together, you and me\nand i can't wait for 2025, our year to be\n",
+	            "i'm scared of writing today's entry\ni'm sorry for being complicated\ni'm sorry for being a thick-headed idiot\ni'm sorry for being a burden\n\n" +
+        "i really just try to be as perfect as i can\nbut i'm not robot, i'm not from a movie\nat the end of the day i'm just some idiot\nthat tries to be the best he can\n\n" +
+        "and i have flaws and i am imperfect in so many ways\ni'm sorry, you deserve way better\nand i shouldn't even be the one who got a chance\nbecause i'll probably just mess it up\n\n" +
+        "but i don't wan't to give up\nbecause you're way too perfect to just give up\nand i want to be the one to make you happy\nand i want to be the one to make you feel loved\n\n" +
+        "i just wish i could be better\nhurt you less, make you cry less\nmake you feel loved more, make you feel happy more\nmake you feel special more, make you feel beautiful more\n\n" +
+        "but i guess i still fucking suck at it\ni've always sucked at it, and i still do\nbecause i don't deserve you, and i never will\nbut i don't want to lose you even if i'm not good enough\n\n" +
+        "i'm sorry for being the way i am\ni'm sorry for being a complicated unlovable idiot\ni'm sorry for being a burden\ni'm sorry for being no better than the others\n\n" +
+        "i love you, and i'm sorry for being the way i am, because you deserve better...\n",
     ]
 }

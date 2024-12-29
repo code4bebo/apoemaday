@@ -559,5 +559,12 @@ function getPoems() {
         "but i guess i still fucking suck at it\ni've always sucked at it, and i still do\nbecause i don't deserve you, and i never will\nbut i don't want to lose you even if i'm not good enough\n\n" +
         "i'm sorry for being the way i am\ni'm sorry for being a complicated unlovable idiot\ni'm sorry for being a burden\ni'm sorry for being no better than the others\n\n" +
         "i love you, and i'm sorry for being the way i am, because you deserve better...\n",
+	            "<h2>the little, the meaningful, the grand</h2>thanks for all the little things you do\nthe little things that mean so much\nthe little things that make me smile\nthe little things that make me happy\n\n" +
+        "having our little inside jokes that we use\nhaving our little nicknames that we share\nthe subtle comments you drop while gaming\nand the slight teases and jokes you make\n\n" +
+        "thanks for all the meaningful things you do\nthe meaningful things that mean so much\nthe meaningful things that brighten my day\nthe meaningful things you do all the way\n\n" +
+        "saying 'i love you' at random times\nbeing cute, and asking me for help when in distress\ntelling me about your day and your thoughts\nand saying good night to each other, every single day\n\n" +
+        "thanks for all the grand things you do\nthe grand things that mean so much\nthe grand things that make me feel loved\nthe grand things that make me feel special\n\n" +
+        "your fingers running through my hair\nthe kisses, and cuddles, and everything inbetween\nthose intimate moments where it's just us two\nand the love, the care, and the time we spend alone\n\n" +
+        "thanks for all the things you do\nthe little, the meaningful, the grand\nall the things, that make me feel special\nall the things, you just do for me\n",
     ]
 }

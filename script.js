@@ -566,5 +566,10 @@ function getPoems() {
         "thanks for all the grand things you do\nthe grand things that mean so much\nthe grand things that make me feel loved\nthe grand things that make me feel special\n\n" +
         "your fingers running through my hair\nthe kisses, and cuddles, and everything inbetween\nthose intimate moments where it's just us two\nand the love, the care, and the time we spend alone\n\n" +
         "thanks for all the things you do\nthe little, the meaningful, the grand\nall the things, that make me feel special\nall the things, you just do for me\n",
+	            "<h2>thinking about you</h2>no matter where i go or what i do\ni can't stop thinking about you\nwhile cleaning, and cooking my food\nwhile on the couch watching youtube\n\n" +
+        "while gaming, and watching my shows\nwhile reading, and writing these poems\nwhile eating, and drinking my tea\nwhile showering, and brushing my teeth\n\n" +
+        "while walking, and talking to friends\nwhile driving, where music plays and ends\nwhile shopping, and buying my stuff\nwhile working, and earning our bucks\n\n" +
+        "while sleeping, and dreaming about you\nwhile waking up, realizing you and me are true\nwhile texting and scrolling funny posts\nyou are always in my head the most\n\n" +
+        "and the reason is simple, my dear\nyou are the most important person here\nyou are the one i love, the one i care\nthe one i want to be with, the one i never want to share\n",
     ]
 }

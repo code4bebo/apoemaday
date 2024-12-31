@@ -571,5 +571,12 @@ function getPoems() {
         "while walking, and talking to friends\nwhile driving, where music plays and ends\nwhile shopping, and buying my stuff\nwhile working, and earning our bucks\n\n" +
         "while sleeping, and dreaming about you\nwhile waking up, realizing you and me are true\nwhile texting and scrolling funny posts\nyou are always in my head the most\n\n" +
         "and the reason is simple, my dear\nyou are the most important person here\nyou are the one i love, the one i care\nthe one i want to be with, the one i never want to share\n",
+	            "<h2>a new year</h2>a new year, and i'll be there\na new year, and i'll still take care\na new year, and i'll keep you tight\na new year, and i'll love you right\n\n" +
+        "a new year, and i'll keep loving you\na new year, with so many things to do\na new year, with so many fun games to play\na new year, with so many compliments i'm yet to say\n\n" +
+        "a new year, and we'll watch our shows\na new year, and i'll always hold you close\na new year with you laying on my chest\na new year, where we both do our best\n\n" +
+        "a new year, and i'll warm your hands in mine\na new year, and i'll always make sure you're fine\na new year, and i'll always be there\na new year, and i'll always care\n\n" +
+        "a new year, and your still as pretty\na new year, and you'll come back to linz city\na new year, and we'll have so much fun\na new year, and we'll make it our best, our run\n\n" +
+        "a new year, and i'll kiss your beautiful face\na new year, where we'll be cuddled up at my place\na new year, and i'll spoil you with love\na new year, and we'll fit like a hand to a glove\n\n" +
+        "i'll be there with you, my love, through thick and thin\nthrough every loss, and every win\ni'll keep loving you, through night at day\nand i'll keep treating you like a princess, in every way\n",
     ]
 }

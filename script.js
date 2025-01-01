@@ -575,8 +575,14 @@ function getPoems() {
         "a new year, and i'll keep loving you\na new year, with so many things to do\na new year, with so many fun games to play\na new year, with so many compliments i'm yet to say\n\n" +
         "a new year, and we'll watch our shows\na new year, and i'll always hold you close\na new year with you laying on my chest\na new year, where we both do our best\n\n" +
         "a new year, and i'll warm your hands in mine\na new year, and i'll always make sure you're fine\na new year, and i'll always be there\na new year, and i'll always care\n\n" +
-        "a new year, and your still as pretty\na new year, and you'll come back to linz city\na new year, and we'll have so much fun\na new year, and we'll make it our best, our run\n\n" +
+        "a new year, and your still as pretty\na new year, and you'll come back to linz city\na new year, and we'll have so much fun\na new yeear, and we'll make it our best, our run\n\n" +
         "a new year, and i'll kiss your beautiful face\na new year, where we'll be cuddled up at my place\na new year, and i'll spoil you with love\na new year, and we'll fit like a hand to a glove\n\n" +
         "i'll be there with you, my love, through thick and thin\nthrough every loss, and every win\ni'll keep loving you, through night at day\nand i'll keep treating you like a princess, in every way\n",
+        	"<h2>scared</h2>you are what my heart, soul & mind love the most\nyou bring my mind to peace, and my heart to coast\nyou mean everything to me, and even more\nbut the fear of losing you, makes me sore\n\n" +
+        "a second you, does not exist\nyou are the only one i can't resist\nyou are the only one i dream to kiss\nand the only i one, i ever want to miss\n\n" +
+        "i vow to you, my sweetest girl\ni'll stay with you, through every whirl\ni'll stay with you, through every fight\ni'll do what it takes, with all my might\n\n" +
+        "cause losing you is my biggest fear\nand i wouldn't know how to be without you near\ni wouldn't know how to live without you here\nand i wouldn't know how to love anoyne but you, my dear\n\n" +
+        "i beg of you, i'm not perfect, i'm not\nbut i'll do my best, with all i've got\ni'll do my best, to make you smile\ni'll do my best, to make you feel worthwhile\n\n" +
+        "so please my princess, bear with me\nfor i'm so scared of losing you, can't you see\nthe reason i cry with such fear and sorrow\nis because losing <b>you</b>, would be pure horror\n",
     ]
 }

@@ -584,5 +584,9 @@ function getPoems() {
         "cause losing you is my biggest fear\nand i wouldn't know how to be without you near\ni wouldn't know how to live without you here\nand i wouldn't know how to love anoyne but you, my dear\n\n" +
         "i beg of you, i'm not perfect, i'm not\nbut i'll do my best, with all i've got\ni'll do my best, to make you smile\ni'll do my best, to make you feel worthwhile\n\n" +
         "so please my princess, bear with me\nfor i'm so scared of losing you, can't you see\nthe reason i cry with such fear and sorrow\nis because losing <b>you</b>, would be pure horror\n",
+	            "<h2>together</h2>i love spending time with you\ntogether, laughing, just us two\nno matter what we do, or where we go\ni love spending time with you, i hope you know\n\n" +
+        "i love joking with you while watching our shows\ni love cuddling with you, and holding you close\ni love scrolling through memes, and laughing with you\ni love spending every bit of time with you, i hope you do too\n\n" +
+        "i love gaming together, while joking around\nthe talking and laughing throughout, is the sweetest sound\ni love calling you, and hearing your voice\nif i chose between anything else, and time with you, you're always my choice\n\n" +
+        "your voice, your laugh, your scent, your smile\nyour eyes, your hair, your lips, your style\nyour warmth, your touch, your love, your grace\nmake me more happy, than anything else in this place\n\n",
     ]
 }

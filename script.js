@@ -601,5 +601,12 @@ function getPoems() {
         "a movie night\nslowly dozing off\nyour head on my shoulder\nand my heart so soft\n\n" +
         "a movie night\ncarrying you to bed\nkissing your forehead\nendless love for you in my head\n\n" +
         "a movie night\na safe and sound sleep\na movie night\na memory to keep\n",
+	            "<h2>you</h2>you on my mind\nwhile cooking food before night\nsharing it with you\nwould be a delight\n\n" +
+        "you on my mind\nwhile watching shows on the couch\nyour head on my chest\nwould make my heart feel so sound\n\n" +
+        "you on my mind\nwhile together playingn games\nyour laugh and your smile\nmake my heart feel so tame\n\n" +
+        "you on my mind\nwhile scrolling tiktoks in bed\nlet's watch them together\nand laugh until our faces turn red\n\n" +
+        "you on my mind\nwhile i'm sitting at work\none day i'll come home\ngreeted by your smile, and a smirk\n\n" +
+        "you on my mind\nwhile i'm driving my car\ni can't wait to see you\nand hold you close, not far\n\n" +
+        "you on my mind\nwhile i'm writing all of this\ni love you so much\nand can't wait for our next kiss\n",
     ]
 }

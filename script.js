@@ -608,5 +608,13 @@ function getPoems() {
         "you on my mind\nwhile i'm sitting at work\none day i'll come home\ngreeted by your smile, and a smirk\n\n" +
         "you on my mind\nwhile i'm driving my car\ni can't wait to see you\nand hold you close, not far\n\n" +
         "you on my mind\nwhile i'm writing all of this\ni love you so much\nand can't wait for our next kiss\n",
+	            "<h2>the prettiest girl</h2>i was wondering why\nwhy your gamertag was blossom\nbut then i realized\nit just fits you so well\n\n" +
+        "you are the prettiest girl\nthe most beautiful, the most stunning\nthe most gorgeous, the most cute\nthe most lovely, the most perfect\n\n" +
+        "every single aspect of you\nis perfection to the last detail\nyour eyes, your nose, your lips\nyour hair, your skin, your smile\n\n" +
+        "your voice, your laugh, your scent\nyour warmth, your touch, your grace\nyour love, your care, your kindness\nyour strength, your humor, your empathy\n\n" +
+        "in a crowd of a million people\nyou are still the prettiest\nyou stand out of the meadow\nfor you are the most beautiful blossom\n\n" +
+        "your beauty shining out\nlike a colorful blossom in spring\ngently swaying in the breeze\nthere, to complete the wonderful scenery\n\n" +
+        "the prettiest of them all\nyour positivity like all those vibrant colors\nyour kindness like the sweetest scent\nyour love like the warmest sun\n\n" +
+        "<b>you are the prettiest there is, my beautiful blossom <3</b>\n",
     ]
 }

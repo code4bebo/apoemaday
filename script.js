@@ -616,5 +616,9 @@ function getPoems() {
         "your beauty shining out\nlike a colorful blossom in spring\ngently swaying in the breeze\nthere, to complete the wonderful scenery\n\n" +
         "the prettiest of them all\nyour positivity like all those vibrant colors\nyour kindness like the sweetest scent\nyour love like the warmest sun\n\n" +
         "<b>you are the prettiest there is, my beautiful blossom <3</b>\n",
+	            "<h2>your voice</h2>i love your voice\nit's so calming, so soothing\nit's like a warm blanket\non a cold winter night\n\n" +
+        "i love your voice\nit's so sweet, so gentle\nit's like a lullaby\nputting me to sleep\n\n" +
+        "i love your voice\nit's so cute, so adorable\nit's like a melody\nplaying in my head\n\n" +
+        "i love your voice\nit's so pretty, so lovely\nit's like a poem\nwritten just for me\n",
     ]
 }

@@ -625,5 +625,10 @@ function getPoems() {
         "days getting longer\nnights getting short\ni can't wait to see you\nand hold you close in our fort\n\n" +
         "with no more cold, and no more snow\nwe can go outside, and take a stroll\nwalking through the park, blososms to be seen\njust a prince trying his best, and his beautiful queen\n\n" +
         "our first spring together\nand surely not the last\ni know i'll love you forever\neven after my final breath has passed\n",
+	            "<h2>perfection</h2>hazel-green eyes, a cute little nose\na pretty smile, and a voice that glows\na warm embrace, a gentle touch\na loving heart, that means so much\n\n" +
+        "a stunning beauty, a gorgeous face\na perfect body, one to chase\na caring soul, a loving heart\na mindful spirit, a work of art\n\n" +
+        "the sweetest scent, the softest skin\nthe cutest laugh, the most adorable grin\nthe warmest hug, the gentlest kiss\nthe most perfect blossom, the most heartwarming bliss\n\n" +
+        "a girl one will find only once in a life\nto call her one's own, to call her one's wife\nis the dream of every man like me\nand i'm so happy, that for your heart, i hold the key\n\n" +
+        "for you are perfection, in every way\nand i'm so glad, to be with you every day\nyou are the most beautiful, most stunning, most gorgeous of all\nno one comes close, nobody at all\n\n",
     ]
 }

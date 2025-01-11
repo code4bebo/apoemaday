@@ -630,5 +630,18 @@ function getPoems() {
         "the sweetest scent, the softest skin\nthe cutest laugh, the most adorable grin\nthe warmest hug, the gentlest kiss\nthe most perfect blossom, the most heartwarming bliss\n\n" +
         "a girl one will find only once in a life\nto call her one's own, to call her one's wife\nis the dream of every man like me\nand i'm so happy, that for your heart, i hold the key\n\n" +
         "for you are perfection, in every way\nand i'm so glad, to be with you every day\nyou are the most beautiful, most stunning, most gorgeous of all\nno one comes close, nobody at all\n\n",
+	            "<h2>someone</h2>have you ever met someone\nthat you think about all the time\nthat you can't stop thinking about\nthat you can't stop dreaming about\n\n" +
+        "someone running through your mind\nday and night without a break\nsomeone you can't stop loving\nsomeone you can't stop missing\n\n" +
+        "someone who's so beautiful it's breathtaking\nsomeone who's so gorgeous, it's mesmerizing\nsomeone who's loving, all past kindness feels fake\nsomeone who's caring, all past love feels like a mistake\n\n" +
+        "have you ever met someone so special\nyou can't imagine a day without them\nyou can't imagine a life without them\nyou can't imagine a future without them\n\n" +
+        "someone you want to talk to\nand keep talking, yapping away, all night long\nsomeone you want to hold close, oh so close\nand never let them go, keeping them in your arms\n\n" +
+        "someone who's first hug and first kiss\nwill never fade out of your memory\nsomeone who's first touch and first smile\nwill never fade out of your heart\n\n" +
+        "someone who makes you think about that night\nthe first night you saw them\nthe first night you talked to them\nthe first night you fell in love with them\n\n" +
+        "someone who makes you think about that walk at night you did\nholding hands, talking about so many things\nand then finally, standing under the street light\nboth too shy to kiss, but you'll never forget the hugs\n\n" +
+        "someone who you know so well\nbut yet you want to know more about them\nsomeone who you love so much\nbut yet you want to love them even more\n\n" +
+        "someone who can be just as silly as you\nwho wants to have just as much fun\nwho wants to share their favorite things with you\nand who wants to feel loved the right way\n\n" +
+        "someone with whom time flies by\nmaking you wish you could pause it\nso the moment never ends\nand you can keep loving them, forever\n\n" +
+        "someone who you want to be with\nforever, and ever, and more\nsomeone who you want to see in a white dress\noh so badly, no matter what it takes\n\n" +
+        "thank you for being my someone\ni will never be able to express\nall the love, all the care, all the warmth\ni feel for you, my beautiful blossom\n",
     ]
 }

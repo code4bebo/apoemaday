@@ -643,5 +643,37 @@ function getPoems() {
         "someone with whom time flies by\nmaking you wish you could pause it\nso the moment never ends\nand you can keep loving them, forever\n\n" +
         "someone who you want to be with\nforever, and ever, and more\nsomeone who you want to see in a white dress\noh so badly, no matter what it takes\n\n" +
         "thank you for being my someone\ni will never be able to express\nall the love, all the care, all the warmth\ni feel for you, my beautiful blossom\n",
+        "<h2>unique</h2>noone else out there is like you\nyou are the most beautiful, and the most unique person\ni have ever met in my life\nand i couldn't be more thankful\n\n" +
+        "i wanted to write a poem, the last paragraph\nwas 15 minutes ago\ni was trying to write something\nbut i couldn't find the words\n\n" +
+        "i hurt you\nand i probably made you cry\nonce again.\ni did the opposite of what i'm trying to do\n\n" +
+        "because once again\ni am the biggest failure\non the whole planet of earth\neven the universe to be honest\n\n" +
+        "and i still cant fucking do it right\ni still can't manage to do things right\nand to not hurt you anymore\nbecause i keep fucking up\n\n" +
+        "and i hate myself for that\noh i don't even have words\nto describe the anger and frustration\ni feel towards myself\n\n" +
+        "i'm so sorry\ni'm so sorry\ni'm so sorry\ni'm so sorry\n\n" +
+        "i'm so sorry\ni'm so sorry\ni'm so sorry\ni'm so sorry\n\n" +
+        "that's everything racing through my head\neverything i'm thinking right now\nno, that's a lie\ni'm thinking about you\n\n" +
+        "and also i'm worried so much\nworried who you're talking to\nseeing you online on whatsapp\nthe whole evening\n\n" +
+        "and i am so endlessly scared\ni should be worried about you\ni should try to properly apologize\nto finally get my shit together\n\n" +
+        "and once again i sit here crying\nworried about losing you\nthat this was my final fuck-up\nyou're gone, i crossed the line\n\n" +
+        "i managed to be the worst boyfriend\nonce again i did it\nif i had medals for that\ni could fill up my room" +
+        "and i can't manage to apologize\ni can't manage to write a poem\ni can't manage to make things right\ni can't manage to be there for you" +
+        "i can't manage to do shit\nno one in this world was ever as incompetent\n... yet all the rage is towards myself\nbecause it is my fault it happened\n\n" +
+        "and i don't know how to\nhow to make things okay again\ni'm at the end of my capacity\nall i can do is sit here and say sorry\n\n" +
+        "say sorry for being the biggest fucking idiot\nfor keeping to fuck up\nfor hurting you, over and over\ni try to do so many things\n" +
+        "i try to do everything right\nand not fuck up for... like a week\nand i don't manage to\ni am sorry" +
+        "i am sorry for being the worst boyfriend\ni am sorry for being the one that hurts you\ni am sorry for making you cry\ni am sorry for making you feel insecure\n\n" +
+        "but i only have one wish\nplease don't leave me as the worst boyfriend\ni want to be better for you\nand i pray that in some ways i have gotten better\n\n" +
+        "i am really trying to improve\nin every single way\ni am trying so hard that i'm so tired in the morning\nbecause i can't get my body to move\n\n" +
+        "i swear to god i'm putting everything i have\ntrying to not make a single mistake\ni'm trying so hard\nand i feel like garbage every time i fail\n\n" +
+        "please don't leave...\ni need you, and i want to be with you\ni want to be there for you\ni want to become better for you\n\n" +
+        "i don't want you to remember me\nas the guy that kept fucking up and hurt you\ni want you to stay with me\nso that one day you can remember me\n\n" +
+        "as the guy who kept fucking up\nand kept hurting you without wanting to\nbut who never stopped trying\nand who did his best to become a man you can love\n\n" +
+        "someone you can appreciate\nsomeone you can feel save around\nand i hope most of the time\ni already am that man for you\n\n" +
+        "please forgive me\nand please stay with me\nand give me the chance\nto keep fighting for you\n\n" +
+        "because you are worth fighting for\nmore than anyone else\nand i want to keep fighting for you\nuntil the end of time\n\n" +
+        "and i'll do anything\nanything it takes to make up all the pain\nto make you laugh as much as possible\nto enjoy those happy moments with you\n\n" +
+        "i love you so much\nand i'm so sorry for being the way i am\ni'm so sorry for being the worst\ni'm so sorry for being the one that hurts you\n\n" +
+        "but at the end of the day\ni am bold enough to say\ni am the one that loves you the most\nno one has ever loved you like i did before\n\n" +
+        "it's the boldest, most arrogant thing to say\nbut i am 100% sure\nthat i love you more than anyone else\nand that i will never stop loving you\n\n",
     ]
 }

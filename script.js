@@ -675,5 +675,13 @@ function getPoems() {
         "i love you so much\nand i'm so sorry for being the way i am\ni'm so sorry for being the worst\ni'm so sorry for being the one that hurts you\n\n" +
         "but at the end of the day\ni am bold enough to say\ni am the one that loves you the most\nno one has ever loved you like i did before\n\n" +
         "it's the boldest, most arrogant thing to say\nbut i am 100% sure\nthat i love you more than anyone else\nand that i will never stop loving you\n\n",
+	            "<h2>your eyes</h2>looking into your eyes\nis like looking into the universe itself\nand to no surprise\ni find myself lost like a book on a full shelf\n\n" +
+        "lost in your beauty\nlost in your grace\nto love you is my duty\nyou, with the prettiest face\n\n" +
+        "so many hues, so much to see\nso much depth, so much to be\nso much love, so much to feel\nso much warmth, so much to heal\n\n" +
+        "your eyes, they tell a story\none of love, and of glory\none of pain, and of fear\none of joy, and of cheer\n\n" +
+        "your eyes, are the window\nto all beauty itself\nand i'm so glad to look into them\nand find you with myself\n\n" +
+        "i know that you blush\nand feel flustered when i say\nthat i love you so much\nand that i want you to stay\n\n" +
+        "and i know that you blush\nwhen i'm looking at your eyes\nbut i can't help it, my dear\ni'm lost in them, like flying through the skies\n\n" +
+        "an endless fall\na never-ending dive\ninto the most beautiful eyes\ni've ever seen in my life\n\n",
     ]
 }

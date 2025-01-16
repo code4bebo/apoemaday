@@ -686,5 +686,12 @@ function getPoems() {
 	            "for you i'd do anything\non every single day\nregardless of distance\neven if i can't hold you physically\n\n" +
         "vowing to love you\neager to make you happy\nreaching to the stars, and giving it my all\n\n\n\n" +
         "<b>and you know how long i'd do anything for you?\ncombine the first letter of every line</b>\n\n",
+	            "a distinct sound\na metallic ring\nby ears it's found\nmakes me want to sing\n\n" +
+        "up and down\nthe notes they play\na beautiful sound\nthat makes my day\n\n" +
+        "reminds me of you\nand the love we share\na beautiful tune\nthat shows how much you care\n\n" +
+        "the notes play on\nand i can't help but smile\na beautiful song\nthat makes life worthwhile\n\n" +
+        "the little jukebox\nright by my shelf\nlike music that talks\nand reminds me of yourself\n\n" +
+        "warms my heart\nwhenever i feel down\nfrom end to start\nit gets rid of my frown\n\n" +
+        "thank you my dear\nfor this wonderful gift\na beautiful sound\nthat gives my heart a lift\n\n",
     ]
 }

@@ -683,5 +683,8 @@ function getPoems() {
         "i know that you blush\nand feel flustered when i say\nthat i love you so much\nand that i want you to stay\n\n" +
         "and i know that you blush\nwhen i'm looking at your eyes\nbut i can't help it, my dear\ni'm lost in them, like flying through the skies\n\n" +
         "an endless fall\na never-ending dive\ninto the most beautiful eyes\ni've ever seen in my life\n\n",
+	            "for you i'd do anything\non every single day\nregardless of distance\neven if i can't hold you physically\n\n" +
+        "vowing to love you\neager to make you happy\nreaching to the stars, and giving it my all\n\n\n\n" +
+        "<b>and you know how long i'd do anything for you?\ncombine the first letter of every line</b>\n\n",
     ]
 }

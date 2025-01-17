@@ -693,5 +693,12 @@ function getPoems() {
         "the little jukebox\nright by my shelf\nlike music that talks\nand reminds me of yourself\n\n" +
         "warms my heart\nwhenever i feel down\nfrom end to start\nit gets rid of my frown\n\n" +
         "thank you my dear\nfor this wonderful gift\na beautiful sound\nthat gives my heart a lift\n\n",
+	            "<h2>far north</h2>i want to take you far away\nfrom all the pain, from all the gray\ni want to take you to a place\nwhere we can be, face to face\n\n" +
+        "beautiful colors, in the skies\nand so much snow, the nature's disguise\na place where we can be alone\nand where we can call it our own\n\n" +
+        "looking up at the stars at night\nand watching the northern lights\na place where we can be free\nand where we can be you and me\n\n" +
+        "finland, norway, whatever it'll be\nor lapland, which you wanted to see\ni'll take you there one day i swear\nand we'll make memories to share\n\n" +
+        "where reindeer's roam, and the snow is white\nwhere the sun shines, and the moon is bright\nwhere we can be, just us two\nand where i can show my love to you\n\n" +
+        "all cuddled up in bed at night\ni'll hold you close, and hold you tight\nand i'll whisper in your ear\nthat i love you, my dear\n\n" +
+        "the one i love, the one i care\nthe one i want to be with, the one i'll never share\nmy life, my love, my everything\nyou're my queen, and i'm your king\n\n",
     ]
 }

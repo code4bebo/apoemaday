@@ -700,5 +700,11 @@ function getPoems() {
         "where reindeer's roam, and the snow is white\nwhere the sun shines, and the moon is bright\nwhere we can be, just us two\nand where i can show my love to you\n\n" +
         "all cuddled up in bed at night\ni'll hold you close, and hold you tight\nand i'll whisper in your ear\nthat i love you, my dear\n\n" +
         "the one i love, the one i care\nthe one i want to be with, the one i'll never share\nmy life, my love, my everything\nyou're my queen, and i'm your king\n\n",
+    	        "<h2>light in the dark</h2>when lights go out\nall cats are grey\nbut in the dark\ni see your face\n\n" +
+        "your eyes, your smile\nyour hair, your grace\nyour warmth, your touch\nyour lovely embrace\n\n" +
+        "you light the night\nlike no other can\nyou light my life\nmaking me the happiest man\n\n" +
+        "brighter than the stars\nand headlights of cars\nyou light my way\nand make my day\n\n" +
+        "guiding me through\nthe darkest of nights\nlighting the way\nto lead me to home's lights\n\n" +
+        "thank you for always\nbrightening my day\ni will always love you\nin every single way\n\n",
     ]
 }

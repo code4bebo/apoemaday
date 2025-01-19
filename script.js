@@ -706,5 +706,11 @@ function getPoems() {
         "brighter than the stars\nand headlights of cars\nyou light my way\nand make my day\n\n" +
         "guiding me through\nthe darkest of nights\nlighting the way\nto lead me to home's lights\n\n" +
         "thank you for always\nbrightening my day\ni will always love you\nin every single way\n\n",
+	            "<h2>26 days</h2>with every breath you take\nand every step you make\ni'm falling in love more\npeeking through heaven's door\n\n" +
+        "the perfection you bring\ncannot be put into words\nyou are way more beautiful\nthan a flock of hundreds of colorful birds\n\n" +
+        "with you by my side\ni want to keep striding on\nwith you as my heart's guide\ni'll never be alone\n\n" +
+        "for you are so perfect\nyou brighten my life\ni am so glad to have you\nas my future wife\n\n" +
+        "26 days, and counting down\na special day on the rise\non which without you, i'd frown\nbut with you, i'll look into your eyes\n\n" +
+        "and kiss your pretty face\nand put your lips on mine\nso please, answer me, my dear\nin 26 days, will you be my valentine?\n\n",
     ]
 }

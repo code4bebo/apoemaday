@@ -712,5 +712,12 @@ function getPoems() {
         "for you are so perfect\nyou brighten my life\ni am so glad to have you\nas my future wife\n\n" +
         "26 days, and counting down\na special day on the rise\non which without you, i'd frown\nbut with you, i'll look into your eyes\n\n" +
         "and kiss your pretty face\nand put your lips on mine\nso please, answer me, my dear\nin 26 days, will you be my valentine?\n\n",
+	            "<h2>counting</h2>counting the days\ndon't know until when\ncounting the days\n'till i see you again\n\n" +
+        "never had i thought\nthat i'd miss you so much\nnever had i thought\nthat i'd long for your touch\n\n" +
+        "1 year ago\nyour were still a stranger\nbut now i love you so\nand i'd face any danger\n\n" +
+        "i'd cross the ocean\ni'd climb the highest peak\ni'd do anything\njust to hear you speak\n\n" +
+        "and while 3 hours and more\nstill lie between us\nyou're always the one i adore\nand the one i trust\n\n" +
+        "for you are my world\nand you are my light\nthe most beautiful girl\none could ever find\n\n" +
+        "so i'll keep counting down\n'till we meet again\nresisting the frown\neager to hold you in my hands\n"
     ]
 }

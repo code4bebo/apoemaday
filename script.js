@@ -718,6 +718,10 @@ function getPoems() {
         "i'd cross the ocean\ni'd climb the highest peak\ni'd do anything\njust to hear you speak\n\n" +
         "and while 3 hours and more\nstill lie between us\nyou're always the one i adore\nand the one i trust\n\n" +
         "for you are my world\nand you are my light\nthe most beautiful girl\none could ever find\n\n" +
-        "so i'll keep counting down\n'till we meet again\nresisting the frown\neager to hold you in my hands\n"
+        "so i'll keep counting down\n'till we meet again\nresisting the frown\neager to hold you in my hands\n",
+	            "thank you for spending time with me\nit means a lot to me, you see\nno matter how long, or what we do\ni'm always happy, when i'm with you\n\n" +
+        "cause you make me laugh\nand you make me smile\nyou make me feel loved\nand you make my life worthwhile\n\n" +
+        "doing the things, that i really enjoy\nand sharing them with you\nmakes me feel like a little boy\nand i'm so happy, that i do\n\n" +
+        "and i don't do it for the things we do\nthat's not the reason to me\ni do it, to spend time with you\nand to be happy together, you see?\n",
     ]
 }

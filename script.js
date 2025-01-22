@@ -723,5 +723,10 @@ function getPoems() {
         "cause you make me laugh\nand you make me smile\nyou make me feel loved\nand you make my life worthwhile\n\n" +
         "doing the things, that i really enjoy\nand sharing them with you\nmakes me feel like a little boy\nand i'm so happy, that i do\n\n" +
         "and i don't do it for the things we do\nthat's not the reason to me\ni do it, to spend time with you\nand to be happy together, you see?\n",
+	            "<h2>night sky</h2>when the moon is all i see\nit makes me think of you and me\nhow i'll hold you close again soon\nand how i'll kiss your lips under the moon\n\n" +
+        "when the stars are shining bright\nit makes me think of you at night\nhow your eyes sparkle like the stars\nand how you light up my life, my heart\n\n" +
+        "when the night is calm and still\nit makes me think of you, and i feel\nhow much i love you, and how much i care\nand how much i want to be with you, my dear\n\n" +
+        "when the wind is blowing through\ni can't help but think of you\nhow you're always on my mind\nand how you're the most beautiful i'll ever find\n\n" +
+        "when the thunder rolls and the lightning strikes\nit makes me think of you, and i like\nhow you're the light in my dark\nand how you are perfect, like a work of art\n\n",
     ]
 }

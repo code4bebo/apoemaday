@@ -728,5 +728,12 @@ function getPoems() {
         "when the night is calm and still\nit makes me think of you, and i feel\nhow much i love you, and how much i care\nand how much i want to be with you, my dear\n\n" +
         "when the wind is blowing through\ni can't help but think of you\nhow you're always on my mind\nand how you're the most beautiful i'll ever find\n\n" +
         "when the thunder rolls and the lightning strikes\nit makes me think of you, and i like\nhow you're the light in my dark\nand how you are perfect, like a work of art\n\n",
+    	        "<h2>company</h2>i don't need to play games\nor turn on the pc everyday\ni don't need to be with others\nor feel a need to play\n\n" +
+        "i just want to spend time\nwith you, my dear\ni just want to be with you\nand have you near\n\n" +
+        "because being with you\nis all i need\nhearing you laugh and talk\nmakes my heart beat\n\n" +
+        "don't want noone else\njust want to be with you\nbecause you're what i want\nand what i love, it's true\n\n" +
+        "so thank you for being here\nand spending time with me\ni'm so happy, when you're near\nand i hope you're happy, too, you see\n\n" +
+        "and please, stop feeling bad\nor guilty, or sad\njust because we don't play\nno matter if it's for a week, or a day\n\n" +
+        "i'm just glad to be spending time\nwatching shows, or talking at night\ni don't care about anything else\ncause being with you, rings all the right bells\n",
     ]
 }

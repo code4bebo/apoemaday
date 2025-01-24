@@ -735,5 +735,10 @@ function getPoems() {
         "so thank you for being here\nand spending time with me\ni'm so happy, when you're near\nand i hope you're happy, too, you see\n\n" +
         "and please, stop feeling bad\nor guilty, or sad\njust because we don't play\nno matter if it's for a week, or a day\n\n" +
         "i'm just glad to be spending time\nwatching shows, or talking at night\ni don't care about anything else\ncause being with you, rings all the right bells\n",
+	            "<h2>always</h2>no matter where you go\ni'll always be there\nright by your side, you know\nand show you how much i care\n\n" +
+        "no matter what you do\ni'll forever be with you\nand stand right by your side\nand love you with all my pride\n\n" +
+        "no matter how far you are\ni'll always be near\nand show you how much you mean\nand how much i hold you dear\n\n" +
+        "no matter how long it takes\ni'm never going away\ni'll always be there for you\nand love you every single day\n\n" +
+        "no matter how hard it gets\nor what challenges we face\ni'll face them with you together\nand love you with all my grace\n\n",
     ]
 }

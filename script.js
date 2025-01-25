@@ -740,5 +740,12 @@ function getPoems() {
         "no matter how far you are\ni'll always be near\nand show you how much you mean\nand how much i hold you dear\n\n" +
         "no matter how long it takes\ni'm never going away\ni'll always be there for you\nand love you every single day\n\n" +
         "no matter how hard it gets\nor what challenges we face\ni'll face them with you together\nand love you with all my grace\n\n",
+	            "<h2>shadows</h2>whereever i go\nwhere i've been with you\ni still see you standing there\nbeside me, like it was true\n\n" +
+        "on the couch, on my right hand side\nin the hallway, where i hugged you tight\nin the bathroom, where i booped your nose\nin my bed, where i held you close\n\n" +
+        "on the seat in the car, where you were sat\nin the train next to me, where we had a chat\nin the office lobby, with your jacket still\non the way to my mum, where you felt so thrilled\n\n" +
+        "on the street to volksgarten\nwhere we walked hand in hand\nwhile shopping at the store\nwhere we bought those snacks without end\n\n" +
+        "when ordering those burgers\nwhere you had your best taste\nwhen you were unwarpping presents\nand i saw your happy face\n\n" +
+        "when you were cuddled on my lap\nand we watched our shows\nwhen you were laying on my chest\nand i felt your warmth oh so close\n\n" +
+        "with everything i do\ni see you in my mind\nand i can't help but think\nhow much i miss you by my side\n",
     ]
 }

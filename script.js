@@ -755,5 +755,11 @@ function getPoems() {
         "the times we cuddled\nwrapped up in eachother's arms\nwith love like a big puddle\nand no more alarms\n\n" +
         "and i dream of you too\nin my sleep, and when i'm awake\ni dream of you, my boo\nand of the love we give and take\n\n" +
         "cause you are the one\nthe one i love the most\nthe one i want to be with\nthe one i want to hold close\n\n",
+	            "one - i feel like i've won\ntwo - i'm so in love with you\nthree - you're the one for me\nfour - i want to be kiss you more\n\n" +
+        "five - you make me feel alive\nsix - you're my favorite pick\nseven - you make life feel like heaven\neight - you're my true soulmate\n\n" +
+        "nine - and you look so fine\nten - i'll kiss you again and again\neleven - you're my little heaven\ntwelve - our wedding picture on the shelf?\n\n" +
+        "eleven - going back down towards seven\nten - can't wait to see you again\nnine - i want you to be mine\neight - with you it never feels late\n\n" +
+        "seven - we're best friends like lime & lemon\nsix - we'll lay our houses bricks\nfive - you make my heart thrive\nfour - bring my knees to the floor\n\n" +
+        "three - the only one i see\ntwo - i want to be with you\none - you and me, together as one\nzero - you are my forever hero <3\n",
     ]
 }

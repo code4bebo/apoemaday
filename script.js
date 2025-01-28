@@ -761,5 +761,11 @@ function getPoems() {
         "eleven - going back down towards seven\nten - can't wait to see you again\nnine - i want you to be mine\neight - with you it never feels late\n\n" +
         "seven - we're best friends like lime & lemon\nsix - we'll lay our houses bricks\nfive - you make my heart thrive\nfour - bring my knees to the floor\n\n" +
         "three - the only one i see\ntwo - i want to be with you\none - you and me, together as one\nzero - you are my forever hero <3\n",
+	            "a poem a day\nkeeps the sadness away\nsaves the heart from decay\nin a very special way\n\n" +
+        "and while i'm not yet\nthe best poet you've met\ni'll keep writing for you\nand show you my love, so true\n\n" +
+        "for with every word\nand every letter\ni want to say you're my world\nand that you make everything better\n\n" +
+        "and still i truly hope\nthat you like what i wrote\nand that it makes you smile\neven if it's just a little while\n\n" +
+        "for i want to make you happy\nand show you my love\nand i want to make you feel\nthat you're the one i love\n\n" +
+        "and i only ever wrote\nthese poems for you\nbecause you're the one for me\nand the one i want to be with, too\n",
     ]
 }

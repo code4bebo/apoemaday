@@ -767,5 +767,9 @@ function getPoems() {
         "and still i truly hope\nthat you like what i wrote\nand that it makes you smile\neven if it's just a little while\n\n" +
         "for i want to make you happy\nand show you my love\nand i want to make you feel\nthat you're the one i love\n\n" +
         "and i only ever wrote\nthese poems for you\nbecause you're the one for me\nand the one i want to be with, too\n",
+	            "thanks for spending time with me\nthanks for being there\ni swear one day i'll be on my knees\nand show you how much i care\n\n" +
+        "the games, the laughs, the shows, the talks\nthe cuddles, the kisses, the hugs, the walks\nthe jokes, the memes, the fun, the love\nthe warmth, the touch, it feels like from above\n\n" +
+        "thanks for all the time we spend\nfor every second is like heaven\ni love you so much, without end\neven when we're 107\n\n" +
+        "and while this poem may be short\ni want to write it out\nto show you how much you mean to me\nand how much i love you, no doubt\n",
     ]
 }

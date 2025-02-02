@@ -777,5 +777,10 @@ function getPoems() {
         "you are my angel\nmy heaven on earth\nyou save my soul\nand give my life worth\n\n" +
         "someone as perfect as you\nwould be impossible to find\nif you weren't godsent\nand i'm so glad you're mine\n\n" +
         "so thank you, my angel\nfor being with me\nfor showing me love\nand for setting me free\n\n",
+	            "<h2>reflections</h2>when i look in the mirror\ni don't feel alone\ni see you brushing your teeth beside me\nand feel like i'm home\n\n" +
+        "when i look at the window\nat the office when it's dark\ni see you walking with me\nlike we're walking in the park\n\n" +
+        "when i look at my phone\nand see my own reflection\ni see you smiling back at me\nand feel your warm affection\n\n" +
+        "when i check my car mirror\nand see my own eyes\ni remember you siting beside me\nand felt like i'm in paradise\n\n" +
+        "when i look anywhere\ni never feel alone\ni always see you with me\nlike a queen to her throne\n\n",
     ]
 }

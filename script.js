@@ -789,5 +789,9 @@ function getPoems() {
         "the perfect present\nis having you in my life\nloving you so much\nand one day calling you 'my wife'\n\n" +
         "the perfect present\nis loving you so\nbecause i'll love you forever\nnever letting you go\n\n" +
         "the perfect present\nis holding you tight\nkissing your forehead\nand saying 'goodnight'\n",
+	            "mirror mirror on the wall\nwho is the prettiest of them all?\nthe mirror doesn't hesitate\nit lights up, and shows your pretty face\n\n" +
+        "she's the one you're looking for\nwithout a doubt, the one you adore\nthe one you love, then one you care\nyou're as lucky as a millionaire\n\n" +
+        "for she's the prettiest of them all\nan eyecatcher everywhere, outside, at the mall\nthe one that makes others turn around\nthe one that makes your heart pound\n\n" +
+        "the one that makes others jealous\nthe perfect one, a queen in her palace\nyou've found the prettiest there is\nand the kindest too, that's the bliss\n",
     ]
 }

@@ -793,5 +793,11 @@ function getPoems() {
         "she's the one you're looking for\nwithout a doubt, the one you adore\nthe one you love, then one you care\nyou're as lucky as a millionaire\n\n" +
         "for she's the prettiest of them all\nan eyecatcher everywhere, outside, at the mall\nthe one that makes others turn around\nthe one that makes your heart pound\n\n" +
         "the one that makes others jealous\nthe perfect one, a queen in her palace\nyou've found the prettiest there is\nand the kindest too, that's the bliss\n",
+	            "it's never a question\nmy choice is always you\nin the middle of any session\ni'd leave to be with you\n\n" +
+         "wherever i am\nwhatever i do\ni'll drop everything\njust to be with you\n\n" +
+        "to be there for you\nand let you hear my voice\nto care for you true\nfor a moment of rejoice\n\n" +
+        "i love you my dear\nand i'll always be there\nno matter what's near\ni'll always care\n\n" +
+        "at any time\non any day\nat any place\ni'm here to stay\n\n" +
+        "for you will never have to be alone\ni want to swear\ni'll be your own\nand i'll always be there\n",
     ]
 }

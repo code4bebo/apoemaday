@@ -799,5 +799,9 @@ function getPoems() {
         "i love you my dear\nand i'll always be there\nno matter what's near\ni'll always care\n\n" +
         "at any time\non any day\nat any place\ni'm here to stay\n\n" +
         "for you will never have to be alone\ni want to swear\ni'll be your own\nand i'll always be there\n",
+	            "i don't have much energy\nto write a rhyme today\nbut there is one thing\nthat i definitely want to say\n\n" +
+        "i love you forever\njust as you are\nyou're my everything\nmy shining star\n\n" +
+        "i love you so much\nand i always will\nyou're my everything\nmy life, my biggest thrill\n\n" +
+        "please stay with me\ni swear i'll never ever leave\ni won't ever let you go\nand i'll always believe\n",
     ]
 }

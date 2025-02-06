@@ -803,5 +803,10 @@ function getPoems() {
         "i love you forever\njust as you are\nyou're my everything\nmy shining star\n\n" +
         "i love you so much\nand i always will\nyou're my everything\nmy life, my biggest thrill\n\n" +
         "please stay with me\ni swear i'll never ever leave\ni won't ever let you go\nand i'll always believe\n",
+	            "<h2>together</h2>together we'll walk\nhand in hand\ntogether we'll talk\nand make our stand\n\n" +
+        "together we'll laugh\nand have some fun\ntogether we'll have\na life in the sun\n\n" +
+        "together we'll cry\nand share our pain\ntogether we'll try\nto make it through the rain\n\n" +
+        "together we'll love\nand show our care\ntogether we'll be\na perfect pair\n\n" +
+        "together we'll be\nforever and more\ntogether we'll see\nwhat life has in store\n\n",
     ]
 }

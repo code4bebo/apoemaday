@@ -808,5 +808,11 @@ function getPoems() {
         "together we'll cry\nand share our pain\ntogether we'll try\nto make it through the rain\n\n" +
         "together we'll love\nand show our care\ntogether we'll be\na perfect pair\n\n" +
         "together we'll be\nforever and more\ntogether we'll see\nwhat life has in store\n\n",
+	            "<h2>the one</h2>you are the one\nthe one for me\nand the only one i ever need\nwithout you, i don't feel complete\n\n" +
+        "the only one i ever want\nand the only one i could wish for\nbecause you're perfect in every way\nand i love you more every day\n\n" +
+        "i wish to be with you forever\nthrough every storm, and every weather\nyou and me, only us two\na love so strong, so pure, so true\n\n" +
+        "you are the prettiest\nthe cutest of all\nthe kindest ever\nthe one that catches my fall\n\n" +
+        "the prettiest blossom\non the tree of my life\nthe one that makes me happy\nand the one that makes me strive\n\n" +
+        "so please, my love\nstay here with me\nand let's be together\nfor all eternity\n\n",
     ]
 }

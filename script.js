@@ -814,5 +814,13 @@ function getPoems() {
         "you are the prettiest\nthe cutest of all\nthe kindest ever\nthe one that catches my fall\n\n" +
         "the prettiest blossom\non the tree of my life\nthe one that makes me happy\nand the one that makes me strive\n\n" +
         "so please, my love\nstay here with me\nand let's be together\nfor all eternity\n\n",
+	            "i love my pookie\nshe's the prettiest there is\nwith no competition\nmarrying her is my only mission\n\n" +
+        "i love my pookie\nshe's the kindest of all\nshe makes me feel loved\nlike i'm standing ten feet tall\n\n" +
+        "i love my pookie\nshe hypes me up when we play\nwith her cute little voice\nshe brightens up my day\n\n" +
+        "i love my pookie\nshe's the cutest of all\nwith her pretty eyes\nshe makes my heart fall\n\n" +
+        "i love my pookie\nshe's the most beautiful girl\nwith her gorgeous smile\nshe makes my heart swirl\n\n" +
+        "i love my pookie\nshe's the hottest of all\nwith her stunning body\nshe makes me fall to my knees and crawl\n\n" +
+        "i love my pookie\nshe teases me with jokes\nwith her humor and wit\nshe's the one i want to be with\n\n" +
+        "i love my pookie\nfor she is my queen\nthe only one i want to be with\nthe only one i want to be seen\n",
     ]
 }

@@ -822,5 +822,12 @@ function getPoems() {
         "i love my pookie\nshe's the hottest of all\nwith her stunning body\nshe makes me fall to my knees and crawl\n\n" +
         "i love my pookie\nshe teases me with jokes\nwith her humor and wit\nshe's the one i want to be with\n\n" +
         "i love my pookie\nfor she is my queen\nthe only one i want to be with\nthe only one i want to be seen\n",
+	            "while this poem comes 4 days late\ni didn't want it to miss\nbecause it is a special date\nand i can't way to give you a kiss\n\n" +
+        "6 months have passed\nsince your life and mine\nhave been entwined\nand i'm so glad it's you i find\n\n" +
+        "it's you i find on every day\nin every moment, in every way\n6 months of love, of care, of fun\nand i can't wait for the next ones\n\n" +
+        "6 months of cuddles, of kisses, of hugs\nof laughter, of joy, of love\n6 months of you, my dear\nand i'm so glad you're here\n\n" +
+        "6 months, with also darker times\nbut we made it through\nand that's what shines\nthat we're strong, me and you\n\n" +
+        "we've made it through the toughest bit\nand i am endlessly glad we did\nbecause i want you, to be my future wife\nand i want to be with you, for all my life\n\n" +
+        "so let's turn it from months to years\nand from years to decades, so near\nwe'll fight through every storm and weather\nbianca, i love you, and that's forever\n",
     ]
 }

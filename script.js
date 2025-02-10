@@ -829,5 +829,11 @@ function getPoems() {
         "6 months, with also darker times\nbut we made it through\nand that's what shines\nthat we're strong, me and you\n\n" +
         "we've made it through the toughest bit\nand i am endlessly glad we did\nbecause i want you, to be my future wife\nand i want to be with you, for all my life\n\n" +
         "so let's turn it from months to years\nand from years to decades, so near\nwe'll fight through every storm and weather\nbianca, i love you, and that's forever\n",
+	            "counting the days\ntill i see your face\nand kiss it so gently\nfilled with love's embrace\n\n" +
+        "missing you so much\nit hurts my heart\ni can't wait for the day\nwe're no longer apart\n\n" +
+        "when you're here with me\nit's gonna be heaven\ni'll hold you so close\nand kiss you every second\n\n" +
+        "i'll make you feel loved\nlike you've never felt before\ni'll make you feel safe\nand i'll make you feel adored\n\n" +
+        "for i'll be the man\nthat vows with his heart\nto love you forever\nand never to part\n\n" +
+        "let's keep on fighting\nfor our eternal love\nand let's keep on loving\nunderneath the stars above\n\n",
     ]
 }

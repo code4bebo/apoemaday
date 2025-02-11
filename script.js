@@ -835,5 +835,11 @@ function getPoems() {
         "i'll make you feel loved\nlike you've never felt before\ni'll make you feel safe\nand i'll make you feel adored\n\n" +
         "for i'll be the man\nthat vows with his heart\nto love you forever\nand never to part\n\n" +
         "let's keep on fighting\nfor our eternal love\nand let's keep on loving\nunderneath the stars above\n\n",
+	            "if i could teleport anywhere\nbut i could only do it once\ni'd teleport to you\nwithout a second glance\n\n" +
+        "you are the safest space\nmy favorite place\nwith the prettiest face\nenchanted by your grace\n\n" +
+        "i'd teleport to you\nwithout a doubt\neven if it's just for a minute\nit's all i'm thinking about\n\n" +
+        "it would be the perfect superpower\nseeing you at any hour\nbeing by your side in a second\nand feeling your love, so beckoned\n\n" +
+        "whenever you need me\nwhenever you feel down\nbeing there for you\nto rid you of your frown\n\n" +
+        "to pat your head\nand hold you close\nto kiss your lips\nand love you the most\n\n",
     ]
 }

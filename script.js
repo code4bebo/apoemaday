@@ -841,5 +841,11 @@ function getPoems() {
         "it would be the perfect superpower\nseeing you at any hour\nbeing by your side in a second\nand feeling your love, so beckoned\n\n" +
         "whenever you need me\nwhenever you feel down\nbeing there for you\nto rid you of your frown\n\n" +
         "to pat your head\nand hold you close\nto kiss your lips\nand love you the most\n\n",
+	            "i am yours\nand you'll be mine\nwe're right on course\nfor valentine\n\n" +
+        "just two more nights\nuntil it's time\na day for us\nour hearts entwined\n\n" +
+        "just you and me\nand our favorite games\nlaughing full of joy\nyou set my heart in flames\n\n" +
+        "but it burns for you\nand your beautiful smile\nyour gorgeous eyes\nand lips so divine\n\n" +
+        "the perfection you bring\nis not to compare\nfor you are the prettiest\nyou can find anywhere\n\n" +
+        "i can't wait to spend\nthat special day with you\nit'll be the time of my life\nand i hope for you too\n",
     ]
 }

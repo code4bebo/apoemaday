@@ -847,5 +847,10 @@ function getPoems() {
         "but it burns for you\nand your beautiful smile\nyour gorgeous eyes\nand lips so divine\n\n" +
         "the perfection you bring\nis not to compare\nfor you are the prettiest\nyou can find anywhere\n\n" +
         "i can't wait to spend\nthat special day with you\nit'll be the time of my life\nand i hope for you too\n",
+	            "your new hair\nis making me stare\nyou look so pretty\nit's not even fair\n\n" +
+        "the rose-gold hue\nis shining so bright\nit's making me feel\nlike i'm in the light\n\n" +
+        "and i can't help but look\nyou're the prettiest girl i see\nwith your cutesy smile\ni'm so glad you're with me\n\n" +
+        "so thank you for being perfect\nin every single way\ni hope you like your new hair too\nand it makes your heart scream 'yay!'\n\n" +
+        "and tomorrow i'll shower you\nwith even more love\ncause it's valentine's day\nand you're the one i'm thinking of\n",
     ]
 }

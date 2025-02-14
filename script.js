@@ -852,5 +852,11 @@ function getPoems() {
         "and i can't help but look\nyou're the prettiest girl i see\nwith your cutesy smile\ni'm so glad you're with me\n\n" +
         "so thank you for being perfect\nin every single way\ni hope you like your new hair too\nand it makes your heart scream 'yay!'\n\n" +
         "and tomorrow i'll shower you\nwith even more love\ncause it's valentine's day\nand you're the one i'm thinking of\n",
+	            "with every day that turns to night\ni think of you, my guiding light\nyou're the one that makes life heaven\non a scale of one to five, you're a seven\n\n" +
+        "i'll never feel i'm good enough\nno matter the compliments, or gifts and love\nbut i'll keep on being there for you\ni love you dearly, that's just true\n\n" +
+        "i really want to make you happy\nand show you how much i care\neven if your day was crappy\ni'll always be by your side, i swear\n\n" +
+        "i'm so happy when you're near\nwhen you hold my arm\nit feels like you're always here\nand i'm safe from any harm\n\n" +
+        "no one made me feel like you do\nit's something i can't describe\ni'm so endlessly thankful, to be with you\nand even more thankful, to call you mine\n\n" +
+        "thank you love, for trusting me\nfor being there, and loving me\ni'll give my all, to make your heart shine\nthanks for being my valentine\n",
     ]
 }

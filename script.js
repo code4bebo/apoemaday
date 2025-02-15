@@ -858,5 +858,13 @@ function getPoems() {
         "i'm so happy when you're near\nwhen you hold my arm\nit feels like you're always here\nand i'm safe from any harm\n\n" +
         "no one made me feel like you do\nit's something i can't describe\ni'm so endlessly thankful, to be with you\nand even more thankful, to call you mine\n\n" +
         "thank you love, for trusting me\nfor being there, and loving me\ni'll give my all, to make your heart shine\nthanks for being my valentine\n",
+	            "an itty bitty poem\nis all i can do\nyou are my world\nand i truly love you\n\n" +
+        "i can't spend a minute\nwithout you on my mind\nyou're the prettiest and cutest\nand the most kind\n\n" +
+        "i love you bianca\nand i will do so forever\nyou're my everything\nand i'm without through every weather\n\n" +
+        "i am sorry for sometimes\nbeing a bit of a pain\ni'm trying to improve\nto one day be your man\n\n" +
+        "i'm sorry for all the times\ni overthink and cry\ni don't want to annoy you\ni just want to be by your side\n\n" +
+        "and i'm scared of being a bother\nand i'm scared of being a pain\ni'm scared of losing you\nand i'm scared of going insane\n\n" +
+        "i love you so much\nand i want to be with you\ni want to make you happy\nand i want to be your boo\n\n" +
+        "you're the most perfect girl\nand my whole, whole world\ni love you forever\nand vow that we'll always be together\n",
     ]
 }

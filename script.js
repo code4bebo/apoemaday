@@ -866,5 +866,17 @@ function getPoems() {
         "and i'm scared of being a bother\nand i'm scared of being a pain\ni'm scared of losing you\nand i'm scared of going insane\n\n" +
         "i love you so much\nand i want to be with you\ni want to make you happy\nand i want to be your boo\n\n" +
         "you're the most perfect girl\nand my whole, whole world\ni love you forever\nand vow that we'll always be together\n",
+	            "noise\nvoices\nracing thoughts\noverstimulation\n\n" +
+        "left\nright\nup\ndown\n\n" +
+        "focus\nlost\nnoises\nvoices\n\n" +
+        "overwhelmed\noverstimulated\noverloaded\noverthinking\n\n" +
+        "eyes\nyour eyes\nquieter\nslowly\n\n" +
+        "hair\nyour hair\neven\nquieter\n\n" +
+        "hand\nyour touch\ntouching me\nsilence\n\n" +
+        "heart\nyour heart\nbeating\nsilence\n\n" +
+        "you\nsilence\npeace\nlove\n\n" +
+        "calm\nbreathe\nease\nlightened\n\n" +
+        "you\nangel\nsaviour\nworld\n\n" +
+        "i love you\ni love you\ni love you\ni love you\n",
     ]
 }

@@ -878,5 +878,10 @@ function getPoems() {
         "calm\nbreathe\nease\nlightened\n\n" +
         "you\nangel\nsaviour\nworld\n\n" +
         "i love you\ni love you\ni love you\ni love you\n",
+	            "seeing you happy\nand making you smile\nis the best thing in the world\nand makes my life worthwhile\n\n" +
+        "i love hearing you laugh\ni love seeing you grin\ni love making you happy\nand seeing you win\n\n" +
+        "making you feel good\nis the essence of my life\ni want to be there for you\nyour loving man, your knight\n\n" +
+        "to keep you safe\nand make you feel loved\nto keep you warm and happy\nlike earth is the heavens above\n\n" +
+        "i love you so much\nand wish you a good night\ni hope you sleep well\nand dream of me, holding you tight <3\n",
     ]
 }

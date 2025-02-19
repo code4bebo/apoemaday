@@ -883,5 +883,15 @@ function getPoems() {
         "making you feel good\nis the essence of my life\ni want to be there for you\nyour loving man, your knight\n\n" +
         "to keep you safe\nand make you feel loved\nto keep you warm and happy\nlike earth is the heavens above\n\n" +
         "i love you so much\nand wish you a good night\ni hope you sleep well\nand dream of me, holding you tight <3\n",
+	            "waking up\nthinking of youn\how much i miss you\nand want to cuddle with you\n\n" +
+        "walking to work\nthinking of you\nhow i miss going on walks\nand holding your hand\n\n" +
+        "grabbing a coffee\nthinking of you\nof having breakfast together\nand yapping forever\n\n" +
+        "working at my desk\nthinking of you\nof how i miss your voice\nthat usually comes out my headphones\n\n" +
+        "having lunch\nthinking of you\nof how even just a sandwich\nwould be better with you\n\n" +
+        "grabbing a snack\nthinking of you\nof how i miss sharing them\nstuffing our faces like fools\n\n" +
+        "finishing up work\nthinking of you\noh i'd love to come home\nwith you waiting at the door through\n\n" +
+        "coming home\nfalling into bed\nstill thinking of you\nand it's still not enough said\n\n" +
+        "falling asleep\nand dreaming so deep\nof you, my love\nand how you make my heart leap\n\n" +
+        "and when the morning comes\nand i wake up\ni'll be thinking of you\nand how much i love you, my love\n",
     ]
 }

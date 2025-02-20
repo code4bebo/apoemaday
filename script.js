@@ -893,5 +893,12 @@ function getPoems() {
         "coming home\nfalling into bed\nstill thinking of you\nand it's still not enough said\n\n" +
         "falling asleep\nand dreaming so deep\nof you, my love\nand how you make my heart leap\n\n" +
         "and when the morning comes\nand i wake up\ni'll be thinking of you\nand how much i love you, my love\n",
+	            "the sun, the moon, the stars\nthey cover all our scars\ntogether they light up day n' night\nand make everything alright\n\n" +
+        "when i look up at the sky\nand see the moon so bright\ni think of you, my love\nand how you light up my life\n\n" +
+        "when i look up at the stars\nand see them twinkling so far\ni think of how you're oh so far\nbut still so near, in my heart\n\n" +
+        "when i look up at the sun\nand feel its warmth on my skin\ni think of your hugs and kisses\nand how you make me feel warm within\n\n" +
+        "when i look up at the clouds\nand see them drifting by\ni think of how you're always there\nand how you make me feel just as high\n\n" +
+        "when i look up at the sky\ni see us flying so high\nthrough the clouds, the stars, the moon\nwhere i'll hold you tight again soon\n\n" +
+        "everywhere i look\nand with everything i see\ni think of you, my love\nand how you're the one for me\n",
     ]
 }

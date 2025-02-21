@@ -900,5 +900,22 @@ function getPoems() {
         "when i look up at the clouds\nand see them drifting by\ni think of how you're always there\nand how you make me feel just as high\n\n" +
         "when i look up at the sky\ni see us flying so high\nthrough the clouds, the stars, the moon\nwhere i'll hold you tight again soon\n\n" +
         "everywhere i look\nand with everything i see\ni think of you, my love\nand how you're the one for me\n",
+	            "i'm thinking of her all the time\n<b>thinking of who\n</b>that girl...\n<b>which one?</b>\n\n" +
+        "the beautiful one\n<b>oh, that one?</b>\nyes, the one with the pretty eyes\n<b>ah, i see</b>\n\n" +
+        "the one with the adorable smile\n<b>oh i know who you mean\n</b>yeah... she's so perfect\n<b>she really did it to you, huh?</b>\n\n" +
+        "i can't help it\n<b>it's okay, i understand\n</b>she's just so cute\n<b>you're in love, huh?</b>\n\n" +
+        "i am... like never before\n<b>that's so sweet\n</b>how do i show her?\n<b>just tell her you love her</b>\n\n" +
+        "i already did... countless times\n<b>so where's the issue</b>\nit just doesn't feel enough\n<b>she knows you love her</b>\n\n" +
+        "i know... but...\n<b>but what?</b>\nshe doesn't know HOW MUCH i love her\n<b>then show her</b>\n\n" +
+        "i don't know how\n<b>just be there for her</b>\nthat's it?\n<b>that's it</b>\n\n" +
+        "no... that's not it\n<b>what do you mean?</b>\nthere's so much more\n<b>like what?</b>\n\n" +
+        "like... i want to marry her\n<b>oh, that's so sweet\n</b>and i want to be with her forever\n<b>you really love her, don't you?</b>\n\n" +
+        "i do... more than anything\n<b>really now?</b>\nyes really, she's my everything\n<b>then keep showing her</b>\n\n" +
+        "i will, i promise\n<b>that's all she needs</b>\nand i'll never stop\n<b>that's all she wants</b>\n\n" +
+        "i'll show her my love\n<b>show her all the way</b>\nwhatever it takes, i'll do\n<b>do it everyday</b>\n\n" +
+        "for the rest of our lives\n<b>that's the spirit</b>\nand even after that\n<b>until the end of time</b>\n\n" +
+        "i love her so much\n<b>she loves you too</b>\nand i'd do anything for her\n<b>now she knows you do</b>\n\n" +
+        "...\n<b>...</b>\n...\n<b>...</b>\n\n" +
+        "tell me... she will look gorgeous\nso gorgeous in that white dress, won't she?\n<b>she will look like an angel</b>\n<b>and you'll be the happiest man alive</b>\n",
     ]
 }

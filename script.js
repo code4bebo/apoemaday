@@ -917,5 +917,11 @@ function getPoems() {
         "i love her so much\n<b>she loves you too</b>\nand i'd do anything for her\n<b>now she knows you do</b>\n\n" +
         "...\n<b>...</b>\n...\n<b>...</b>\n\n" +
         "tell me... she will look gorgeous\nso gorgeous in that white dress, won't she?\n<b>she will look like an angel</b>\n<b>and you'll be the happiest man alive</b>\n",
+    	        "that pretty girl i know\nis the one tho who i owe\nmy heart, my love, my life\nshe's the one who makes me thrive\n\n" +
+        "my whole heart is just for her\nand i love her, that's for sure\nthe one who lights up my life\nand makes me feel alive\n\n" +
+        "and i can't help but cheer\nand feel so excited\nwhen she's popping off in-game\nlike a champ, so delighted\n\n" +
+        "followed by her cute little gigles\nand her excitement as well\nit makes my heart race\nand my love for her swell\n\n" +
+        "and i can't help but think\nhow lucky i am\nto have her in my life\nand to be her man\n\n" +
+        "and it makes me so happy\nto see her grow and thrive\nto be part of the journey\nso i can make her my wife\n\n",
     ]
 }

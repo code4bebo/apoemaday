@@ -923,5 +923,13 @@ function getPoems() {
         "followed by her cute little gigles\nand her excitement as well\nit makes my heart race\nand my love for her swell\n\n" +
         "and i can't help but think\nhow lucky i am\nto have her in my life\nand to be her man\n\n" +
         "and it makes me so happy\nto see her grow and thrive\nto be part of the journey\nso i can make her my wife\n\n",
+	            "no matter how far\nyou and i are\ni'll always be there\nand show you how much i care\n\n" +
+        "just a phone call away\nat night or at day\nwhatever you need\ni'll be there with speed\n\n" +
+        "for you deserve everything\nand i'll try to provide just that\ni vow to be there for you\nand to love you, that's a fact\n\n" +
+        "my whole heart is yours\nand every part of me too\ni vow to be there for you\nbecause i really do love you\n\n" +
+        "no matter how hard\nor how many tears we shed\ni vow my love to you\neven after we're dead\n\n" +
+        "because you are the cutest\nand the prettiest there is\ni couldn't imagine anyone but you\nto be my forever miss\n\n" +
+        "so please know, my sweetest girl\nwhatever it is\ni'll always be eyes and ears\nno matter what it is\n\n" +
+        "i'll listen and i'll care\ni'll always be there\ni'll always be on your side\nand stay with you through the night\n",
     ]
 }

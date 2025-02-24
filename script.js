@@ -931,5 +931,18 @@ function getPoems() {
         "because you are the cutest\nand the prettiest there is\ni couldn't imagine anyone but you\nto be my forever miss\n\n" +
         "so please know, my sweetest girl\nwhatever it is\ni'll always be eyes and ears\nno matter what it is\n\n" +
         "i'll listen and i'll care\ni'll always be there\ni'll always be on your side\nand stay with you through the night\n",
+	            "can kiss you?\non the cheek\nsoft and gentle\nand so sweet\n\n" +
+        "caressing you\nfondling your hair\nkeeping you safe\nto show you i care\n\n" +
+        "can i kiss you?\non the forehead\nto show you my love\nwith you i'm never bored\n\n" +
+        "while i gently\nmassage your arm\ncuddle under the blanket\nand keep you warm\n\n" +
+        "can i kiss you?\non the lips\nand show you my love\nwith every single kiss\n\n" +
+        "while my hands run\ndown your back\ndown your legs\nand come right back\n\n" +
+        "can i kiss you?\nall over your face\nand show you my love\nin every single place\n\n" +
+        "on every single spot\nthat you're insecure\ni'll kiss you on every one\nand show you i'm sure\n\n" +
+        "i'm sure that you're perfect\ni'm sure that you're mine\ni'm sure that i love you\nand i'm sure you must be divine\n\n" +
+        "kiss you on every spot\nand every scar\nto show you my love\nand show you how far\n\n" +
+        "how far i'd go\nhow much i'd do\nto make you feel special\nand how much i love you\n\n" +
+        "cause you are a princess\nand only deserve the best\ni'll serve you forever\nand shower you with love to no rest\n\n" +
+        "my beautiful princess\nan angel on earth\ni wish that one day\nyou'll see how i see your worth\n",
     ]
 }

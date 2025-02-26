@@ -944,5 +944,10 @@ function getPoems() {
         "how far i'd go\nhow much i'd do\nto make you feel special\nand how much i love you\n\n" +
         "cause you are a princess\nand only deserve the best\ni'll serve you forever\nand shower you with love to no rest\n\n" +
         "my beautiful princess\nan angel on earth\ni wish that one day\nyou'll see how i see your worth\n",
+	            "i am here\nno matter what\ni am here\nand i'll never stop\n\n" +
+        "i always will be here\ni am certain\nnot once did i doubt it\nnot once did i question\n\n" +
+        "you and i\nwe're forever\nno matter what\nwe'll always be together\n\n" +
+        "i know it because\nyou are my world\nmy everything\nmy favorite girl\n\n" +
+        "i love you so much\nand i always will\nno matter what\ni'll be there still\n",
     ]
 }

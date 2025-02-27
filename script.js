@@ -949,5 +949,13 @@ function getPoems() {
         "you and i\nwe're forever\nno matter what\nwe'll always be together\n\n" +
         "i know it because\nyou are my world\nmy everything\nmy favorite girl\n\n" +
         "i love you so much\nand i always will\nno matter what\ni'll be there still\n",
+	            "you and i\ntill the end of time\nyou and i\nand i'll make you mine\n\n" +
+        "not just for now\nbut forever i mean it\nnot just for a while\nbut forever, believe it\n\n" +
+        "i know it sounds cheesy\nbut i mean every word\ni want to be with you\nand i want to be heard\n\n" +
+        "heard by your heart\nand heard by your soul\ni want to be with you\nand make you feel whole\n\n" +
+        "make you feel loved\nmake you feel safe\nmake you feel special\nand make you feel great\n\n" +
+        "truly be the man\nthat would do anything for you\nand truly try my best\nso you feel loved too\n\n" +
+        "to truly be the man\nthat your proud to call yours\nthat does all the little things\nand opens all the doors\n\n" +
+        "together we'll be\nforever and more\ntogether we'll see\nwhat life has in store\n\n",
     ]
 }

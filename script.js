@@ -957,5 +957,10 @@ function getPoems() {
         "truly be the man\nthat would do anything for you\nand truly try my best\nso you feel loved too\n\n" +
         "to truly be the man\nthat your proud to call yours\nthat does all the little things\nand opens all the doors\n\n" +
         "together we'll be\nforever and more\ntogether we'll see\nwhat life has in store\n\n",
+	            "thank you for the time\nthat we had today\nthe games we played\nand cute things you'd say\n\n" +
+        "thank you for watching gntm\nwhile you were in the bath\nthank you for being there\nand making me laugh\n\n" +
+        "thank you for the time\nwith just us two\ni love every second\nwith just me and you\n\n" +
+        "and i almost cried\nwhen you asked to do so\nit truly means the world\nand i wanted you to know\n\n" +
+        "i can't wait to hear your voice again\nand to make sure to make you laugh\nand when i see your beautiful face\ni'll give you tons of love <3\n",
     ]
 }

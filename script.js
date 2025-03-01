@@ -961,6 +961,14 @@ function getPoems() {
         "thank you for watching gntm\nwhile you were in the bath\nthank you for being there\nand making me laugh\n\n" +
         "thank you for the time\nwith just us two\ni love every second\nwith just me and you\n\n" +
         "and i almost cried\nwhen you asked to do so\nit truly means the world\nand i wanted you to know\n\n" +
-        "i can't wait to hear your voice again\nand to make sure to make you laugh\nand when i see your beautiful face\ni'll give you tons of love <3\n",
+        "i can't wait to hear your voice again\nand to make sure to make you laugh\nand when i see your beautiful face\ni'll give you tons of love <3\n"
+	            + "\n<h3>march 1st</h3>" +
+        "when we play together\nyour voice makes me smile\ni keep getting flustered\nand feel like a child\n\n" +
+        "when you hype me up\nand cheer me on\ni feel like the best\nand i feel like i've won\n\n" +
+        "it means so much to me\nand always makes me blush\nyou celebrating those wins\ntogether with the adrenaline rush\n\n" +
+        "but what really makes me grin\nis watching YOU win\nwhen you clutch up those rounds\nand help all of us win\n\n" +
+        "you've gotten so good\nand i'm so proud of you\nyou're the best teammate ever\nand i love you, that's true\n\n" +
+        "your calls are the best\nand when you hit those flicks so clean\ni jump out of my chair\nand want to scream\n\n" +
+        "'OH MEIN GOTT BEBO'\n'DU BIST SO FREAKING GUUUT'\n'ICH BIN SO FREAKING STOLZ SCHATZ'\n'PLEASE LET ME KISS YOU'\n\n",
     ]
 }

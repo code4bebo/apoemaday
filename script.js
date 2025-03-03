@@ -970,5 +970,12 @@ function getPoems() {
         "you've gotten so good\nand i'm so proud of you\nyou're the best teammate ever\nand i love you, that's true\n\n" +
         "your calls are the best\nand when you hit those flicks so clean\ni jump out of my chair\nand want to scream\n\n" +
         "'OH MEIN GOTT BEBO'\n'DU BIST SO FREAKING GUUUT'\n'ICH BIN SO FREAKING STOLZ SCHATZ'\n'PLEASE LET ME KISS YOU'\n\n",
+	            "why are you often doing yourself so tough\ntelling yourself that you're not enough\nyou're the prettiest there is\nmy love, my life, my bliss\n\n" +
+        "your eyes, your lips\nyour hair, your hips\nyour voice, your smile\nyour body, your style\n\n" +
+        "the way you dress\nit's oh so cute\nthe way you talk\nit's oh so smooth\n\n" +
+        "those cozy pullovers\nthose cute little socks\nthose soft pants\nyour whole outfit rocks\n\n" +
+        "i love you so much\nand i always will\nyou're my everything\nmy life, my thrill\n\n" +
+        "your face is perfect\nand your body is too\nyou're the prettiest girl\nand i'm so in love with you\n\n" +
+        "so please, my love\ndon't be so tough\nyou're the most gorgeous there is\nand i can't get enough\n\n",
     ]
 }

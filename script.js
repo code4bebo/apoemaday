@@ -977,5 +977,14 @@ function getPoems() {
         "i love you so much\nand i always will\nyou're my everything\nmy life, my thrill\n\n" +
         "your face is perfect\nand your body is too\nyou're the prettiest girl\nand i'm so in love with you\n\n" +
         "so please, my love\ndon't be so tough\nyou're the most gorgeous there is\nand i can't get enough\n\n",
+	            "i'm sorry if i'm not always\nsaying things clear\nbut i promise i'm trying\nand i love you, my dear\n\n" +
+        "i'm sorry that i can't\ngive you all you need\nbut i promise i'm trying\ntrying to grow, and exceed\n\n" +
+        "i'm sorry if i can't\ngive you the security you crave\nbut i promise i'm trying\nto be honest and brave\n\n" +
+        "to be there for you\nand keep you up to date\nto tell you everything i'm doing\nand not make you wait\n\n" +
+        "when i see that little icon\nor hear my phone ring\ni pull it out my pocket\nand try to respond to everything\n\n" +
+        "i'm sorry if i can't\nalways be there\nbut i promise i'm trying\nand i'll always care\n\n" +
+        "because you are my princess\nand i want to be your prince\ni want to be there for you\nand make you feel convinced\n\n" +
+        "convinced that i love you\nand that i'll always be there\nno matter what happens\nthat i'll always care\n\n" +
+        "so please forgive\nif i'm not perfect yet\ni'll keep going and trying\nuntil i'm the best you've met\n",
     ]
 }

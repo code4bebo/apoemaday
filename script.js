@@ -986,5 +986,11 @@ function getPoems() {
         "because you are my princess\nand i want to be your prince\ni want to be there for you\nand make you feel convinced\n\n" +
         "convinced that i love you\nand that i'll always be there\nno matter what happens\nthat i'll always care\n\n" +
         "so please forgive\nif i'm not perfect yet\ni'll keep going and trying\nuntil i'm the best you've met\n",
+	            "you're my number one\nat every time of day\nwhen you say you need me\ni'll always find a way\n\n" +
+        "i'll be there for you\nfight through being tired\ni'll be there for you\nand make sure you're admired\n\n" +
+        "when you need me by your side\ni'm in my car in a blink\nwhen you need me to hold you tight\ni'll be there before you can think\n\n" +
+        "no matter how long the drive\nno matter how far\ni'll be with you always\nlike a shining star\n\n" +
+        "i'll drop everything\nthe moment you call\ni'll be there for you\nand i'll give my all\n\n" +
+        "at work, at home, anywhere i am\ni'll drop, stop, and run\njust to be with you\ncause i want to be the one\n",
     ]
 }

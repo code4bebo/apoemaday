@@ -997,6 +997,6 @@ function getPoems() {
         "when i hear your giggle\ni wanna giggle too\ncause it's so freaking cute\njust as cute as you\n\n" +
         "when i hear you sing along\ni can't help but smile\ncause no matter which song\nyou nail it every time\n\n" +
         "when i hear you say\n'i love you'\ni can't help\nbut feel my heart melt\n\n" +
-        "because i love you too\and whenever you say it\nit's like the first time\nmaking me feel like heaven, so divine\n\n",
+        "because i love you too\nand whenever you say it\nit's like the first time\nmaking me feel like heaven, so divine\n\n",
     ]
 }

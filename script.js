@@ -992,5 +992,11 @@ function getPoems() {
         "no matter how long the drive\nno matter how far\ni'll be with you always\nlike a shining star\n\n" +
         "i'll drop everything\nthe moment you call\ni'll be there for you\nand i'll give my all\n\n" +
         "at work, at home, anywhere i am\ni'll drop, stop, and run\njust to be with you\ncause i want to be the one\n",
+	            "when i hear your voice\ni wanna jump out of my seat\nfull of excitement\nlike a kid for a treat\n\n" +
+        "when i hear your laugh\ni wanna laugh too\ncause it's so contagious\nit just passes on through\n\n" +
+        "when i hear your giggle\ni wanna giggle too\ncause it's so freaking cute\njust as cute as you\n\n" +
+        "when i hear you sing along\ni can't help but smile\ncause no matter which song\nyou nail it every time\n\n" +
+        "when i hear you say\n'i love you'\ni can't help\nbut feel my heart melt\n\n" +
+        "because i love you too\and whenever you say it\nit's like the first time\nmaking me feel like heaven, so divine\n\n",
     ]
 }

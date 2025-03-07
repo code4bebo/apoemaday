@@ -998,5 +998,10 @@ function getPoems() {
         "when i hear you sing along\ni can't help but smile\ncause no matter which song\nyou nail it every time\n\n" +
         "when i hear you say\n'i love you'\ni can't help\nbut feel my heart melt\n\n" +
         "because i love you too\nand whenever you say it\nit's like the first time\nmaking me feel like heaven, so divine\n\n",
+	            "today was fun\nfrom start to end\nhearing your voice\nand laughing to no end\n\n" +
+        "when we were playing together\nand you were singing along\nmy heart was melting\nand our love felt so strong\n\n" +
+        "when you're joking around\nand teasing me with your wit\ni can't help but smile\nand feel like a kid\n\n" +
+        "when you're shouting for help\nor making fun of me\nit makes me feel so special\nlike i'm the only one you see\n\n" +
+        "i couldn't imagine a day\nwithout you and your voice\nyou're the most gorgeous girl\nand always my first choice\n",
     ]
 }

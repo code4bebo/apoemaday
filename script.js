@@ -1003,5 +1003,12 @@ function getPoems() {
         "when you're joking around\nand teasing me with your wit\ni can't help but smile\nand feel like a kid\n\n" +
         "when you're shouting for help\nor making fun of me\nit makes me feel so special\nlike i'm the only one you see\n\n" +
         "i couldn't imagine a day\nwithout you and your voice\nyou're the most gorgeous girl\nand always my first choice\n",
+	            "in 7 days\nyou'll be turning older\none year wiser\nand one year bolder\n\n" +
+        "but all the years\nfrom then to come\nit's you and me\nand we'll have fun\n\n" +
+        "every birthday\nyou and me\nfrom now on together\nand forever, you'll see\n\n" +
+        "cause whatever it takes\ni'll be there for you\nright by your side\nand loving you too\n\n" +
+        "with every year\nyou just grow more beautiful\nand i grow more in love\nand be more dutiful\n\n" +
+        "to make you feel special\nand make you feel loved\nto make you laugh\nand care for you, my love\n\n" +
+        "i can't wait for your birthday\nand to see your face\ni'll make sure it's special\nand make your heart race\n\n",
     ]
 }

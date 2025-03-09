@@ -1010,5 +1010,11 @@ function getPoems() {
         "with every year\nyou just grow more beautiful\nand i grow more in love\nand be more dutiful\n\n" +
         "to make you feel special\nand make you feel loved\nto make you laugh\nand care for you, my love\n\n" +
         "i can't wait for your birthday\nand to see your face\ni'll make sure it's special\nand make your heart race\n\n",
+	            "with every day we spend\nmy brain still can't comprehend\nhow unbelievably cute you are\nmy sweetest princess, my shining star\n\n" +
+        "your cute little giggles\nand silly little jokes\nyour accidental word-fumbles\nafter which you jokingly check for a stroke\n\n" +
+        "your 'AHHHHHHH's and 'EEEEEEEK's\nand all the little sounds\nyour cute little 'hmm's\nand your cute laugh that resounds\n\n" +
+        "your cute little smile\nand your cute little face\nyour cute little eyes\nand your cute little grace\n\n" +
+        "when i hear your voice\ni just can't help but melt\nyou're my sweetest princess\ni hope that my love for you is deeply felt\n\n" +
+        "and what i always love the most\nis when you make fun of me\nthose little teases and jokes\ntruly make me endlessly happy <3",
     ]
 }

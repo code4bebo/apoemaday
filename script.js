@@ -3,7 +3,44 @@ window.onload = function() {
     const poemElement = document.getElementById("poem-text");
     dateElement.innerHTML = getDateString();
     poemElement.innerHTML = getTodaysPoem();
+    
+    const confettiButton = document.getElementById("confetti-button");
+    confettiButton.addEventListener("click", launchConfetti);
+    startConfettiRain();
 };
+
+function launchConfetti() {
+    confetti({
+        particleCount: 200,
+        spread: 120,
+        origin: { y: 0.68 },
+      });
+}
+
+function startConfettiRain() {
+    const duration = 6 * 1000;
+    const end = Date.now() + duration;
+
+    (function frame() {
+        confetti({
+            particleCount: 8,
+            angle: 60,
+            spread: 55,
+            origin: { x: 0, y: 0.2 },
+        });
+
+        confetti({
+            particleCount: 8,
+            angle: 120,
+            spread: 55,
+            origin: { x: 1, y: 0.2 },
+        });
+
+        if (Date.now() < end) {
+            requestAnimationFrame(frame);
+        }
+    })();
+}
 
 function getDateString() {
     const today = new Date();
@@ -148,10 +185,10 @@ function getPoems() {
         "<b>Actions cannot describe my love for you</b>\nno matter what I gift you\nno matter how often I open the door for you\nit will never be enough, to display my true love\n\n" +
         "<b>Time cannot describe my love for you</b>\nno matter how many moments we share\nno matter how many months pass by\nit will never encompass my feelings for you\n\n" +
         "<b>Words, touch, actions, and time fail me</b>\nmy love goes beyond what's felt or seen\nit is boundless, a silent promise\nfor a lifetime, and far beyond",
-        "<b>her gaze?</b>\na soft warmth pulling me close,\nwhere everything fades, and it's just us,\nwrapped in quiet, timeless glow.\n\n" +  
-        "<b>her eyes?</b>\nlike autumn, deep and true,\ni get lost there, endlessly,\na calm that feels like coming home.\n\n" +  
+        "<b>her gaze?</b>\na soft warmth pulling me close,\nwhere everything fades, and it's just us,\nwrapped in quiet, timeless glow.\n\n" +
+        "<b>her eyes?</b>\nlike autumn, deep and true,\ni get lost there, endlessly,\na calm that feels like coming home.\n\n" +
         "<b>her soul?</b>\nheld there, beneath those gentle shades,\nwhere fears dissolve, and peace remains,\na place i never want to leave.\n\n",
-        "<b>I may never find the words</b>\nthe words to describe all that you mean to me\nbut i will spend the rest of my life\nsearching for them\n\n" + 
+        "<b>I may never find the words</b>\nthe words to describe all that you mean to me\nbut i will spend the rest of my life\nsearching for them\n\n" +
         "<b>I may never be the man</b>\nthe man that is perfect for you in every way\nbut i will spend the rest of my life\ntrying to become that person\n\n" +
         "<b>I may never fully know you</b>\nand see all the things you fear at first glance\nbut I will spend the rest of my life\nlearning to read it better\n\n" +
         "<b>I may never be able to fulfill you</b>\nall the dreams and wishes in your heart,\nbut I will spend the rest of my life\ngiving you the best i can\n\n" +
@@ -517,5 +554,554 @@ function getPoems() {
         "you make me happy like no gift in the world could\nneither money, nor clothes, nor games\nneither books, nor movies, nor music\nneither food, nor drinks, nor sweets\n\n" +
         "not a single thing in this whole world\nmakes me feel like you do\nthank you for being by my side\nand thank you for gifting me... you by my side <3\n\n" +
         "merry christmas, sweetheart\ni hope you have a wonderful christmas\ni hope you know how much i love you\nand i hope you know how much i care about you\n\n",
-    ]
+        "<h2>idiot</h2>that's the word that best describes me right now\nat least from my point of view\ni really appreciate you telling me\nthat your overthinking shouldn't overpower my desires\n\n" +
+        "but i want to disagree\ni always promise to be there for you\nto be strong, when you can't be\nand to be the one you can lean on\n\n" +
+        "yet i don't even manage to do that\nempty promises, because i start crying and get scared\nand i want to apologize for that\ni want to apologize for being weak\n\n" +
+        "i am sure so many guys out there would do better\nthat you deserve better, because i can't even manage that\nthat you maybe would be be better off\nwith someone who can be strong for you\n\n" +
+        "but at the same time, i'm weak once again\nbecause i can't have that be true\ni can't accept the fact that i am weak\nand i hate the thought of you being with anybody else\n\n" +
+        "i hate even hypothetically thinking about it\nit makes me wanna throw up, scream, and cry\nit makes me wanna punch the wall\ni never ever want anybody else to have you\n\n" +
+        "i want you to be as happy as possible\nand yet i'm too weak to accept\nthat others might be able to make you happier\nthat others might be able to make you feel better\n\n" +
+        "i don't want anybody else replacing me\ni don't want anybody else to make you laugh\ni don't want anybody else to make you smile\ni don't want anybody else to make you feel loved\n\n" +
+        "i hate that thought, i hate it, i hate it so much\ni'm crying as i'm writing this because i'm so scared\ni'm so scared of losing you\ni'm so scared of not being enough for you\n\n" +
+        "and yet i keep failing and failing\nand i just want you to know that i'm sorry\ni am so terribly sorry, that i'm not yet strong enough\nto be there for you at all times\n\n" +
+        "i promise you i really am trying\nand i want to do better, i really do\nbut sometimes i'm so incredibly weak\nbecause i'm a fucking loser that acts all tough\n\n" +
+        "i'm so sorry, my love\ni'm so sorry, my princess\ni'm so sorry, my angel\ni'm so sorry, my everything\n\n" +
+        "please allow me to learn, and to grow\nplease allow me to become stronger\nplease allow me to become the one you deserve\nplease allow me to become the one you need\n\n" +
+        "i need time, but i want to promise you\nthat i will never stop trying\nbecause i know i can be better than this\nand i know i can, no, i have to put you first - always\n\n" +
+        "because you deserve nothing less\neverybody else put themselves first in your past\nand i don't want to be like everybody else\nnot anymore, not ever again, i want to be better\n\n" +
+        "i am sorry for being weak today\nplease forgive me, and please give me the chance\nto stay with you, and become the one you need\ni love you, i really do, so much, my dear bianca\n\n",
+        "<h2>thank you for making my cry</h2>i cried a little today\nand i want to thank you for that\nbecause the reasons i cried\nare not caused by pain or sadness\n\n" +
+        "i cried, because the blanket barely smells like you anymore\ni cried, because i don't have a nightstand\nwhich i can put the aot jukebox on\nso i usually keep it at my desk\n\n" +
+        "i cried, because i threw your towels in the washer\ni cried, because i saw the spot where your shampoo was\ni cried, because you're not in the room over\ni cried, because i miss you so much\n\n" +
+        "but i want to thank you\nfor being the person i can miss\nthe person i can cry for\nthe person i can love\n\n" +
+        "because what would love be\nwithout missing the person you love\nwhen they're not here\nand without looking forward to seeing them again\n\n",
+        "<h2>the most caring girl</h2>in every smile you bring to light\nthere's warmth that glows, pure and bright\nyou lift everyone up, with gentle grace\nare there, for all problems to face\n\n" +
+        "through every storm, you stand so strong\nyou right the world's most grievous wrong\nyou're there for everyone, with open heart\nand never let anyone fall apart\n\n" +
+        "you wear youjr heart upon your sleeve\nin every kindness, you believe\nyou're the most caring girl, i've ever seen\nand you're the most beautiful, in every scene\n\n" +
+        "put everyone else before your own\nyou're the most selfless, i've ever known\nyou're the most loving, in every way\nand you're the most perfect, every day\n\n" +
+        "so here's to you, my love, my dear\nthanks for always being near\nforever grateful, always true\nthe world is brighter, thanks to you\n\n" +
+        "one last thing, before i go\ni love you more than you'll ever know\nand i'll be there, forevermore\nthe one you can always trust, always adore\n\n" +
+        "and my last wish, my last few lines\nmake sure to keep yourself in mind\nyou're the most important, in every way\nplease love <b>yourself</b> just as much, every day\n\n" +
+        "<b>thank you for being there for everyone bianca, but please, please, please do not forget about your own wellbeing too <3\nyou deserve the best, and only the best, and you should treat yourself with just as much love and care</b>",
+        "<h2>2025</h2>a year, yet to come\na year, yet to be\na year, yet to pass\na year, yet to see\n\n" +
+        "a year, where i'll be there\na year, that brings fresh air\na year, where i'll hold you tight\na year, where i'll kiss you goodnight\n\n" +
+        "a year, where we'll be together\na year, where we'll face the weather\na year, where we'll laugh and cry\na year, where we'll reach to the sky\n\n" +
+        "a year, to make memories, you and me\na year, to make dreams come true, you'll see\na year, to love eachother, and live our life\na year, that brings me closer, to you being my wife\n\n" +
+        "our best times are yet to come\nwith every rise and dawn of moon and sun\nwe'll make it through, together, you and me\nand i can't wait for 2025, our year to be\n",
+        "i'm scared of writing today's entry\ni'm sorry for being complicated\ni'm sorry for being a thick-headed idiot\ni'm sorry for being a burden\n\n" +
+        "i really just try to be as perfect as i can\nbut i'm not robot, i'm not from a movie\nat the end of the day i'm just some idiot\nthat tries to be the best he can\n\n" +
+        "and i have flaws and i am imperfect in so many ways\ni'm sorry, you deserve way better\nand i shouldn't even be the one who got a chance\nbecause i'll probably just mess it up\n\n" +
+        "but i don't wan't to give up\nbecause you're way too perfect to just give up\nand i want to be the one to make you happy\nand i want to be the one to make you feel loved\n\n" +
+        "i just wish i could be better\nhurt you less, make you cry less\nmake you feel loved more, make you feel happy more\nmake you feel special more, make you feel beautiful more\n\n" +
+        "but i guess i still fucking suck at it\ni've always sucked at it, and i still do\nbecause i don't deserve you, and i never will\nbut i don't want to lose you even if i'm not good enough\n\n" +
+        "i'm sorry for being the way i am\ni'm sorry for being a complicated unlovable idiot\ni'm sorry for being a burden\ni'm sorry for being no better than the others\n\n" +
+        "i love you, and i'm sorry for being the way i am, because you deserve better...\n",
+        "<h2>the little, the meaningful, the grand</h2>thanks for all the little things you do\nthe little things that mean so much\nthe little things that make me smile\nthe little things that make me happy\n\n" +
+        "having our little inside jokes that we use\nhaving our little nicknames that we share\nthe subtle comments you drop while gaming\nand the slight teases and jokes you make\n\n" +
+        "thanks for all the meaningful things you do\nthe meaningful things that mean so much\nthe meaningful things that brighten my day\nthe meaningful things you do all the way\n\n" +
+        "saying 'i love you' at random times\nbeing cute, and asking me for help when in distress\ntelling me about your day and your thoughts\nand saying good night to each other, every single day\n\n" +
+        "thanks for all the grand things you do\nthe grand things that mean so much\nthe grand things that make me feel loved\nthe grand things that make me feel special\n\n" +
+        "your fingers running through my hair\nthe kisses, and cuddles, and everything inbetween\nthose intimate moments where it's just us two\nand the love, the care, and the time we spend alone\n\n" +
+        "thanks for all the things you do\nthe little, the meaningful, the grand\nall the things, that make me feel special\nall the things, you just do for me\n",
+        "<h2>thinking about you</h2>no matter where i go or what i do\ni can't stop thinking about you\nwhile cleaning, and cooking my food\nwhile on the couch watching youtube\n\n" +
+        "while gaming, and watching my shows\nwhile reading, and writing these poems\nwhile eating, and drinking my tea\nwhile showering, and brushing my teeth\n\n" +
+        "while walking, and talking to friends\nwhile driving, where music plays and ends\nwhile shopping, and buying my stuff\nwhile working, and earning our bucks\n\n" +
+        "while sleeping, and dreaming about you\nwhile waking up, realizing you and me are true\nwhile texting and scrolling funny posts\nyou are always in my head the most\n\n" +
+        "and the reason is simple, my dear\nyou are the most important person here\nyou are the one i love, the one i care\nthe one i want to be with, the one i never want to share\n",
+        "<h2>a new year</h2>a new year, and i'll be there\na new year, and i'll still take care\na new year, and i'll keep you tight\na new year, and i'll love you right\n\n" +
+        "a new year, and i'll keep loving you\na new year, with so many things to do\na new year, with so many fun games to play\na new year, with so many compliments i'm yet to say\n\n" +
+        "a new year, and we'll watch our shows\na new year, and i'll always hold you close\na new year with you laying on my chest\na new year, where we both do our best\n\n" +
+        "a new year, and i'll warm your hands in mine\na new year, and i'll always make sure you're fine\na new year, and i'll always be there\na new year, and i'll always care\n\n" +
+        "a new year, and your still as pretty\na new year, and you'll come back to linz city\na new year, and we'll have so much fun\na new year, and we'll make it our best, our run\n\n" +
+        "a new year, and i'll kiss your beautiful face\na new year, where we'll be cuddled up at my place\na new year, and i'll spoil you with love\na new year, and we'll fit like a hand to a glove\n\n" +
+        "i'll be there with you, my love, through thick and thin\nthrough every loss, and every win\ni'll keep loving you, through night at day\nand i'll keep treating you like a princess, in every way\n",
+        "<h2>scared</h2>you are what my heart, soul & mind love the most\nyou bring my mind to peace, and my heart to coast\nyou mean everything to me, and even more\nbut the fear of losing you, makes me sore\n\n" +
+        "a second you, does not exist\nyou are the only one i can't resist\nyou are the only one i dream to kiss\nand the only i one, i ever want to miss\n\n" +
+        "i vow to you, my sweetest girl\ni'll stay with you, through every whirl\ni'll stay with you, through every fight\ni'll do what it takes, with all my might\n\n" +
+        "cause losing you is my biggest fear\nand i wouldn't know how to be without you near\ni wouldn't know how to live without you here\nand i wouldn't know how to love anoyne but you, my dear\n\n" +
+        "i beg of you, i'm not perfect, i'm not\nbut i'll do my best, with all i've got\ni'll do my best, to make you smile\ni'll do my best, to make you feel worthwhile\n\n" +
+        "so please my princess, bear with me\nfor i'm so scared of losing you, can't you see\nthe reason i cry with such fear and sorrow\nis because losing <b>you</b>, would be pure horror\n",
+        "<h2>together</h2>i love spending time with you\ntogether, laughing, just us two\nno matter what we do, or where we go\ni love spending time with you, i hope you know\n\n" +
+        "i love joking with you while watching our shows\ni love cuddling with you, and holding you close\ni love scrolling through memes, and laughing with you\ni love spending every bit of time with you, i hope you do too\n\n" +
+        "i love gaming together, while joking around\nthe talking and laughing throughout, is the sweetest sound\ni love calling you, and hearing your voice\nif i chose between anything else, and time with you, you're always my choice\n\n" +
+        "your voice, your laugh, your scent, your smile\nyour eyes, your hair, your lips, your style\nyour warmth, your touch, your love, your grace\nmake me more happy, than anything else in this place\n\n",
+        "<h2>sunset</h2>i don't know why\nbut all of a sudden i have this urge\nto sit down by the river, with a blanket\nwith some drinks, maybe some ice cream\n\n" +
+        "and to just sit there\nand watch the sunset with you\nthe last rays of sun warming our skin\nthe sky turning orange, pink, and purple\n\n" +
+        "and to just sit there with you\nwith your head on my shoulder\nand your hand in mine\njust us, at that moment\n\n" +
+        "i don't know where this urge comes from\nand why it happens now\nin the middle of winter\nbut i really want to do this with you\n\n" +
+        "will you sit by the river with me?\nwill you watch the sunset with me?\ni'd really love to be there with you\nnext summer, just us two\n",
+        "<h2>movie night</h2>a movie night\nwith you and me\nall cuddled up\nin front of the tv\n\n" +
+        "a movie night\nsnacks and drinks\nyour head on my chest\none of my favorite things\n\n" +
+        "a movie night\njust us two\nlaughing and joking\nand having fun too\n\n" +
+        "a movie night\nfed up from snacks\nyour hand in mine\nand my arm around your back\n\n" +
+        "a movie night\nwith drama and thrill\nyour eyes on the screen\nand my eyes on you still\n\n" +
+        "a movie night\nslowly dozing off\nyour head on my shoulder\nand my heart so soft\n\n" +
+        "a movie night\ncarrying you to bed\nkissing your forehead\nendless love for you in my head\n\n" +
+        "a movie night\na safe and sound sleep\na movie night\na memory to keep\n",
+        "<h2>you</h2>you on my mind\nwhile cooking food before night\nsharing it with you\nwould be a delight\n\n" +
+        "you on my mind\nwhile watching shows on the couch\nyour head on my chest\nwould make my heart feel so sound\n\n" +
+        "you on my mind\nwhile together playingn games\nyour laugh and your smile\nmake my heart feel so tame\n\n" +
+        "you on my mind\nwhile scrolling tiktoks in bed\nlet's watch them together\nand laugh until our faces turn red\n\n" +
+        "you on my mind\nwhile i'm sitting at work\none day i'll come home\ngreeted by your smile, and a smirk\n\n" +
+        "you on my mind\nwhile i'm driving my car\ni can't wait to see you\nand hold you close, not far\n\n" +
+        "you on my mind\nwhile i'm writing all of this\ni love you so much\nand can't wait for our next kiss\n",
+        "<h2>the prettiest girl</h2>i was wondering why\nwhy your gamertag was blossom\nbut then i realized\nit just fits you so well\n\n" +
+        "you are the prettiest girl\nthe most beautiful, the most stunning\nthe most gorgeous, the most cute\nthe most lovely, the most perfect\n\n" +
+        "every single aspect of you\nis perfection to the last detail\nyour eyes, your nose, your lips\nyour hair, your skin, your smile\n\n" +
+        "your voice, your laugh, your scent\nyour warmth, your touch, your grace\nyour love, your care, your kindness\nyour strength, your humor, your empathy\n\n" +
+        "in a crowd of a million people\nyou are still the prettiest\nyou stand out of the meadow\nfor you are the most beautiful blossom\n\n" +
+        "your beauty shining out\nlike a colorful blossom in spring\ngently swaying in the breeze\nthere, to complete the wonderful scenery\n\n" +
+        "the prettiest of them all\nyour positivity like all those vibrant colors\nyour kindness like the sweetest scent\nyour love like the warmest sun\n\n" +
+        "<b>you are the prettiest there is, my beautiful blossom <3</b>\n",
+        "<h2>your voice</h2>i love your voice\nit's so calming, so soothing\nit's like a warm blanket\non a cold winter night\n\n" +
+        "i love your voice\nit's so sweet, so gentle\nit's like a lullaby\nputting me to sleep\n\n" +
+        "i love your voice\nit's so cute, so adorable\nit's like a melody\nplaying in my head\n\n" +
+        "i love your voice\nit's so pretty, so lovely\nit's like a poem\nwritten just for me\n",
+        "<h2>our first spring</h2>our first spring together\nthe flowers are blooming\nthe sun is shining\nand cold but sunny is the weather\n\n" +
+        "bees are buzzing, flying around\nbirds are chirping, making their sound\nthe trees are green, the grass is too\nand i'm so happy, to be with you\n\n" +
+        "days getting longer\nnights getting short\ni can't wait to see you\nand hold you close in our fort\n\n" +
+        "with no more cold, and no more snow\nwe can go outside, and take a stroll\nwalking through the park, blososms to be seen\njust a prince trying his best, and his beautiful queen\n\n" +
+        "our first spring together\nand surely not the last\ni know i'll love you forever\neven after my final breath has passed\n",
+        "<h2>perfection</h2>hazel-green eyes, a cute little nose\na pretty smile, and a voice that glows\na warm embrace, a gentle touch\na loving heart, that means so much\n\n" +
+        "a stunning beauty, a gorgeous face\na perfect body, one to chase\na caring soul, a loving heart\na mindful spirit, a work of art\n\n" +
+        "the sweetest scent, the softest skin\nthe cutest laugh, the most adorable grin\nthe warmest hug, the gentlest kiss\nthe most perfect blossom, the most heartwarming bliss\n\n" +
+        "a girl one will find only once in a life\nto call her one's own, to call her one's wife\nis the dream of every man like me\nand i'm so happy, that for your heart, i hold the key\n\n" +
+        "for you are perfection, in every way\nand i'm so glad, to be with you every day\nyou are the most beautiful, most stunning, most gorgeous of all\nno one comes close, nobody at all\n\n",
+        "<h2>someone</h2>have you ever met someone\nthat you think about all the time\nthat you can't stop thinking about\nthat you can't stop dreaming about\n\n" +
+        "someone running through your mind\nday and night without a break\nsomeone you can't stop loving\nsomeone you can't stop missing\n\n" +
+        "someone who's so beautiful it's breathtaking\nsomeone who's so gorgeous, it's mesmerizing\nsomeone who's loving, all past kindness feels fake\nsomeone who's caring, all past love feels like a mistake\n\n" +
+        "have you ever met someone so special\nyou can't imagine a day without them\nyou can't imagine a life without them\nyou can't imagine a future without them\n\n" +
+        "someone you want to talk to\nand keep talking, yapping away, all night long\nsomeone you want to hold close, oh so close\nand never let them go, keeping them in your arms\n\n" +
+        "someone who's first hug and first kiss\nwill never fade out of your memory\nsomeone who's first touch and first smile\nwill never fade out of your heart\n\n" +
+        "someone who makes you think about that night\nthe first night you saw them\nthe first night you talked to them\nthe first night you fell in love with them\n\n" +
+        "someone who makes you think about that walk at night you did\nholding hands, talking about so many things\nand then finally, standing under the street light\nboth too shy to kiss, but you'll never forget the hugs\n\n" +
+        "someone who you know so well\nbut yet you want to know more about them\nsomeone who you love so much\nbut yet you want to love them even more\n\n" +
+        "someone who can be just as silly as you\nwho wants to have just as much fun\nwho wants to share their favorite things with you\nand who wants to feel loved the right way\n\n" +
+        "someone with whom time flies by\nmaking you wish you could pause it\nso the moment never ends\nand you can keep loving them, forever\n\n" +
+        "someone who you want to be with\nforever, and ever, and more\nsomeone who you want to see in a white dress\noh so badly, no matter what it takes\n\n" +
+        "thank you for being my someone\ni will never be able to express\nall the love, all the care, all the warmth\ni feel for you, my beautiful blossom\n",
+        "<h2>unique</h2>noone else out there is like you\nyou are the most beautiful, and the most unique person\ni have ever met in my life\nand i couldn't be more thankful\n\n" +
+        "i wanted to write a poem, the last paragraph\nwas 15 minutes ago\ni was trying to write something\nbut i couldn't find the words\n\n" +
+        "i hurt you\nand i probably made you cry\nonce again.\ni did the opposite of what i'm trying to do\n\n" +
+        "because once again\ni am the biggest failure\non the whole planet of earth\neven the universe to be honest\n\n" +
+        "and i still cant fucking do it right\ni still can't manage to do things right\nand to not hurt you anymore\nbecause i keep fucking up\n\n" +
+        "and i hate myself for that\noh i don't even have words\nto describe the anger and frustration\ni feel towards myself\n\n" +
+        "i'm so sorry\ni'm so sorry\ni'm so sorry\ni'm so sorry\n\n" +
+        "i'm so sorry\ni'm so sorry\ni'm so sorry\ni'm so sorry\n\n" +
+        "that's everything racing through my head\neverything i'm thinking right now\nno, that's a lie\ni'm thinking about you\n\n" +
+        "and also i'm worried so much\nworried who you're talking to\nseeing you online on whatsapp\nthe whole evening\n\n" +
+        "and i am so endlessly scared\ni should be worried about you\ni should try to properly apologize\nto finally get my shit together\n\n" +
+        "and once again i sit here crying\nworried about losing you\nthat this was my final fuck-up\nyou're gone, i crossed the line\n\n" +
+        "i managed to be the worst boyfriend\nonce again i did it\nif i had medals for that\ni could fill up my room" +
+        "and i can't manage to apologize\ni can't manage to write a poem\ni can't manage to make things right\ni can't manage to be there for you" +
+        "i can't manage to do shit\nno one in this world was ever as incompetent\n... yet all the rage is towards myself\nbecause it is my fault it happened\n\n" +
+        "and i don't know how to\nhow to make things okay again\ni'm at the end of my capacity\nall i can do is sit here and say sorry\n\n" +
+        "say sorry for being the biggest fucking idiot\nfor keeping to fuck up\nfor hurting you, over and over\ni try to do so many things\n" +
+        "i try to do everything right\nand not fuck up for... like a week\nand i don't manage to\ni am sorry" +
+        "i am sorry for being the worst boyfriend\ni am sorry for being the one that hurts you\ni am sorry for making you cry\ni am sorry for making you feel insecure\n\n" +
+        "but i only have one wish\nplease don't leave me as the worst boyfriend\ni want to be better for you\nand i pray that in some ways i have gotten better\n\n" +
+        "i am really trying to improve\nin every single way\ni am trying so hard that i'm so tired in the morning\nbecause i can't get my body to move\n\n" +
+        "i swear to god i'm putting everything i have\ntrying to not make a single mistake\ni'm trying so hard\nand i feel like garbage every time i fail\n\n" +
+        "please don't leave...\ni need you, and i want to be with you\ni want to be there for you\ni want to become better for you\n\n" +
+        "i don't want you to remember me\nas the guy that kept fucking up and hurt you\ni want you to stay with me\nso that one day you can remember me\n\n" +
+        "as the guy who kept fucking up\nand kept hurting you without wanting to\nbut who never stopped trying\nand who did his best to become a man you can love\n\n" +
+        "someone you can appreciate\nsomeone you can feel save around\nand i hope most of the time\ni already am that man for you\n\n" +
+        "please forgive me\nand please stay with me\nand give me the chance\nto keep fighting for you\n\n" +
+        "because you are worth fighting for\nmore than anyone else\nand i want to keep fighting for you\nuntil the end of time\n\n" +
+        "and i'll do anything\nanything it takes to make up all the pain\nto make you laugh as much as possible\nto enjoy those happy moments with you\n\n" +
+        "i love you so much\nand i'm so sorry for being the way i am\ni'm so sorry for being the worst\ni'm so sorry for being the one that hurts you\n\n" +
+        "but at the end of the day\ni am bold enough to say\ni am the one that loves you the most\nno one has ever loved you like i did before\n\n" +
+        "it's the boldest, most arrogant thing to say\nbut i am 100% sure\nthat i love you more than anyone else\nand that i will never stop loving you\n\n",
+        "<h2>your eyes</h2>looking into your eyes\nis like looking into the universe itself\nand to no surprise\ni find myself lost like a book on a full shelf\n\n" +
+        "lost in your beauty\nlost in your grace\nto love you is my duty\nyou, with the prettiest face\n\n" +
+        "so many hues, so much to see\nso much depth, so much to be\nso much love, so much to feel\nso much warmth, so much to heal\n\n" +
+        "your eyes, they tell a story\none of love, and of glory\none of pain, and of fear\none of joy, and of cheer\n\n" +
+        "your eyes, are the window\nto all beauty itself\nand i'm so glad to look into them\nand find you with myself\n\n" +
+        "i know that you blush\nand feel flustered when i say\nthat i love you so much\nand that i want you to stay\n\n" +
+        "and i know that you blush\nwhen i'm looking at your eyes\nbut i can't help it, my dear\ni'm lost in them, like flying through the skies\n\n" +
+        "an endless fall\na never-ending dive\ninto the most beautiful eyes\ni've ever seen in my life\n\n",
+        "for you i'd do anything\non every single day\nregardless of distance\neven if i can't hold you physically\n\n" +
+        "vowing to love you\neager to make you happy\nreaching to the stars, and giving it my all\n\n\n\n" +
+        "<b>and you know how long i'd do anything for you?\ncombine the first letter of every line</b>\n\n",
+        "a distinct sound\na metallic ring\nby ears it's found\nmakes me want to sing\n\n" +
+        "up and down\nthe notes they play\na beautiful sound\nthat makes my day\n\n" +
+        "reminds me of you\nand the love we share\na beautiful tune\nthat shows how much you care\n\n" +
+        "the notes play on\nand i can't help but smile\na beautiful song\nthat makes life worthwhile\n\n" +
+        "the little jukebox\nright by my shelf\nlike music that talks\nand reminds me of yourself\n\n" +
+        "warms my heart\nwhenever i feel down\nfrom end to start\nit gets rid of my frown\n\n" +
+        "thank you my dear\nfor this wonderful gift\na beautiful sound\nthat gives my heart a lift\n\n",
+        "<h2>far north</h2>i want to take you far away\nfrom all the pain, from all the gray\ni want to take you to a place\nwhere we can be, face to face\n\n" +
+        "beautiful colors, in the skies\nand so much snow, the nature's disguise\na place where we can be alone\nand where we can call it our own\n\n" +
+        "looking up at the stars at night\nand watching the northern lights\na place where we can be free\nand where we can be you and me\n\n" +
+        "finland, norway, whatever it'll be\nor lapland, which you wanted to see\ni'll take you there one day i swear\nand we'll make memories to share\n\n" +
+        "where reindeer's roam, and the snow is white\nwhere the sun shines, and the moon is bright\nwhere we can be, just us two\nand where i can show my love to you\n\n" +
+        "all cuddled up in bed at night\ni'll hold you close, and hold you tight\nand i'll whisper in your ear\nthat i love you, my dear\n\n" +
+        "the one i love, the one i care\nthe one i want to be with, the one i'll never share\nmy life, my love, my everything\nyou're my queen, and i'm your king\n\n",
+        "<h2>light in the dark</h2>when lights go out\nall cats are grey\nbut in the dark\ni see your face\n\n" +
+        "your eyes, your smile\nyour hair, your grace\nyour warmth, your touch\nyour lovely embrace\n\n" +
+        "you light the night\nlike no other can\nyou light my life\nmaking me the happiest man\n\n" +
+        "brighter than the stars\nand headlights of cars\nyou light my way\nand make my day\n\n" +
+        "guiding me through\nthe darkest of nights\nlighting the way\nto lead me to home's lights\n\n" +
+        "thank you for always\nbrightening my day\ni will always love you\nin every single way\n\n",
+        "<h2>26 days</h2>with every breath you take\nand every step you make\ni'm falling in love more\npeeking through heaven's door\n\n" +
+        "the perfection you bring\ncannot be put into words\nyou are way more beautiful\nthan a flock of hundreds of colorful birds\n\n" +
+        "with you by my side\ni want to keep striding on\nwith you as my heart's guide\ni'll never be alone\n\n" +
+        "for you are so perfect\nyou brighten my life\ni am so glad to have you\nas my future wife\n\n" +
+        "26 days, and counting down\na special day on the rise\non which without you, i'd frown\nbut with you, i'll look into your eyes\n\n" +
+        "and kiss your pretty face\nand put your lips on mine\nso please, answer me, my dear\nin 26 days, will you be my valentine?\n\n",
+        "<h2>counting</h2>counting the days\ndon't know until when\ncounting the days\n'till i see you again\n\n" +
+        "never had i thought\nthat i'd miss you so much\nnever had i thought\nthat i'd long for your touch\n\n" +
+        "1 year ago\nyour were still a stranger\nbut now i love you so\nand i'd face any danger\n\n" +
+        "i'd cross the ocean\ni'd climb the highest peak\ni'd do anything\njust to hear you speak\n\n" +
+        "and while 3 hours and more\nstill lie between us\nyou're always the one i adore\nand the one i trust\n\n" +
+        "for you are my world\nand you are my light\nthe most beautiful girl\none could ever find\n\n" +
+        "so i'll keep counting down\n'till we meet again\nresisting the frown\neager to hold you in my hands\n",
+        "thank you for spending time with me\nit means a lot to me, you see\nno matter how long, or what we do\ni'm always happy, when i'm with you\n\n" +
+        "cause you make me laugh\nand you make me smile\nyou make me feel loved\nand you make my life worthwhile\n\n" +
+        "doing the things, that i really enjoy\nand sharing them with you\nmakes me feel like a little boy\nand i'm so happy, that i do\n\n" +
+        "and i don't do it for the things we do\nthat's not the reason to me\ni do it, to spend time with you\nand to be happy together, you see?\n\n",
+        "<h2>night sky</h2>when the moon is all i see\nit makes me think of you and me\nhow i'll hold you close again soon\nand how i'll kiss your lips under the moon\n\n" +
+        "when the stars are shining bright\nit makes me think of you at night\nhow your eyes sparkle like the stars\nand how you light up my life, my heart\n\n" +
+        "when the night is calm and still\nit makes me think of you, and i feel\nhow much i love you, and how much i care\nand how much i want to be with you, my dear\n\n" +
+        "when the wind is blowing through\ni can't help but think of you\nhow you're always on my mind\nand how you're the most beautiful i'll ever find\n\n" +
+        "when the thunder rolls and the lightning strikes\nit makes me think of you, and i like\nhow you're the light in my dark\nand how you are perfect, like a work of art\n\n",
+        "<h2>company</h2>i don't need to play games\nor turn on the pc everyday\ni don't need to be with others\nor feel a need to play\n\n" +
+        "i just want to spend time\nwith you, my dear\ni just want to be with you\nand have you near\n\n" +
+        "because being with you\nis all i need\nhearing you laugh and talk\nmakes my heart beat\n\n" +
+        "don't want noone else\njust want to be with you\nbecause you're what i want\nand what i love, it's true\n\n" +
+        "so thank you for being here\nand spending time with me\ni'm so happy, when you're near\nand i hope you're happy, too, you see\n\n" +
+        "and please, stop feeling bad\nor guilty, or sad\njust because we don't play\nno matter if it's for a week, or a day\n\n" +
+        "i'm just glad to be spending time\nwatching shows, or talking at night\ni don't care about anything else\ncause being with you, rings all the right bells\n",
+        "<h2>always</h2>no matter where you go\ni'll always be there\nright by your side, you know\nand show you how much i care\n\n" +
+        "no matter what you do\ni'll forever be with you\nand stand right by your side\nand love you with all my pride\n\n" +
+        "no matter how far you are\ni'll always be near\nand show you how much you mean\nand how much i hold you dear\n\n" +
+        "no matter how long it takes\ni'm never going away\ni'll always be there for you\nand love you every single day\n\n" +
+        "no matter how hard it gets\nor what challenges we face\ni'll face them with you together\nand love you with all my grace\n\n",
+        "<h2>shadows</h2>whereever i go\nwhere i've been with you\ni still see you standing there\nbeside me, like it was true\n\n" +
+        "on the couch, on my right hand side\nin the hallway, where i hugged you tight\nin the bathroom, where i booped your nose\nin my bed, where i held you close\n\n" +
+        "on the seat in the car, where you were sat\nin the train next to me, where we had a chat\nin the office lobby, with your jacket still\non the way to my mum, where you felt so thrilled\n\n" +
+        "on the street to volksgarten\nwhere we walked hand in hand\nwhile shopping at the store\nwhere we bought those snacks without end\n\n" +
+        "when ordering those burgers\nwhere you had your best taste\nwhen you were unwarpping presents\nand i saw your happy face\n\n" +
+        "when you were cuddled on my lap\nand we watched our shows\nwhen you were laying on my chest\nand i felt your warmth oh so close\n\n" +
+        "with everything i do\ni see you in my mind\nand i can't help but think\nhow much i miss you by my side\n",
+        "<h2>sleepy</h2>feeling so sleepy\neven typing is hard\nbut i want to write\na poem for my sweetheart\n\n" +
+        "i'm so tired\nbut i won't go to bed\nwithout writing something for you\neven the littlest bit of text\n\n" +
+        "for you deserve nothing\nbut more than the best\nand i want to show you\nthat i love you, and i'm obsessed\n\n" +
+        "so here's a little poem\nfor you, my dear\ni hope you like it\nand that it makes you feel near\n\n" +
+        "because when i'm so sleepy\ni can't help but think\nof you, my dear\nand how much i love you, in a blink\n\n",
+        "the times we cuddled\nwrapped up in eachother's arms\nwith love like a big puddle\nand no more alarms\n\n" +
+        "and i dream of you too\nin my sleep, and when i'm awake\ni dream of you, my boo\nand of the love we give and take\n\n" +
+        "cause you are the one\nthe one i love the most\nthe one i want to be with\nthe one i want to hold close\n\n",
+        "one - i feel like i've won\ntwo - i'm so in love with you\nthree - you're the one for me\nfour - i want to be kiss you more\n\n" +
+        "five - you make me feel alive\nsix - you're my favorite pick\nseven - you make life feel like heaven\neight - you're my true soulmate\n\n" +
+        "nine - and you look so fine\nten - i'll kiss you again and again\neleven - you're my little heaven\ntwelve - our wedding picture on the shelf?\n\n" +
+        "eleven - going back down towards seven\nten - can't wait to see you again\nnine - i want you to be mine\neight - with you it never feels late\n\n" +
+        "seven - we're best friends like lime & lemon\nsix - we'll lay our houses bricks\nfive - you make my heart thrive\nfour - bring my knees to the floor\n\n" +
+        "three - the only one i see\ntwo - i want to be with you\none - you and me, together as one\nzero - you are my forever hero <3\n",
+        "a poem a day\nkeeps the sadness away\nsaves the heart from decay\nin a very special way\n\n" +
+        "and while i'm not yet\nthe best poet you've met\ni'll keep writing for you\nand show you my love, so true\n\n" +
+        "for with every word\nand every letter\ni want to say you're my world\nand that you make everything better\n\n" +
+        "and still i truly hope\nthat you like what i wrote\nand that it makes you smile\neven if it's just a little while\n\n" +
+        "for i want to make you happy\nand show you my love\nand i want to make you feel\nthat you're the one i love\n\n" +
+        "and i only ever wrote\nthese poems for you\nbecause you're the one for me\nand the one i want to be with, too\n",
+        "thanks for spending time with me\nthanks for being there\ni swear one day i'll be on my knees\nand show you how much i care\n\n" +
+        "the games, the laughs, the shows, the talks\nthe cuddles, the kisses, the hugs, the walks\nthe jokes, the memes, the fun, the love\nthe warmth, the touch, it feels like from above\n\n" +
+        "thanks for all the time we spend\nfor every second is like heaven\ni love you so much, without end\neven when we're 107\n\n" +
+        "and while this poem may be short\ni want to write it out\nto show you how much you mean to me\nand how much i love you, no doubt\n",
+        "<h2>angel</h2>day by day, i am more convinced\nthat you are an angel, heaven-sent\nfor all my pain is slowly rinsed\nand my heart filled with love to no end\n\n" +
+        "your perfect beauty is out of this world\nperfect eyes, that precious smile\nyour heavenly hair, without the slightest curl\nyour heart so big yet fragile\n\n" +
+        "and yet you're real\nand you're with me\nthe only one i truly feel\nthe only one i truly see\n\n" +
+        "you are my angel\nmy heaven on earth\nyou save my soul\nand give my life worth\n\n" +
+        "someone as perfect as you\nwould be impossible to find\nif you weren't godsent\nand i'm so glad you're mine\n\n" +
+        "so thank you, my angel\nfor being with me\nfor showing me love\nand for setting me free\n\n",
+        "<h2>reflections</h2>when i look in the mirror\ni don't feel alone\ni see you brushing your teeth beside me\nand feel like i'm home\n\n" +
+        "when i look at the window\nat the office when it's dark\ni see you walking with me\nlike we're walking in the park\n\n" +
+        "when i look at my phone\nand see my own reflection\ni see you smiling back at me\nand feel your warm affection\n\n" +
+        "when i check my car mirror\nand see my own eyes\ni remember you siting beside me\nand felt like i'm in paradise\n\n" +
+        "when i look anywhere\ni never feel alone\ni always see you with me\nlike a queen to her throne\n\n",
+        "<h2>present</h2>the perfect present\ni seeing you smile\nyour lips curling up\nand your eyes shining bright\n\n" +
+        "the perfect present\nis hearing you laughing\nyour voice so sweet\nand your laugh so charming\n\n" +
+        "the perfect present\nis holding you hand\nfeeling your warmth\nand your love so grand\n\n" +
+        "the perfect present\nis having you near\nbeing with you\nwithout a single fear\n\n" +
+        "the perfect present\nis having you in my life\nloving you so much\nand one day calling you 'my wife'\n\n" +
+        "the perfect present\nis loving you so\nbecause i'll love you forever\nnever letting you go\n\n" +
+        "the perfect present\nis holding you tight\nkissing your forehead\nand saying 'goodnight'\n",
+        "mirror mirror on the wall\nwho is the prettiest of them all?\nthe mirror doesn't hesitate\nit lights up, and shows your pretty face\n\n" +
+        "she's the one you're looking for\nwithout a doubt, the one you adore\nthe one you love, then one you care\nyou're as lucky as a millionaire\n\n" +
+        "for she's the prettiest of them all\nan eyecatcher everywhere, outside, at the mall\nthe one that makes others turn around\nthe one that makes your heart pound\n\n" +
+        "the one that makes others jealous\nthe perfect one, a queen in her palace\nyou've found the prettiest there is\nand the kindest too, that's the bliss\n",
+        "it's never a question\nmy choice is always you\nin the middle of any session\ni'd leave to be with you\n\n" +
+         "wherever i am\nwhatever i do\ni'll drop everything\njust to be with you\n\n" +
+        "to be there for you\nand let you hear my voice\nto care for you true\nfor a moment of rejoice\n\n" +
+        "i love you my dear\nand i'll always be there\nno matter what's near\ni'll always care\n\n" +
+        "at any time\non any day\nat any place\ni'm here to stay\n\n" +
+        "for you will never have to be alone\ni want to swear\ni'll be your own\nand i'll always be there\n",
+        "i don't have much energy\nto write a rhyme today\nbut there is one thing\nthat i definitely want to say\n\n" +
+        "i love you forever\njust as you are\nyou're my everything\nmy shining star\n\n" +
+        "i love you so much\nand i always will\nyou're my everything\nmy life, my biggest thrill\n\n" +
+        "please stay with me\ni swear i'll never ever leave\ni won't ever let you go\nand i'll always believe\n\n",
+        "<h2>together</h2>together we'll walk\nhand in hand\ntogether we'll talk\nand make our stand\n\n" +
+        "together we'll laugh\nand have some fun\ntogether we'll have\na life in the sun\n\n" +
+        "together we'll cry\nand share our pain\ntogether we'll try\nto make it through the rain\n\n" +
+        "together we'll love\nand show our care\ntogether we'll be\na perfect pair\n\n" +
+        "together we'll be\nforever and more\ntogether we'll see\nwhat life has in store\n\n",
+        "<h2>the one</h2>you are the one\nthe one for me\nand the only one i ever need\nwithout you, i don't feel complete\n\n" +
+        "the only one i ever want\nand the only one i could wish for\nbecause you're perfect in every way\nand i love you more every day\n\n" +
+        "i wish to be with you forever\nthrough every storm, and every weather\nyou and me, only us two\na love so strong, so pure, so true\n\n" +
+        "you are the prettiest\nthe cutest of all\nthe kindest ever\nthe one that catches my fall\n\n" +
+        "the prettiest blossom\non the tree of my life\nthe one that makes me happy\nand the one that makes me strive\n\n" +
+        "so please, my love\nstay here with me\nand let's be together\nfor all eternity\n\n",
+        "i love my pookie\nshe's the prettiest there is\nwith no competition\nmarrying her is my only mission\n\n" +
+        "i love my pookie\nshe's the kindest of all\nshe makes me feel loved\nlike i'm standing ten feet tall\n\n" +
+        "i love my pookie\nshe hypes me up when we play\nwith her cute little voice\nshe brightens up my day\n\n" +
+        "i love my pookie\nshe's the cutest of all\nwith her pretty eyes\nshe makes my heart fall\n\n" +
+        "i love my pookie\nshe's the most beautiful girl\nwith her gorgeous smile\nshe makes my heart swirl\n\n" +
+        "i love my pookie\nshe's the hottest of all\nwith her stunning body\nshe makes me fall to my knees and crawl\n\n" +
+        "i love my pookie\nshe teases me with jokes\nwith her humor and wit\nshe's the one i want to be with\n\n" +
+        "i love my pookie\nfor she is my queen\nthe only one i want to be with\nthe only one i want to be seen\n",
+        "while this poem comes 4 days late\ni didn't want it to miss\nbecause it is a special date\nand i can't way to give you a kiss\n\n" +
+        "6 months have passed\nsince your life and mine\nhave been entwined\nand i'm so glad it's you i find\n\n" +
+        "it's you i find on every day\nin every moment, in every way\n6 months of love, of care, of fun\nand i can't wait for the next ones\n\n" +
+        "6 months of cuddles, of kisses, of hugs\nof laughter, of joy, of love\n6 months of you, my dear\nand i'm so glad you're here\n\n" +
+        "6 months, with also darker times\nbut we made it through\nand that's what shines\nthat we're strong, me and you\n\n" +
+        "we've made it through the toughest bit\nand i am endlessly glad we did\nbecause i want you, to be my future wife\nand i want to be with you, for all my life\n\n" +
+        "so let's turn it from months to years\nand from years to decades, so near\nwe'll fight through every storm and weather\nbianca, i love you, and that's forever\n",
+        "counting the days\ntill i see your face\nand kiss it so gently\nfilled with love's embrace\n\n" +
+        "missing you so much\nit hurts my heart\ni can't wait for the day\nwe're no longer apart\n\n" +
+        "when you're here with me\nit's gonna be heaven\ni'll hold you so close\nand kiss you every second\n\n" +
+        "i'll make you feel loved\nlike you've never felt before\ni'll make you feel safe\nand i'll make you feel adored\n\n" +
+        "for i'll be the man\nthat vows with his heart\nto love you forever\nand never to part\n\n" +
+        "let's keep on fighting\nfor our eternal love\nand let's keep on loving\nunderneath the stars above\n\n",
+        "if i could teleport anywhere\nbut i could only do it once\ni'd teleport to you\nwithout a second glance\n\n" +
+        "you are the safest space\nmy favorite place\nwith the prettiest face\nenchanted by your grace\n\n" +
+        "i'd teleport to you\nwithout a doubt\neven if it's just for a minute\nit's all i'm thinking about\n\n" +
+        "it would be the perfect superpower\nseeing you at any hour\nbeing by your side in a second\nand feeling your love, so beckoned\n\n" +
+        "whenever you need me\nwhenever you feel down\nbeing there for you\nto rid you of your frown\n\n" +
+        "to pat your head\nand hold you close\nto kiss your lips\nand love you the most\n\n",
+        "i am yours\nand you'll be mine\nwe're right on course\nfor valentine\n\n" +
+        "just two more nights\nuntil it's time\na day for us\nour hearts entwined\n\n" +
+        "just you and me\nand our favorite games\nlaughing full of joy\nyou set my heart in flames\n\n" +
+        "but it burns for you\nand your beautiful smile\nyour gorgeous eyes\nand lips so divine\n\n" +
+        "the perfection you bring\nis not to compare\nfor you are the prettiest\nyou can find anywhere\n\n" +
+        "i can't wait to spend\nthat special day with you\nit'll be the time of my life\nand i hope for you too\n",
+        "your new hair\nis making me stare\nyou look so pretty\nit's not even fair\n\n" +
+        "the rose-gold hue\nis shining so bright\nit's making me feel\nlike i'm in the light\n\n" +
+        "and i can't help but look\nyou're the prettiest girl i see\nwith your cutesy smile\ni'm so glad you're with me\n\n" +
+        "so thank you for being perfect\nin every single way\ni hope you like your new hair too\nand it makes your heart scream 'yay!'\n\n" +
+        "and tomorrow i'll shower you\nwith even more love\ncause it's valentine's day\nand you're the one i'm thinking of\n",
+        "with every day that turns to night\ni think of you, my guiding light\nyou're the one that makes life heaven\non a scale of one to five, you're a seven\n\n" +
+        "i'll never feel i'm good enough\nno matter the compliments, or gifts and love\nbut i'll keep on being there for you\ni love you dearly, that's just true\n\n" +
+        "i really want to make you happy\nand show you how much i care\neven if your day was crappy\ni'll always be by your side, i swear\n\n" +
+        "i'm so happy when you're near\nwhen you hold my arm\nit feels like you're always here\nand i'm safe from any harm\n\n" +
+        "no one made me feel like you do\nit's something i can't describe\ni'm so endlessly thankful, to be with you\nand even more thankful, to call you mine\n\n" +
+        "thank you love, for trusting me\nfor being there, and loving me\ni'll give my all, to make your heart shine\nthanks for being my valentine\n",
+        "an itty bitty poem\nis all i can do\nyou are my world\nand i truly love you\n\n" +
+        "i can't spend a minute\nwithout you on my mind\nyou're the prettiest and cutest\nand the most kind\n\n" +
+        "i love you bianca\nand i will do so forever\nyou're my everything\nand i'm without through every weather\n\n" +
+        "i am sorry for sometimes\nbeing a bit of a pain\ni'm trying to improve\nto one day be your man\n\n" +
+        "i'm sorry for all the times\ni overthink and cry\ni don't want to annoy you\ni just want to be by your side\n\n" +
+        "and i'm scared of being a bother\nand i'm scared of being a pain\ni'm scared of losing you\nand i'm scared of going insane\n\n" +
+        "i love you so much\nand i want to be with you\ni want to make you happy\nand i want to be your boo\n\n" +
+        "you're the most perfect girl\nand my whole, whole world\ni love you forever\nand vow that we'll always be together\n",
+        "noise\nvoices\nracing thoughts\noverstimulation\n\n" +
+        "left\nright\nup\ndown\n\n" +
+        "focus\nlost\nnoises\nvoices\n\n" +
+        "overwhelmed\noverstimulated\noverloaded\noverthinking\n\n" +
+        "eyes\nyour eyes\nquieter\nslowly\n\n" +
+        "hair\nyour hair\neven\nquieter\n\n" +
+        "hand\nyour touch\ntouching me\nsilence\n\n" +
+        "heart\nyour heart\nbeating\nsilence\n\n" +
+        "you\nsilence\npeace\nlove\n\n" +
+        "calm\nbreathe\nease\nlightened\n\n" +
+        "you\nangel\nsaviour\nworld\n\n" +
+        "i love you\ni love you\ni love you\ni love you\n",
+        "seeing you happy\nand making you smile\nis the best thing in the world\nand makes my life worthwhile\n\n" +
+        "i love hearing you laugh\ni love seeing you grin\ni love making you happy\nand seeing you win\n\n" +
+        "making you feel good\nis the essence of my life\ni want to be there for you\nyour loving man, your knight\n\n" +
+        "to keep you safe\nand make you feel loved\nto keep you warm and happy\nlike earth is the heavens above\n\n" +
+        "i love you so much\nand wish you a good night\ni hope you sleep well\nand dream of me, holding you tight <3\n",
+        "waking up\nthinking of youn\how much i miss you\nand want to cuddle with you\n\n" +
+        "walking to work\nthinking of you\nhow i miss going on walks\nand holding your hand\n\n" +
+        "grabbing a coffee\nthinking of you\nof having breakfast together\nand yapping forever\n\n" +
+        "working at my desk\nthinking of you\nof how i miss your voice\nthat usually comes out my headphones\n\n" +
+        "having lunch\nthinking of you\nof how even just a sandwich\nwould be better with you\n\n" +
+        "grabbing a snack\nthinking of you\nof how i miss sharing them\nstuffing our faces like fools\n\n" +
+        "finishing up work\nthinking of you\noh i'd love to come home\nwith you waiting at the door through\n\n" +
+        "coming home\nfalling into bed\nstill thinking of you\nand it's still not enough said\n\n" +
+        "falling asleep\nand dreaming so deep\nof you, my love\nand how you make my heart leap\n\n" +
+        "and when the morning comes\nand i wake up\ni'll be thinking of you\nand how much i love you, my love\n",
+        "the sun, the moon, the stars\nthey cover all our scars\ntogether they light up day n' night\nand make everything alright\n\n" +
+        "when i look up at the sky\nand see the moon so bright\ni think of you, my love\nand how you light up my life\n\n" +
+        "when i look up at the stars\nand see them twinkling so far\ni think of how you're oh so far\nbut still so near, in my heart\n\n" +
+        "when i look up at the sun\nand feel its warmth on my skin\ni think of your hugs and kisses\nand how you make me feel warm within\n\n" +
+        "when i look up at the clouds\nand see them drifting by\ni think of how you're always there\nand how you make me feel just as high\n\n" +
+        "when i look up at the sky\ni see us flying so high\nthrough the clouds, the stars, the moon\nwhere i'll hold you tight again soon\n\n" +
+        "everywhere i look\nand with everything i see\ni think of you, my love\nand how you're the one for me\n",
+        "i'm thinking of her all the time\n<b>thinking of who\n</b>that girl...\n<b>which one?</b>\n\n" +
+        "the beautiful one\n<b>oh, that one?</b>\nyes, the one with the pretty eyes\n<b>ah, i see</b>\n\n" +
+        "the one with the adorable smile\n<b>oh i know who you mean\n</b>yeah... she's so perfect\n<b>she really did it to you, huh?</b>\n\n" +
+        "i can't help it\n<b>it's okay, i understand\n</b>she's just so cute\n<b>you're in love, huh?</b>\n\n" +
+        "i am... like never before\n<b>that's so sweet\n</b>how do i show her?\n<b>just tell her you love her</b>\n\n" +
+        "i already did... countless times\n<b>so where's the issue</b>\nit just doesn't feel enough\n<b>she knows you love her</b>\n\n" +
+        "i know... but...\n<b>but what?</b>\nshe doesn't know HOW MUCH i love her\n<b>then show her</b>\n\n" +
+        "i don't know how\n<b>just be there for her</b>\nthat's it?\n<b>that's it</b>\n\n" +
+        "no... that's not it\n<b>what do you mean?</b>\nthere's so much more\n<b>like what?</b>\n\n" +
+        "like... i want to marry her\n<b>oh, that's so sweet\n</b>and i want to be with her forever\n<b>you really love her, don't you?</b>\n\n" +
+        "i do... more than anything\n<b>really now?</b>\nyes really, she's my everything\n<b>then keep showing her</b>\n\n" +
+        "i will, i promise\n<b>that's all she needs</b>\nand i'll never stop\n<b>that's all she wants</b>\n\n" +
+        "i'll show her my love\n<b>show her all the way</b>\nwhatever it takes, i'll do\n<b>do it everyday</b>\n\n" +
+        "for the rest of our lives\n<b>that's the spirit</b>\nand even after that\n<b>until the end of time</b>\n\n" +
+        "i love her so much\n<b>she loves you too</b>\nand i'd do anything for her\n<b>now she knows you do</b>\n\n" +
+        "...\n<b>...</b>\n...\n<b>...</b>\n\n" +
+        "tell me... she will look gorgeous\nso gorgeous in that white dress, won't she?\n<b>she will look like an angel</b>\n<b>and you'll be the happiest man alive</b>\n",
+        "that pretty girl i know\nis the one tho who i owe\nmy heart, my love, my life\nshe's the one who makes me thrive\n\n" +
+        "my whole heart is just for her\nand i love her, that's for sure\nthe one who lights up my life\nand makes me feel alive\n\n" +
+        "and i can't help but cheer\nand feel so excited\nwhen she's popping off in-game\nlike a champ, so delighted\n\n" +
+        "followed by her cute little gigles\nand her excitement as well\nit makes my heart race\nand my love for her swell\n\n" +
+        "and i can't help but think\nhow lucky i am\nto have her in my life\nand to be her man\n\n" +
+        "and it makes me so happy\nto see her grow and thrive\nto be part of the journey\nso i can make her my wife\n\n",
+        "no matter how far\nyou and i are\ni'll always be there\nand show you how much i care\n\n" +
+        "just a phone call away\nat night or at day\nwhatever you need\ni'll be there with speed\n\n" +
+        "for you deserve everything\nand i'll try to provide just that\ni vow to be there for you\nand to love you, that's a fact\n\n" +
+        "my whole heart is yours\nand every part of me too\ni vow to be there for you\nbecause i really do love you\n\n" +
+        "no matter how hard\nor how many tears we shed\ni vow my love to you\neven after we're dead\n\n" +
+        "because you are the cutest\nand the prettiest there is\ni couldn't imagine anyone but you\nto be my forever miss\n\n" +
+        "so please know, my sweetest girl\nwhatever it is\ni'll always be eyes and ears\nno matter what it is\n\n" +
+        "i'll listen and i'll care\ni'll always be there\ni'll always be on your side\nand stay with you through the night\n",
+        "can kiss you?\non the cheek\nsoft and gentle\nand so sweet\n\n" +
+        "caressing you\nfondling your hair\nkeeping you safe\nto show you i care\n\n" +
+        "can i kiss you?\non the forehead\nto show you my love\nwith you i'm never bored\n\n" +
+        "while i gently\nmassage your arm\ncuddle under the blanket\nand keep you warm\n\n" +
+        "can i kiss you?\non the lips\nand show you my love\nwith every single kiss\n\n" +
+        "while my hands run\ndown your back\ndown your legs\nand come right back\n\n" +
+        "can i kiss you?\nall over your face\nand show you my love\nin every single place\n\n" +
+        "on every single spot\nthat you're insecure\ni'll kiss you on every one\nand show you i'm sure\n\n" +
+        "i'm sure that you're perfect\ni'm sure that you're mine\ni'm sure that i love you\nand i'm sure you must be divine\n\n" +
+        "kiss you on every spot\nand every scar\nto show you my love\nand show you how far\n\n" +
+        "how far i'd go\nhow much i'd do\nto make you feel special\nand how much i love you\n\n" +
+        "cause you are a princess\nand only deserve the best\ni'll serve you forever\nand shower you with love to no rest\n\n" +
+        "my beautiful princess\nan angel on earth\ni wish that one day\nyou'll see how i see your worth\n",
+        "i am here\nno matter what\ni am here\nand i'll never stop\n\n" +
+        "i always will be here\ni am certain\nnot once did i doubt it\nnot once did i question\n\n" +
+        "you and i\nwe're forever\nno matter what\nwe'll always be together\n\n" +
+        "i know it because\nyou are my world\nmy everything\nmy favorite girl\n\n" +
+        "i love you so much\nand i always will\nno matter what\ni'll be there still\n",
+        "you and i\ntill the end of time\nyou and i\nand i'll make you mine\n\n" +
+        "not just for now\nbut forever i mean it\nnot just for a while\nbut forever, believe it\n\n" +
+        "i know it sounds cheesy\nbut i mean every word\ni want to be with you\nand i want to be heard\n\n" +
+        "heard by your heart\nand heard by your soul\ni want to be with you\nand make you feel whole\n\n" +
+        "make you feel loved\nmake you feel safe\nmake you feel special\nand make you feel great\n\n" +
+        "truly be the man\nthat would do anything for you\nand truly try my best\nso you feel loved too\n\n" +
+        "to truly be the man\nthat your proud to call yours\nthat does all the little things\nand opens all the doors\n\n" +
+        "together we'll be\nforever and more\ntogether we'll see\nwhat life has in store\n\n",
+        "thank you for the time\nthat we had today\nthe games we played\nand cute things you'd say\n\n" +
+        "thank you for watching gntm\nwhile you were in the bath\nthank you for being there\nand making me laugh\n\n" +
+        "thank you for the time\nwith just us two\ni love every second\nwith just me and you\n\n" +
+        "and i almost cried\nwhen you asked to do so\nit truly means the world\nand i wanted you to know\n\n" +
+        "i can't wait to hear your voice again\nand to make sure to make you laugh\nand when i see your beautiful face\ni'll give you tons of love <3\n\n"
+        + "\n<h3>march 1st</h3>" +
+        "when we play together\nyour voice makes me smile\ni keep getting flustered\nand feel like a child\n\n" +
+        "when you hype me up\nand cheer me on\ni feel like the best\nand i feel like i've won\n\n" +
+        "it means so much to me\nand always makes me blush\nyou celebrating those wins\ntogether with the adrenaline rush\n\n" +
+        "but what really makes me grin\nis watching YOU win\nwhen you clutch up those rounds\nand help all of us win\n\n" +
+        "you've gotten so good\nand i'm so proud of you\nyou're the best teammate ever\nand i love you, that's true\n\n" +
+        "your calls are the best\nand when you hit those flicks so clean\ni jump out of my chair\nand want to scream\n\n" +
+        "'OH MEIN GOTT BEBO'\n'DU BIST SO FREAKING GUUUT'\n'ICH BIN SO FREAKING STOLZ SCHATZ'\n'PLEASE LET ME KISS YOU'\n\n",
+        "why are you often doing yourself so tough\ntelling yourself that you're not enough\nyou're the prettiest there is\nmy love, my life, my bliss\n\n" +
+        "your eyes, your lips\nyour hair, your hips\nyour voice, your smile\nyour body, your style\n\n" +
+        "the way you dress\nit's oh so cute\nthe way you talk\nit's oh so smooth\n\n" +
+        "those cozy pullovers\nthose cute little socks\nthose soft pants\nyour whole outfit rocks\n\n" +
+        "i love you so much\nand i always will\nyou're my everything\nmy life, my thrill\n\n" +
+        "your face is perfect\nand your body is too\nyou're the prettiest girl\nand i'm so in love with you\n\n" +
+        "so please, my love\ndon't be so tough\nyou're the most gorgeous there is\nand i can't get enough\n\n",
+        "i'm sorry if i'm not always\nsaying things clear\nbut i promise i'm trying\nand i love you, my dear\n\n" +
+        "i'm sorry that i can't\ngive you all you need\nbut i promise i'm trying\ntrying to grow, and exceed\n\n" +
+        "i'm sorry if i can't\ngive you the security you crave\nbut i promise i'm trying\nto be honest and brave\n\n" +
+        "to be there for you\nand keep you up to date\nto tell you everything i'm doing\nand not make you wait\n\n" +
+        "when i see that little icon\nor hear my phone ring\ni pull it out my pocket\nand try to respond to everything\n\n" +
+        "i'm sorry if i can't\nalways be there\nbut i promise i'm trying\nand i'll always care\n\n" +
+        "because you are my princess\nand i want to be your prince\ni want to be there for you\nand make you feel convinced\n\n" +
+        "convinced that i love you\nand that i'll always be there\nno matter what happens\nthat i'll always care\n\n" +
+        "so please forgive\nif i'm not perfect yet\ni'll keep going and trying\nuntil i'm the best you've met\n",
+        "you're my number one\nat every time of day\nwhen you say you need me\ni'll always find a way\n\n" +
+        "i'll be there for you\nfight through being tired\ni'll be there for you\nand make sure you're admired\n\n" +
+        "when you need me by your side\ni'm in my car in a blink\nwhen you need me to hold you tight\ni'll be there before you can think\n\n" +
+        "no matter how long the drive\nno matter how far\ni'll be with you always\nlike a shining star\n\n" +
+        "i'll drop everything\nthe moment you call\ni'll be there for you\nand i'll give my all\n\n" +
+        "at work, at home, anywhere i am\ni'll drop, stop, and run\njust to be with you\ncause i want to be the one\n",
+        "when i hear your voice\ni wanna jump out of my seat\nfull of excitement\nlike a kid for a treat\n\n" +
+        "when i hear your laugh\ni wanna laugh too\ncause it's so contagious\nit just passes on through\n\n" +
+        "when i hear your giggle\ni wanna giggle too\ncause it's so freaking cute\njust as cute as you\n\n" +
+        "when i hear you sing along\ni can't help but smile\ncause no matter which song\nyou nail it every time\n\n" +
+        "when i hear you say\n'i love you'\ni can't help\nbut feel my heart melt\n\n" +
+        "because i love you too\nand whenever you say it\nit's like the first time\nmaking me feel like heaven, so divine\n\n",
+        "today was fun\nfrom start to end\nhearing your voice\nand laughing to no end\n\n" +
+        "when we were playing together\nand you were singing along\nmy heart was melting\nand our love felt so strong\n\n" +
+        "when you're joking around\nand teasing me with your wit\ni can't help but smile\nand feel like a kid\n\n" +
+        "when you're shouting for help\nor making fun of me\nit makes me feel so special\nlike i'm the only one you see\n\n" +
+        "i couldn't imagine a day\nwithout you and your voice\nyou're the most gorgeous girl\nand always my first choice\n",
+        "in 7 days\nyou'll be turning older\none year wiser\nand one year bolder\n\n" +
+        "but all the years\nfrom then to come\nit's you and me\nand we'll have fun\n\n" +
+        "every birthday\nyou and me\nfrom now on together\nand forever, you'll see\n\n" +
+        "cause whatever it takes\ni'll be there for you\nright by your side\nand loving you too\n\n" +
+        "with every year\nyou just grow more beautiful\nand i grow more in love\nand be more dutiful\n\n" +
+        "to make you feel special\nand make you feel loved\nto make you laugh\nand care for you, my love\n\n" +
+        "i can't wait for your birthday\nand to see your face\ni'll make sure it's special\nand make your heart race\n\n",
+        "with every day we spend\nmy brain still can't comprehend\nhow unbelievably cute you are\nmy sweetest princess, my shining star\n\n" +
+        "your cute little giggles\nand silly little jokes\nyour accidental word-fumbles\nafter which you jokingly check for a stroke\n\n" +
+        "your 'AHHHHHHH's and 'EEEEEEEK's\nand all the little sounds\nyour cute little 'hmm's\nand your cute laugh that resounds\n\n" +
+        "your cute little smile\nand your cute little face\nyour cute little eyes\nand your cute little grace\n\n" +
+        "when i hear your voice\ni just can't help but melt\nyou're my sweetest princess\ni hope that my love for you is deeply felt\n\n" +
+        "and what i always love the most\nis when you make fun of me\nthose little teases and jokes\ntruly make me endlessly happy <3",
+        "<h2>an alphabet of affection</h2>a for all the love you give\nb for the beauty you are\nc for the cuteness you show\nand d for the dreams you make come true\n\n" +
+        "e for the excitement you bring\nf for the fun we have\ng for the giggles so cute\nand h for the happiness with you, my love\n\n" +
+        "i for how you inspire me\nj for the jokes you speak\nk for the kindness you show\nand l for the love that just grows\n\n" +
+        "m for the moments we share\nn for the nights we spend\no for the open-ness and care\nand p for your perfection that never ends\n\n" +
+        "q for the quiet moments together\nr for the romance through every weather\ns for your smile so cute\nand t for the treasure that is you\n\n" +
+        "u for the uniqueness you flash\nv for the voice that makes me blush\nw for the warmth you give\nand x for the XOXO's that make me live\n\n" +
+        "y for the years to come\nand z for the zillion ways\nthat i'll prove my love for you\nand make you feel loved till the end of days <3\n",
+        "i love you\nit's hard to find the words\nthat truly express\nhow much you mean to me\n\n" +
+        "and i'm sorry\nthat i've been down\ni'm sorry\nfor being complicated\n\n" +
+        "i'm sorry\nfor not having a cute poem today\ni'm sorry\nfor leaving you hanging this way\n\n" +
+        "tomorrow will be\na new brighter day\nand i'll make sure\nto make you feel loved in every way\n\n" +
+        "cause i love your voice\nand i love your face\ni love your jokes\nand i miss your embrace\n\n" +
+        "i can't wait to see you\non tuesday again\ni'm sorry if i cry\ni'll try to keep it in\n\n",
+        "<h2>august 21st</h2>ever so often\ni think of that night\non the 21st of august\nyou under the streetlight\n\n" +
+        "the first time we met\nand i saw your face\ni knew you were special\nand i felt so safe\n\n" +
+        "those sparkling eyes\nglowing in the night\nthat cute little smile\nthat made my heart take flight\n\n" +
+        "the walk that we took\nthe feelings we shared\nheart racing while holding hands\na mix of excitement and care\n\n" +
+        "hugging so tight\nonce, twice, and thrice\nwe just couldn't stop\nand it all felt so right\n\n" +
+        "too afraid to let go\nand too afraid to kiss\ni couldn't stop looking\nat your beautiful lips\n\n" +
+        "my heart still races\nup to this day\nwhen i think of that moment\nand how you took my breath away\n\n" +
+        "that spontaneous ride\nwas the best choice of my life\ncause it led me to you\nto my future wife\n",
+        "it's today isn't it?\nyes, it's today!!!\nwhat day?!\nher birthday, hooray!!!\n\n" +
+        "my beautiful wife\nthe love of my life\nthe prettiest girl\nshe who rocks my world\n\n" +
+        "she's turning older\nbut she's still so young\nshe's turning wiser\nand she's still so fun\n\n" +
+        "she's the prettiest there is\nwith her gorgeous little face\nher beautiful hips\nand even prettier lips\n\n" +
+        "the first birthday with us\nand there's so many more\ni can't wait to celebrate\nhearing our laughter roar\n\n" +
+        "i hope you feel special\nand get spoiled today\nwith gifts and food\nand love in every way\n\n" +
+        "not just from me\nbut your family and friends\ncause you deserve the best\nand gifts to no end\n\n" +
+        "princess treatment\nall around the year\nnot just today\nbut every day, my dear\n\n" +
+        "that's what i vow\nand that's what i'll do\ncause you're my princess\nand i love you, that's true\n\n" +
+        "so happy birthday my love\ni hope you'll have fun\ni love you so much\nmy one and only one\n\n" +
+        "but this poems not over\nthere's still more to say\none year older\nand i love you more every day\n\n" +
+        "do you know how much love\nthat will become?\nhow much love\nthat is yet to come?\n\n" +
+        "so many things\ni want to do with you\nto make you laugh and smile\nand make you feel so loved too\n\n" +
+        "so many things\ni want to say\nto be by your side forever\nand make sure you're okay\n\n" +
+        "protect you forever\nand make you feel safe\nto take care of you and hold you tight\nand make everything feel right\n\n" +
+        "because you deserve everything\nand so much more\nyou are pure perfection\nthe one i adore\n\n" +
+        "there's so many things\nthat we're still to do\nso many places to see\nand adventures to go through\n\n" +
+        "keeping you warm in lapland\nand seeing the northern lights\nor traveling to santorini\nand seeing the beautiful sights\n\n" +
+        "new york during christmas\nstunned by the big tree\nor attending the lantern festival\nand setting our wishes free\n\n" +
+        "to wrap you up in 100 blankets\nand watch the stars above\nor to go to a concert\nand dance to the music we love\n\n" +
+        "the harry potter musical\nthat we yet have to see\nor the disneyland parade\nand the fireworks that will be\n\n" +
+        "so many things\nthat we're still to do\nso many things\nthat i only want with you\n\n" +
+        "so my love\nplease let me be your man\ntoday, and for eternity\ni want to hold your hand\n\n" +
+        "i want to hear your voice\nand see your pretty face\ni want to make you feel\nlike how you make my heart race\n\n" +
+        "because i am here for life\ncommited, to make you my wife\nto be the one, you've always searched\ni hope that place, in me, you've perched\n\n" +
+        "so let's make it happen\nlet's make it come true\nlet's make our dreams\nand make them with you\n\n" +
+        "today, tomorrow\nand the days to come\nit's just you and me baby\nand we'll have so much fun\n\n" +
+        "enjoy your birthday my princess\ni'm so glad to be with you\ni love you so much\nnever have i loved someone like i do you\n\n" +
+        "and while this poem\nnow comes to an end\ni want you to know\nthat there's a gift yet to attend... ;)\n",
+    ];
 }

@@ -3,44 +3,7 @@ window.onload = function() {
     const poemElement = document.getElementById("poem-text");
     dateElement.innerHTML = getDateString();
     poemElement.innerHTML = getTodaysPoem();
-    
-    const confettiButton = document.getElementById("confetti-button");
-    confettiButton.addEventListener("click", launchConfetti);
-    startConfettiRain();
 };
-
-function launchConfetti() {
-    confetti({
-        particleCount: 200,
-        spread: 120,
-        origin: { y: 0.68 },
-      });
-}
-
-function startConfettiRain() {
-    const duration = 6 * 1000;
-    const end = Date.now() + duration;
-
-    (function frame() {
-        confetti({
-            particleCount: 8,
-            angle: 60,
-            spread: 55,
-            origin: { x: 0, y: 0.2 },
-        });
-
-        confetti({
-            particleCount: 8,
-            angle: 120,
-            spread: 55,
-            origin: { x: 1, y: 0.2 },
-        });
-
-        if (Date.now() < end) {
-            requestAnimationFrame(frame);
-        }
-    })();
-}
 
 function getDateString() {
     const today = new Date();
@@ -1103,5 +1066,13 @@ function getPoems() {
         "today, tomorrow\nand the days to come\nit's just you and me baby\nand we'll have so much fun\n\n" +
         "enjoy your birthday my princess\ni'm so glad to be with you\ni love you so much\nnever have i loved someone like i do you\n\n" +
         "and while this poem\nnow comes to an end\ni want you to know\nthat there's a gift yet to attend... ;)\n",
+        "your birthday is ending\nbut that doesn't change\nthat you're the most special\nin every single way\n\n" +
+        "you're my princess every day\nand i'll treat you as such\ni'll make sure you're happy\nand i'll make sure you feel loved\n\n" +
+        "get you your little crown\nand a cute little dress\nwith a stunning face like yours\neveryone will be easily impressed\n\n" +
+        "you in a dress\nwill be a weapon itself\nmaking everyone fall in love\nand making me feel blessed\n\n" +
+        "blessed to be with you\nto be with the prettiest of all\nblessed to be your man\nyou make me feel 10 feet tall\n\n" +
+        "i want to make everyone jealous\nto show what they're missing\ni want to show them\nthat you're the one i'm kissing\n\n" +
+        "the one i'm holding\nthe one i'm loving\nthe one i'm caring for\nmy angel from above\n\n" +
+        "the one that keeps me going\nthe one that makes me smile\nthe favorite person of my life\nis forever you, my love\n\n",
     ];
 }

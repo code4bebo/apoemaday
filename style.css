@@ -20,12 +20,10 @@ h1 {
     font-size: 7rem;
     text-align: center;
     margin-bottom: .5rem;
-    opacity: 0.5;
     text-shadow: 0 0 60px rgba(255, 255, 255, 0.6);
 }
 
 .absolute-content strong {
-    opacity: 0.6;
     font-size: 2.5rem;
     text-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
 }
@@ -191,34 +189,3 @@ a {
     }
 }
 
-.button-container {
-    display: flex;
-    justify-content: center;
-    margin-top: 2rem;
-}
-
-#confetti-button {
-    font-size: 3rem;
-    font-weight: bold;
-    padding: 1rem 2rem;
-    background: linear-gradient(45deg, rgba(255, 0, 150, 0.5), rgba(0, 204, 255, 0.5));
-    border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(30px);
-    border: 1px solid rgba(255, 255, 255, 0.16);
-    color: white;
-    cursor: pointer;
-    text-align: center;
-    font-family: 'Dancing Script', cursive;
-}
-
-#confetti-button:focus{
-    outline: none;
-}
-
-#birthday-image {
-    position: absolute;
-    top: 0;
-    width: 100%;
-}

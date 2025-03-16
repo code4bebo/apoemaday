@@ -1074,5 +1074,12 @@ function getPoems() {
         "i want to make everyone jealous\nto show what they're missing\ni want to show them\nthat you're the one i'm kissing\n\n" +
         "the one i'm holding\nthe one i'm loving\nthe one i'm caring for\nmy angel from above\n\n" +
         "the one that keeps me going\nthe one that makes me smile\nthe favorite person of my life\nis forever you, my love\n\n",
+        "a poem a day\nkeeps the sorrows away\nkind words and love\nthat's what i want to say\n\n" +
+        "cause that's what you deserve\nyou're so loving and kind\nso i wanna love you too\nand keep you in mind\n\n" +
+        "let you know\nyou're the only one i see\nat night when i'm sleeping\nand during the day when i'm out to be\n\n" +
+        "i'm thinking of you\nall around the clock\nthinking of you\nand how you make my heart rock\n\n" +
+        "because my heart beats for you\nand beats faster when you're near\nyou're the prettiest and cutest\nand i'm so glad you're here\n\n" +
+        "so i'll keep on writing\nand keep on loving you\ncause you're the prettiest\nand i'm so in love with you\n\n" +
+        "and i want to wish\nyou a wonderful night\nsweet dreams my cutie patootie\ni hope you sleep tight <3\n\n",
     ];
 }

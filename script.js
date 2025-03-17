@@ -1081,5 +1081,12 @@ function getPoems() {
         "because my heart beats for you\nand beats faster when you're near\nyou're the prettiest and cutest\nand i'm so glad you're here\n\n" +
         "so i'll keep on writing\nand keep on loving you\ncause you're the prettiest\nand i'm so in love with you\n\n" +
         "and i want to wish\nyou a wonderful night\nsweet dreams my cutie patootie\ni hope you sleep tight <3\n\n",
+        "tomorrow's the day\nwhere i'll hold you in my arms\nwe'll cuddle so much\nand i'll keep you warm\n\n" +
+        "tomorrow's the day\nwhere i'll kiss you so much\nyour cute little face\nmakes my heart rush\n\n" +
+        "tomorrow's the day\nwhere we'll laugh so much\nwe'll be so happy\necstasy from your touch\n\n" +
+        "tomorrow's the day\nwhere we'll feel so in love\nwe'll be endlessly happy\nlike floating on clouds above\n\n" +
+        "tomorrow's the day\nwhere i'll make you feel special\ni'll shower you with love\nlike i'm a love vessel\n\n" +
+        "tomorrow's the day\nwhere i'll cry happy tears\ni've missed you so much\nand i'm so glad you're here\n\n" +
+        "so sleep tight my princess\ni can't wait for tomorrow\ni'm so looking forward\nto being the happiest man, without any sorrow\n\n",
     ];
 }

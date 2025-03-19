@@ -1088,5 +1088,10 @@ function getPoems() {
         "tomorrow's the day\nwhere i'll make you feel special\ni'll shower you with love\nlike i'm a love vessel\n\n" +
         "tomorrow's the day\nwhere i'll cry happy tears\ni've missed you so much\nand i'm so glad you're here\n\n" +
         "so sleep tight my princess\ni can't wait for tomorrow\ni'm so looking forward\nto being the happiest man, without any sorrow\n\n",
+        "thank you\nfor the beauatiful time, my dear\nit was so heavenly\nfeeling you near\n\n" +
+        "thank you for the cuddles\nand scratching my back\nfor running your hand through my hair\nand carressing my neck\n\n" +
+        "i really enjoyed\nthe time we spent\nthe dinner together\nand breakfast we went to get\n\n" +
+        "i loved the time\nwe spent in the car\njamming to pink pony club\nand the talks we had so far\n\n" +
+        "i love you so much\nmy beautiful princess\nthank you for being with me\nand making me feel endless bliss <3\n\n",
     ];
 }

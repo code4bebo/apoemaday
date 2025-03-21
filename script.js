@@ -1093,5 +1093,12 @@ function getPoems() {
         "i really enjoyed\nthe time we spent\nthe dinner together\nand breakfast we went to get\n\n" +
         "i loved the time\nwe spent in the car\njamming to pink pony club\nand the talks we had so far\n\n" +
         "i love you so much\nmy beautiful princess\nthank you for being with me\nand making me feel endless bliss <3\n\n",
+        "its hard to find\nthe right words at times\ni've done many wrongs\nfar too many times\n\n" +
+        "i'm sorry for the times\ni've made you cry\nwhen my voice got loud\nway too intensified\n\n" +
+        "i'm sorry for the times\ni've made you feel bad\nwhen i was too harsh\nmaking you sad\n\n" +
+        "i'm sorry for the times\ni've made you feel insecure\nwhen i was too distant\nand made you feel unsure\n\n" +
+        "i cannot make up\nfor the things i've done\ni regret a lot\nand would change every one\n\n" +
+        "but i vow to you\nmy prettiest blossom\nthat i'll give my all to improve\nno tear forgotten\n\n" +
+        "please stay with me\nand let's grow together\ni'll give my all to get better\nand be your 'forever'\n",
     ];
 }

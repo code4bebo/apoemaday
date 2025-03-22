@@ -1100,5 +1100,10 @@ function getPoems() {
         "i cannot make up\nfor the things i've done\ni regret a lot\nand would change every one\n\n" +
         "but i vow to you\nmy prettiest blossom\nthat i'll give my all to improve\nno tear forgotten\n\n" +
         "please stay with me\nand let's grow together\ni'll give my all to get better\nand be your 'forever'\n",
+        "i kept staring\nat your beautiful hair\nand your cute little face\nyou're so pretty, it's unfair\n\n" +
+        "making me feel like heaven\nwhen you run your hand through my hair\ni feel so loved\nlike i'm high up in the air\n\n" +
+        "and you're the prettiest there is\nyour eyes, your face\nyour body, your waist\nat all times, you're my favorite place\n\n" +
+        "looking at you\nalways has me in awe\nmaking my heart race\nand dropping my jaw\n\n" +
+        "you're the prettiest girl\nand i'm so in love with you\ni can't wait to see you again\nand make you feel loved too\n",
     ];
 }

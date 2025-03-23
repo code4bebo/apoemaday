@@ -1105,5 +1105,8 @@ function getPoems() {
         "and you're the prettiest there is\nyour eyes, your face\nyour body, your waist\nat all times, you're my favorite place\n\n" +
         "looking at you\nalways has me in awe\nmaking my heart race\nand dropping my jaw\n\n" +
         "you're the prettiest girl\nand i'm so in love with you\ni can't wait to see you again\nand make you feel loved too\n",
+        "i know it's not much\nbut on every day far or near\ni wanna say one thing\nand that's 'i love you, my dear'\n\n" +
+        "i really do love you\nyou're all i think about\nyou're my everything\nand i can't live without\n\n" +
+        "so no matter how far\nor how close you are\ni'll always be there\nand i'll always care\n\n",
     ];
 }

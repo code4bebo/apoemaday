@@ -1108,5 +1108,12 @@ function getPoems() {
         "i know it's not much\nbut on every day far or near\ni wanna say one thing\nand that's 'i love you, my dear'\n\n" +
         "i really do love you\nyou're all i think about\nyou're my everything\nand i can't live without\n\n" +
         "so no matter how far\nor how close you are\ni'll always be there\nand i'll always care\n\n",
+        "no matter whats going on\nno matter what's on your mind\ni'll always be there\nand i'll always be by your side\n\n" +
+        "jealousy, sadness, anger too\ni'll always be there\nto listen to you\nand show you i care\n\n" +
+        "always, forever\nthrough thick and thin\nthrough every weather\ni'll take you in\n\n" +
+        "so please my dear\ndon't ever fear\nsee your own worth\nand know that i'm here\n\n" +
+        "i love you so much\nand i always will\nno matter what\ni'll be there still\n\n" +
+        "you are the most perfect\nand the cutest there is\ni couldn't imagine anyone but you\nto be my forever miss\n\n" +
+        "so heads up princess\nand keep your chin high\nonly then i can see\nthe sparkle in your eye\n",
     ];
 }

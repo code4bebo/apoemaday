@@ -1115,5 +1115,11 @@ function getPoems() {
         "i love you so much\nand i always will\nno matter what\ni'll be there still\n\n" +
         "you are the most perfect\nand the cutest there is\ni couldn't imagine anyone but you\nto be my forever miss\n\n" +
         "so heads up princess\nand keep your chin high\nonly then i can see\nthe sparkle in your eye\n",
+        "ill always call you\nmy baby boo\ncause you're the cutest\nand i looove you\n\n" +
+        "thinking of what coffee you'd like\nand what cake you'd pick\nwhat snack you'd grab\nand what ice cream you'd lick\n\n" +
+        "the last one is easy\nit's apple of course\nbut the rest is a mystery\nand we gotta find the source\n\n" +
+        "cause i wanna get you\neverything you desire\ni wanna make you happy\nand make you feel admired\n\n" +
+        "even if it's just a snack\nor a coffee to go\ni wanna make you feel special\nand make your face glow\n\n" +
+        "and everytime i'm out\ni'm thinking just of you\nwhat your pick would be\nand sometimes i pick it too 💖👉👈\n",
     ];
 }

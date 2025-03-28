@@ -1121,5 +1121,13 @@ function getPoems() {
         "cause i wanna get you\neverything you desire\ni wanna make you happy\nand make you feel admired\n\n" +
         "even if it's just a snack\nor a coffee to go\ni wanna make you feel special\nand make your face glow\n\n" +
         "and everytime i'm out\ni'm thinking just of you\nwhat your pick would be\nand sometimes i pick it too 💖👉👈\n",
+        "hearing your voice\nalways makes me smile\nand watching our shows\nmakes the time fly by\n\n" +
+        "when you sent those pictures\nin front of the mirror\nmy heart skipped a beat\nand i was filled with cheer\n\n" +
+        "those poses, the sass\nand your beautiful hair\nmade me feel so lucky\nand made me stop and stare\n\n" +
+        "'how's this my wife?!'\ni thought to myself\n'shes so fucking gorgeous'\n'and she's all mine, no one else'\n\n" +
+        "and i couldn't help but smile\nand feel so in love\nwith the prettiest girl\nthe one sent from above\n\n" +
+        "it made me so happy\nto see that confidence in you\nbecause you truly are the prettiest\ni hope you know that too\n\n" +
+        "so keep on smiling\nand keep on being you\nget more confident and bolder\nand show the world your beauty too\n\n" +
+        "cause everyone should see\nhow gorgeous you are\nand how much i love you\nmy beautiful little star\n",
     ];
 }

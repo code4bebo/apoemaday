@@ -1129,5 +1129,11 @@ function getPoems() {
         "it made me so happy\nto see that confidence in you\nbecause you truly are the prettiest\ni hope you know that too\n\n" +
         "so keep on smiling\nand keep on being you\nget more confident and bolder\nand show the world your beauty too\n\n" +
         "cause everyone should see\nhow gorgeous you are\nand how much i love you\nmy beautiful little star\n",
+        "i wanna cuddle\ni wanna kiss\nall over you\nand on your cute little lips\n\n" +
+        "i wanna hold you tight\nand never let go\nkeep you warm in my arms\nand make your heart glow\n\n" +
+        "i wanna caress your face\nand run my fingers through your hair\nmake you feel special\nand show you i care\n\n" +
+        "for i love how you look\nand love how you smell\nhow your hand feels caressing my arm\nand how you make me feel so well\n\n" +
+        "how you cuddle up to me\nand our feet play footsie\nhow you run your hand through my hair\nand how you make me feel so free\n\n" +
+        "i love you my cutie\nthe cutest there is\nyou're my beautiful princess\nyou're my everything, my bliss\n",
     ];
 }

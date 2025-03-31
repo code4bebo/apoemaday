@@ -1135,5 +1135,9 @@ function getPoems() {
         "for i love how you look\nand love how you smell\nhow your hand feels caressing my arm\nand how you make me feel so well\n\n" +
         "how you cuddle up to me\nand our feet play footsie\nhow you run your hand through my hair\nand how you make me feel so free\n\n" +
         "i love you my cutie\nthe cutest there is\nyou're my beautiful princess\nyou're my everything, my bliss\n",
+        "when you sing along\ni feel so in love\nyour voice is so sweet\nmaking me feel high above\n\n" +
+        "cause you're so freaking cute\nwhen your jamming along\nfeeling the rhythm\nand singing your song\n\n" +
+        "and i can't help but smile\nand melt away\nwhen i hear you have fun\nand i know that you're okay\n\n" +
+        "please keep singing\nwhenever we play\nwhen i know the lyrics, i'll join in\nand sing along all day\n",
     ];
 }

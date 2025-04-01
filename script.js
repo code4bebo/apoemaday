@@ -11,6 +11,10 @@ window.onload = function() {
         videoElement.play();
         videoElement.style.display = "block";
     });
+
+    setTimeout(() => {
+        buttonElement.style.display = "block";
+    }, 8000);
 };
 
 function getDateString() {

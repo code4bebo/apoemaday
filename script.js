@@ -3,6 +3,14 @@ window.onload = function() {
     const poemElement = document.getElementById("poem-text");
     dateElement.innerHTML = getDateString();
     poemElement.innerHTML = getTodaysPoem();
+
+    const videoElement = document.getElementById("video");
+    const buttonElement = document.getElementById("button");
+
+    buttonElement.addEventListener("click", function() {
+        videoElement.play();
+        videoElement.style.display = "block";
+    });
 };
 
 function getDateString() {
@@ -1139,5 +1147,13 @@ function getPoems() {
         "cause you're so freaking cute\nwhen your jamming along\nfeeling the rhythm\nand singing your song\n\n" +
         "and i can't help but smile\nand melt away\nwhen i hear you have fun\nand i know that you're okay\n\n" +
         "please keep singing\nwhenever we play\nwhen i know the lyrics, i'll join in\nand sing along all day\n",
+        "on april fools day\ni bet everyone of your exes\nfeels like a fool\na fool for letting you go\n\n" +
+        "and i'm so glad\nthey let you go\nbecause now you're mine\nand i love you so\n\n" +
+        "and i love you so much\nmore than anything else\nyou're the prettiest girl\nan angel itself\n\n" +
+        "they're the biggest fools\none could ever be\nan april fools joke\nthat they didn't see\n\n" +
+        "but their joking loss\nis not just for a day\nit's a lost lifetime\nand i hope they feel the pain\n\n" +
+        "not saying they deserve to suffer\nbut they kinda do\nbecause they let you down\nand didn't see your worth too\n\n" +
+        "so please my love\nnever doubt yourself\nyou're the prettiest girl\nan angel on a shelf\n\n" +
+        "that others are blind\nis by no means your fault\nbut i'll forever treasure you\nin my heart, safe like a vault\n\n",
     ];
 }

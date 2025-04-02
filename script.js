@@ -3,18 +3,6 @@ window.onload = function() {
     const poemElement = document.getElementById("poem-text");
     dateElement.innerHTML = getDateString();
     poemElement.innerHTML = getTodaysPoem();
-
-    const videoElement = document.getElementById("video");
-    const buttonElement = document.getElementById("button");
-
-    buttonElement.addEventListener("click", function() {
-        videoElement.play();
-        videoElement.style.display = "block";
-    });
-
-    setTimeout(() => {
-        buttonElement.style.display = "block";
-    }, 8000);
 };
 
 function getDateString() {
@@ -1159,5 +1147,10 @@ function getPoems() {
         "not saying they deserve to suffer\nbut they kinda do\nbecause they let you down\nand didn't see your worth too\n\n" +
         "so please my love\nnever doubt yourself\nyou're the prettiest girl\nan angel on a shelf\n\n" +
         "that others are blind\nis by no means your fault\nbut i'll forever treasure you\nin my heart, safe like a vault\n\n",
+        "you said you don't like your eyes\nbut i truly love them\nthe way that they sparkle\nand the way that they shine\n\n" +
+        "it reminds me of the stars\nand how beautiful they are\nthe way that they twinkle\nand the way that they glow\n\n" +
+        "and i can't help but stare\nat your beautiful eyes\nyour gorgeous little smile\nyou're so gorgeous, i'm not telling lies\n\n" +
+        "i get lost in your eyes\nand hope you do in mine\nplease let me look at you\nand admire you all the time\n\n" +
+        "cause you're the prettiest girl\nthat everyone can see\nand i hope you know that\nyou're the one for me\n",
     ];
 }

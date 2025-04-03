@@ -1152,5 +1152,9 @@ function getPoems() {
         "and i can't help but stare\nat your beautiful eyes\nyour gorgeous little smile\nyou're so gorgeous, i'm not telling lies\n\n" +
         "i get lost in your eyes\nand hope you do in mine\nplease let me look at you\nand admire you all the time\n\n" +
         "cause you're the prettiest girl\nthat everyone can see\nand i hope you know that\nyou're the one for me\n",
+	    "while todays poem\nmay be short\ni'm writing it down\nin my blanket fort\n\n" +
+	    "now i'm lying here\nwishing so badly\nthat you were near\ni miss you, my dear\n\n" +
+	    "and while i miss you\nhere in my sweater\nthat party with you here\nwould've been so much better\n\n" +
+	    "cause anything's better\nwith you by my side\ni love you my princess\nand wish you a good night <3\n",
     ];
 }

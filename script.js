@@ -1156,5 +1156,11 @@ function getPoems() {
 	    "now i'm lying here\nwishing so badly\nthat you were near\ni miss you, my dear\n\n" +
 	    "and while i miss you\nhere in my sweater\nthat party with you here\nwould've been so much better\n\n" +
 	    "cause anything's better\nwith you by my side\ni love you my princess\nand wish you a good night <3\n",
+        "thanks for spending time\nplaying games with me\nyou're the best teammate\neveryone can see\n\n" +
+        "and the best girlfriend too\nbut that's a given\nthat's nothing new\nfor you are the best\n\n" +
+        "pretty like a princess\ncute like a baby cat\nfunny like a comedian\nand divine like a goddess\n\n" +
+        "thanks for watching shows with me\nand for all the laughs\nranting over the participants\nand cheering our faves with our hearts\n\n" +
+        "thanks for spending time with me\nand making me the happiest\ni hope i make you happy too\nand feel just as loved, too\n\n" +
+        "thanks for being you\nand for all the love\nyou truly mean the world to me\nmaking me forget all negative stuff <3\n",
     ];
 }

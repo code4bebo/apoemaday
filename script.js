@@ -1162,5 +1162,9 @@ function getPoems() {
         "thanks for watching shows with me\nand for all the laughs\nranting over the participants\nand cheering our faves with our hearts\n\n" +
         "thanks for spending time with me\nand making me the happiest\ni hope i make you happy too\nand feel just as loved, too\n\n" +
         "thanks for being you\nand for all the love\nyou truly mean the world to me\nmaking me forget all negative stuff <3\n",
+        "your cute voice\nkeeps my heart beating\nand your contagious laugh\nmakes me feel so alive\n\n" +
+        "and even when the games\ndon't go our way\nyour cute little giggles\nmake me feel okay\n\n" +
+        "and when you cheer me on\nand hype me up\ni feel like the best\nand i can't get enough\n\n" +
+        "i just want a hug\nand to lie by your side\ni love you forever\nand wish you a good night\n",
     ];
 }

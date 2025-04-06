@@ -1166,5 +1166,13 @@ function getPoems() {
         "and even when the games\ndon't go our way\nyour cute little giggles\nmake me feel okay\n\n" +
         "and when you cheer me on\nand hype me up\ni feel like the best\nand i can't get enough\n\n" +
         "i just want a hug\nand to lie by your side\ni love you forever\nand wish you a good night\n",
+        "kiss you once\nand kiss you twice\nkiss you on the lips\nso soft and nice\n\n" +
+        "kiss you three times\nand kiss you four\nkiss you on the cheeks\nand kiss you some more\n\n" +
+        "kiss you on the forehead\nand kiss you on the nose\nkiss you on the neck\nand kiss you on your toes\n\n" +
+        "kiss you on the arms\nand kiss you on the legs\nkiss you on the back\nand kiss you on your head\n\n" +
+        "kiss you on the belly\nand kiss you on the thighs\nkiss you on the hands\nand kiss you a sweet goodnight\n\n" +
+        "kiss you everywhere\nand kiss you all the time\nto show you all my love\nand show you that you're mine\n\n" +
+        "kiss your boo boos\nand kiss your scars\nto show you that you're perfect\nand that you're my shining star\n\n" +
+        "so sleep tight my love\nand dream of me too\ncause i'll be sleeping tight\ndreaming of kissing you <3\n",
     ];
 }

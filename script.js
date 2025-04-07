@@ -1174,5 +1174,13 @@ function getPoems() {
         "kiss you everywhere\nand kiss you all the time\nto show you all my love\nand show you that you're mine\n\n" +
         "kiss your boo boos\nand kiss your scars\nto show you that you're perfect\nand that you're my shining star\n\n" +
         "so sleep tight my love\nand dream of me too\ncause i'll be sleeping tight\ndreaming of kissing you <3\n",
+        "let me write a poem for you\nwith lots of love to spare\ni wanna make you smile so true\nto show you how much i care\n\n" +
+        "and while it's hard\nto find new words to say\ni'll keep on writing\nday after day\n\n" +
+        "to show you i mean it\nand show you my love\ntill i'm the best boyfriend\nyou've ever dreamed of\n\n" +
+        "to open my heart\nand open my mind\nspill out the words\nand let them unwind\n\n" +
+        "show you my true feelings\nand show you my heart\nlife without you is empty\ni never want us to part\n\n" +
+        "so i'll keep on writing\nand showing you love\ntill the end of time\nwhen we rise up above\n\n" +
+        "to the stars and beyond\nwhere we'll be forever\nunited in love\nand always together\n\n" +
+        "forever here\nand forever there\nforever in love\nforever and everywhere\n",
     ];
 }

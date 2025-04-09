@@ -1182,5 +1182,8 @@ function getPoems() {
         "so i'll keep on writing\nand showing you love\ntill the end of time\nwhen we rise up above\n\n" +
         "to the stars and beyond\nwhere we'll be forever\nunited in love\nand always together\n\n" +
         "forever here\nand forever there\nforever in love\nforever and everywhere\n",
+        "a little text\nto say goodnight\nto tell you you're cute\nand to hold you tight\n\n" +
+        "to tell you i love you\nand to say sweet dreams\nto tell you you're perfect\nyou are more perfect than it seems\n\n" +
+        "sleep tight my love\nand i'm glad to call you mine\ni can't wait to see you again\na perfect goddess, so divine\n",
     ];
 }

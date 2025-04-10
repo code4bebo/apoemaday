@@ -1185,5 +1185,12 @@ function getPoems() {
         "a little text\nto say goodnight\nto tell you you're cute\nand to hold you tight\n\n" +
         "to tell you i love you\nand to say sweet dreams\nto tell you you're perfect\nyou are more perfect than it seems\n\n" +
         "sleep tight my love\nand i'm glad to call you mine\ni can't wait to see you again\na perfect goddess, so divine\n",
+        "you're my perfect, so precious light\nmy morning sun, and star at night\nevery curve and every line\nall of you is so divine\n\n" +
+        "you're my blossom, soft and bright\nblooming, even out of sight\nin your eyes, a world begins\nwider than the sky that spins\n\n" +
+        "no mirror speaks the truth i see\nyou're beautiful, eternally\nnot a flaw, not one mistake\nyou are the art, that angels make\n\n" +
+        "let the world say what it will\ni'll be loving you, always still\nloving you through every storm\nevery shade, and every form\n\n" +
+        "you're my princess, don't forget\ncrowned in gold and silk, no regret\nand you could never lose your grace\nso beautiful, in every place\n\n" +
+        "so when doubt begins to creep\nhold my hand, and take a leap\ninto the love that we have made\nin the light, where dreams cascade\n\n" +
+        "you're more than enough, just as you are\nmy perfect wife, my shining star\nall other men, i know they stare\ncause you're the one, beyond compare\n\n",
     ];
 }

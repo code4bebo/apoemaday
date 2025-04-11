@@ -1192,5 +1192,12 @@ function getPoems() {
         "you're my princess, don't forget\ncrowned in gold and silk, no regret\nand you could never lose your grace\nso beautiful, in every place\n\n" +
         "so when doubt begins to creep\nhold my hand, and take a leap\ninto the love that we have made\nin the light, where dreams cascade\n\n" +
         "you're more than enough, just as you are\nmy perfect wife, my shining star\nall other men, i know they stare\ncause you're the one, beyond compare\n\n",
+        "you are my cutie\nmy little princess who i love\nmy beautiful pookie\nlike sent from above\n\n" +
+        "every day with you\nis a day full of bliss\ni'll make sure to count em\nuntil i call you my miss\n\n" +
+        "and every day with you\nis a day full of fun\ni'll make sure to spoil you\nuntil the day is done\n\n" +
+        "and every night we spend\nis a night full of love\ni'll make sure to cuddle you\nand keep you warm like a glove\n\n" +
+        "and everytime we kiss\ni don't just get this feeling\nit makes me want to love you more\ndown on my knees, kneeling\n\n" +
+        "and every time you smile\nmy heart skips a beat\nyou're the prettiest girl\neveryone can see\n\n" +
+        "i love you so much\nso please don't ever doubt\nthat you are so incredibly perfect\nmaking me want to jump and shout\n",
     ];
 }

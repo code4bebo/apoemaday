@@ -1199,5 +1199,14 @@ function getPoems() {
         "and everytime we kiss\ni don't just get this feeling\nit makes me want to love you more\ndown on my knees, kneeling\n\n" +
         "and every time you smile\nmy heart skips a beat\nyou're the prettiest girl\neveryone can see\n\n" +
         "i love you so much\nso please don't ever doubt\nthat you are so incredibly perfect\nmaking me want to jump and shout\n",
+        "i'm glad you have a fun day\neven when i'm away\nand i'm glad you got to laugh a lot\ncause that's important, no matter what\n\n" +
+        "had some nice snacks\nand fun with your friends\ni hope you had a blast\nand that our fun never ends\n\n" +
+        "i hope that next time\ni'll be there too\nto share the fun with you\nand make you feel so loved too\n\n" +
+        "there's so many things\nthat we're yet to do\nso many fun times\nthat i want to share with you\n\n" +
+        "even if i'm just there\nto watch you have fun\nit makes me feel so happy\nto see you smile, my honeybun\n\n" +
+        "so please keep smiling\nand keep your cute little grin\nevery day you're happy\nis a day that i win\n\n" +
+        "and if you're ever sad\nor feeling down\njust know that i'm here\nand i'll always be around\n\n" +
+        "cause you're my princess\nand i love you so much\ni'll always be there\nto give you a hug\n\n" +
+        "and i hope that tomorrow\nthe fun will go on\nwhen we spend time together\nand laugh till the dawn <3\n",
     ];
 }

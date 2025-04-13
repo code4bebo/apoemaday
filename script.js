@@ -1208,5 +1208,11 @@ function getPoems() {
         "and if you're ever sad\nor feeling down\njust know that i'm here\nand i'll always be around\n\n" +
         "cause you're my princess\nand i love you so much\ni'll always be there\nto give you a hug\n\n" +
         "and i hope that tomorrow\nthe fun will go on\nwhen we spend time together\nand laugh till the dawn <3\n",
+        "i'm not the best at writing poems\nat putting my love into words\ni don't want to be repetetive\nand sound like a nerd\n\n" +
+        "but i still want to try\nto show you how much you mean\nto show you my love\nin a way no one else has seen\n\n" +
+        "because i'm by no means perfect\nand i know that for sure\nway too many flaws\na burden to endure\n\n" +
+        "but i want to be better\nand i want to improve\ni will try my best\nto show you my love and prove\n\n" +
+        "that i do truly love you\nmy feelings are real\ni want to be your man\nyour husband, when i kneel\n\n" +
+        "to one day be with you\nand live a life together\nto be your best friend\nyour partner, forever\n",
     ];
 }

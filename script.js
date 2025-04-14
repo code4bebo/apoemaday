@@ -1214,5 +1214,11 @@ function getPoems() {
         "but i want to be better\nand i want to improve\ni will try my best\nto show you my love and prove\n\n" +
         "that i do truly love you\nmy feelings are real\ni want to be your man\nyour husband, when i kneel\n\n" +
         "to one day be with you\nand live a life together\nto be your best friend\nyour partner, forever\n",
+        "watching my show where they race\nthrough cities in europe so spread\nit makes me want to go\nand travel with you like we said\n\n" +
+        "let's kiss beneath the northern sky\nin snowy towns, where reindeers lie\nlaplan whispers soft and low\nand the stars above us gently glow\n\n" +
+        "we'll sip red wine in old Madrid\nwhere flamenco dancers twirl and skid\nyour laughters echoes down the street\nthe warmth of spain, beneath our feet\n\n" +
+        "in Santorini, skies are blue\nwe'll watch the sunset, just us two\nwith every wave that hits the shore\ni'd fall in love a little more\n\n" +
+        "let's ride through Rome on Vespa wings\npast fountains, stones, and all the things\ngelato kisses, cobbled grace\ni want to see the smile on your face\n\n" +
+        "And if we choose the world to chase\nno need for maps to find our place\ncause you're my north star, my sweetest view\nno matter where, I feel home with you\n",
     ];
 }

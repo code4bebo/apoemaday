@@ -1220,5 +1220,11 @@ function getPoems() {
         "in Santorini, skies are blue\nwe'll watch the sunset, just us two\nwith every wave that hits the shore\ni'd fall in love a little more\n\n" +
         "let's ride through Rome on Vespa wings\npast fountains, stones, and all the things\ngelato kisses, cobbled grace\ni want to see the smile on your face\n\n" +
         "And if we choose the world to chase\nno need for maps to find our place\ncause you're my north star, my sweetest view\nno matter where, I feel home with you\n",
+        "<h2>just you <3</h2>it's you who makes me smile\nwhen the world feels gray\nit's you who makes me laugh\nwhen i feel lost and stray\n\n" +
+        "it's you who i love\nevery single day\nit's you who makes me feel\nlike everything's okay\n\n" +
+        "it's you who i love talking to\neveryone else's words\njust go on through\nlike i've never heard\n\n" +
+        "when you joke with me\nand tease me a lot\nit makes me feel so happy\nlike on the right spot\n\n" +
+        "it's you who i hear\nwhen everyone else is loud\nit's you i cheer for\nand you who makes me so proud\n\n" +
+        "cause you are my princess\nthe only one there is\nthe only one i see\nand my gorgeous, future miss <3\n",
     ];
 }

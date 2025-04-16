@@ -1226,5 +1226,10 @@ function getPoems() {
         "when you joke with me\nand tease me a lot\nit makes me feel so happy\nlike on the right spot\n\n" +
         "it's you who i hear\nwhen everyone else is loud\nit's you i cheer for\nand you who makes me so proud\n\n" +
         "cause you are my princess\nthe only one there is\nthe only one i see\nand my gorgeous, future miss <3\n",
+        "i hope your day was fun\neven if the massage was a bum\nat least you got some fancy shoes\nand some gntm time, me and you\n\n" +
+        "and while it was just one day\ni admit, i really have to say\nthat i miss you again already\nand now we wait for tomorrow, slow and steady\n\n" +
+        "i'm feeling sleepy\nwhile writing this down\ni want to cuddle you tight\nmy princess with the cutest crown\n\n" +
+        "so sleep tight my dear\nand i'll see you tomorrow\nwith lots of love and laughs\nto take away the sorrow\n\n" +
+        "thank you for taking me with you\nwith the pictures you sent\nit made me really happy\nlike i was there when you went\n",
     ];
 }

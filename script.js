@@ -1231,5 +1231,8 @@ function getPoems() {
         "i'm feeling sleepy\nwhile writing this down\ni want to cuddle you tight\nmy princess with the cutest crown\n\n" +
         "so sleep tight my dear\nand i'll see you tomorrow\nwith lots of love and laughs\nto take away the sorrow\n\n" +
         "thank you for taking me with you\nwith the pictures you sent\nit made me really happy\nlike i was there when you went\n",
+        "can't wait for days with you so near\njust laughs and games and cozy cheer\nour favorite shows, the world on mute\nwith you, my love, it's all so cute\n\n" +
+        "we'll talk 'til late, from heart to heart\nno need to rush, no need to part\nyour voice, your smile, my favorite view\nin every moment, it's just us two\n\n" +
+        "i love you more than words can say\nin every hug, in every way\ntwo nights with you, a dream come true\nmy heart's forever, just for you\n",
     ];
 }

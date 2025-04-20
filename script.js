@@ -1234,5 +1234,13 @@ function getPoems() {
         "can't wait for days with you so near\njust laughs and games and cozy cheer\nour favorite shows, the world on mute\nwith you, my love, it's all so cute\n\n" +
         "we'll talk 'til late, from heart to heart\nno need to rush, no need to part\nyour voice, your smile, my favorite view\nin every moment, it's just us two\n\n" +
         "i love you more than words can say\nin every hug, in every way\ntwo nights with you, a dream come true\nmy heart's forever, just for you\n",
+        "happy easter, my love\ni hope you had fun\nwith family and friends\nand chocolate to munch\n\n" +
+        "some colorful eggs\nand bunnies to see\nwell maybe not bunnies\nbut the cats were cute, you'll agree\n\n" +
+        "and i couldn't help\nbut think about you\nabout how it would be\nif i was there too\n\n" +
+        "yapping along\nto topics i don't understand\nbut still laughing along\nand holding your hand\n\n" +
+        "cause that's what i love\nto be by your side\nto share all the moments\nand enjoy the ride\n\n" +
+        "and raft was so fun\ni'm glad we got to play\ni hope you had fun too\nand enjoyed the day\n\n" +
+        "so happy easter, my love\nand i hope you feel blessed\nwith all the love around you\nand all the fun, at best\n\n" +
+        "tomorrow's a new day\nand we'll have fun again\ni can't wait to hear your voice\nand laugh with you to no end\n",
     ];
 }

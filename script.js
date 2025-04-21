@@ -1242,5 +1242,10 @@ function getPoems() {
         "and raft was so fun\ni'm glad we got to play\ni hope you had fun too\nand enjoyed the day\n\n" +
         "so happy easter, my love\nand i hope you feel blessed\nwith all the love around you\nand all the fun, at best\n\n" +
         "tomorrow's a new day\nand we'll have fun again\ni can't wait to hear your voice\nand laugh with you to no end\n",
+        "i really had lots of fun today\nwatching gntm and ranting away\nyapping along with you\nand laughing out loud so true\n\n" +
+        "your cute reactions when we gamed\nfrom panic to hype\nand even noises i can't name\nmade me laugh so hard, i loved the vibe\n\n" +
+        "thanks for being my partner in crime\nwith you by my side i laugh all the time\nyour the best hypegirl\nin the whole wide world\n\n" +
+        "and the prettiest too\nthat's no question, you're my favorite view\nand i can't help, but sit here and think\nhow lucky am i, to have you <3\n\n" +
+        "sweet dreams my princess\ni hope you sleep tight\ndon't forget to take a sip of water\nbefore we say night night <3\n",
     ];
 }

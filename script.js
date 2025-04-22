@@ -1247,5 +1247,12 @@ function getPoems() {
         "thanks for being my partner in crime\nwith you by my side i laugh all the time\nyour the best hypegirl\nin the whole wide world\n\n" +
         "and the prettiest too\nthat's no question, you're my favorite view\nand i can't help, but sit here and think\nhow lucky am i, to have you <3\n\n" +
         "sweet dreams my princess\ni hope you sleep tight\ndon't forget to take a sip of water\nbefore we say night night <3\n",
+        "i call you princess\nand i call you my queen\nbut you're so much more\nthan what i can see\n\n" +
+        "princess of my heart\nand queen of my soul\nyou're the one i adore\nand the one who makes me whole\n\n" +
+        "you're a princess, so sweet\nand a queen so divine\nif someone should wear a crown\nit should be you, all the time\n\n" +
+        "cause that's what you deserve\nnot more and not less\na man who loves and serves you\nand treats you the best\n\n" +
+        "that's what i strive to be\nto treat you like i'm your king\nto make you feel special\nuntil the day you wear our ring\n\n" +
+        "you're my forever princess\nthe only one i see\nyou're my forever queen\nand you're the one for me\n\n" +
+        "so please don't ever doubt\nhow much you mean to me\nwhen i promise you that i mean\nthat you're my love, eternally\n",
     ];
 }

@@ -1254,5 +1254,7 @@ function getPoems() {
         "that's what i strive to be\nto treat you like i'm your king\nto make you feel special\nuntil the day you wear our ring\n\n" +
         "you're my forever princess\nthe only one i see\nyou're my forever queen\nand you're the one for me\n\n" +
         "so please don't ever doubt\nhow much you mean to me\nwhen i promise you that i mean\nthat you're my love, eternally\n",
+        "i'm so sorry\ni really wanna write a poem\nbut i'm so tired\nmy mind is so gone today\n\n" +
+        "i am really sorry\nfor being this way\ni really do love you\ni pinky promise i do <3\n",
     ];
 }

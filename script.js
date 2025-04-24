@@ -1254,7 +1254,14 @@ function getPoems() {
         "that's what i strive to be\nto treat you like i'm your king\nto make you feel special\nuntil the day you wear our ring\n\n" +
         "you're my forever princess\nthe only one i see\nyou're my forever queen\nand you're the one for me\n\n" +
         "so please don't ever doubt\nhow much you mean to me\nwhen i promise you that i mean\nthat you're my love, eternally\n",
-        "i'm so sorry\ni really wanna write a poem\nbut i'm so tired\nmy mind is so gone today\n\n" +
-        "i am really sorry\nfor being this way\ni really do love you\ni pinky promise i do <3\n",
+        "i'm not always easy\nand i'm not always right\nsometimes i'm a pain\nand sometimes i put up a fight\n\n" +
+        "sometimes i cry\nand sometimes i wanna scream\nsometimes i feel lost\nlike stuck in a bad dream\n\n" +
+        "but through all the ups and downs\nand through all the fights\ni want you to know\nthat you're my shining light\n\n" +
+        "the reason i keep going\nthe reason i'll never give up\nthe reason i keep smiling\neven when times are tough\n\n" +
+        "the reason why i'm here\nthe reason why i care\nthe reason why i love you\nand the reason why i'm there\n\n" +
+        "so please don't ever doubt\nhow much you mean to me\nyou're my everything\nthe only one i want to see\n\n" +
+        "the only reason i cry\nis when i fear of losing you\nbecause you mean the world to me\nand i hope i for you too\n\n" +
+        "i'll be by your side\nthrough thick and thin\nholding your hand\nalways trying to make you grin\n\n" +
+        "i love you my dear\nand i always will\nyou're my world forever\nit's my heart you fulfill\n",
     ];
 }

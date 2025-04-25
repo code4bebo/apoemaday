@@ -1263,5 +1263,10 @@ function getPoems() {
         "the only reason i cry\nis when i fear of losing you\nbecause you mean the world to me\nand i hope i for you too\n\n" +
         "i'll be by your side\nthrough thick and thin\nholding your hand\nalways trying to make you grin\n\n" +
         "i love you my dear\nand i always will\nyou're my world forever\nit's my heart you fulfill\n",
+        "tomorrow night\nit's just you and me\nfeels so right\nto be with you, my cutie\n\n" +
+        "whether we game\nor watch a show\ni'm just so happy\nto be with you, you know?\n\n" +
+        "i love when you laugh\nand i love when you smile\ni love when you tease me\nand i love spending time for a while\n\n" +
+        "so let's enjoy our time\nand do what we do best\nlaughing together\nand yapping along with no rest\n\n" +
+        "i'm excited my dear\nand i can't wait to hear\nyour cute little voice\nlike a song in my ear\n",
     ];
 }

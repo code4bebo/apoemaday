@@ -1268,5 +1268,10 @@ function getPoems() {
         "i love when you laugh\nand i love when you smile\ni love when you tease me\nand i love spending time for a while\n\n" +
         "so let's enjoy our time\nand do what we do best\nlaughing together\nand yapping along with no rest\n\n" +
         "i'm excited my dear\nand i can't wait to hear\nyour cute little voice\nlike a song in my ear\n",
+        "a smile a day\nkeeps the sadness away\nso make sure to raise your chin\nand let the world see your grin\n\n" +
+        "cause you're the prettiest girl\nand the whole world should see\nhow perfect you are\ncause that's what i see\n\n" +
+        "whenever you laugh\nmy heart skips a beat\nmaking you laugh\nis what makes my day feel complete\n\n" +
+        "and i hope i'll make you smile\nevery single day\nbecause your lips are the prettiest\njust a car drive away\n\n" +
+        "slepe tight my love\nand don't forget to smile\nyou're the most perfect woman\neveryone can see, even from a mile\n",
     ];
 }

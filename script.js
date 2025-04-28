@@ -1273,5 +1273,11 @@ function getPoems() {
         "whenever you laugh\nmy heart skips a beat\nmaking you laugh\nis what makes my day feel complete\n\n" +
         "and i hope i'll make you smile\nevery single day\nbecause your lips are the prettiest\njust a car drive away\n\n" +
         "slepe tight my love\nand don't forget to smile\nyou're the most perfect woman\neveryone can see, even from a mile\n",
+        "for you i'd do anything\neven clean the windows\nor wash the blinds\nno matter how stupid one may find\n\n" +
+        "i'd climb on mountains\nand swim the sea\njust to be with you\neverywhere, just you and me\n\n" +
+        "i'd run through any rain\nand face any storm\njust to get to you\nto keep you safe and warm\n\n" +
+        "i'd fight any enemy\nand face any fear\ni'd do anything i can\nto keep you safe my dear\n\n" +
+        "and while things aren't always easy\nand while life can be tough\ni'll always be there\nto make sure you're loved\n\n" +
+        "so never doubt yourself\nand never feel alone\ni'm always by your side\nwith you, i'll share any home\n",
     ];
 }

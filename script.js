@@ -1279,5 +1279,9 @@ function getPoems() {
         "i'd fight any enemy\nand face any fear\ni'd do anything i can\nto keep you safe my dear\n\n" +
         "and while things aren't always easy\nand while life can be tough\ni'll always be there\nto make sure you're loved\n\n" +
         "so never doubt yourself\nand never feel alone\ni'm always by your side\nwith you, i'll share any home\n",
+        "even when the games are bad\nyou are what keeps me sane\nyou're the one who makes me laugh\neven when i feel pain\n\n" +
+        "and even when the games are hard\nyou're the one who makes me smile\nyou're the one who makes me happy\neven when i feel like an empty pile\n\n" +
+        "i love your laugh\ni love your voice\nall of them\nmy favorite noise\n\n" +
+        "thanks for always being you\nand trying to cheer me up\nlife wouldn't be the same\nwithout you, my love\n",
     ];
 }

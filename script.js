@@ -1283,5 +1283,10 @@ function getPoems() {
         "and even when the games are hard\nyou're the one who makes me smile\nyou're the one who makes me happy\neven when i feel like an empty pile\n\n" +
         "i love your laugh\ni love your voice\nall of them\nmy favorite noise\n\n" +
         "thanks for always being you\nand trying to cheer me up\nlife wouldn't be the same\nwithout you, my love\n",
+        "twinkle twinkle, little star\nyou're my love, both near and far\nwhen i look up at the sky\nit reminds me of the twinkle in your eye\n\n" +
+        "when the stars are shining bright\nit reminds me of your smile, so light\nand when the moon is high above\nit reminds me of your endless love\n\n" +
+        "so twinkle, twinkle, little star\nmy favorite person, is who you are\nmaking me feel up, above the world so high\nyou're my diamond in the sky\n\n" +
+        "my princess, goddess, beauty queen\nthe prettiest i've ever seen\nand the cutest while you're at it too\nand you make me laugh so much, my boo\n\n" +
+        "keep on shining, my little star\ni'll be here, no matter how far\nand when the night is dark and cold\ni'll keep you warm, your hand i'll hold\n",
     ];
 }

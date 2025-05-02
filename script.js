@@ -1288,5 +1288,11 @@ function getPoems() {
         "so twinkle, twinkle, little star\nmy favorite person, is who you are\nmaking me feel up, above the world so high\nyou're my diamond in the sky\n\n" +
         "my princess, goddess, beauty queen\nthe prettiest i've ever seen\nand the cutest while you're at it too\nand you make me laugh so much, my boo\n\n" +
         "keep on shining, my little star\ni'll be here, no matter how far\nand when the night is dark and cold\ni'll keep you warm, your hand i'll hold\n",
+        "tired eepy, oh so sleepy\nand ready for bed\ni'll cuddle you tight\nand kiss your cute head\n\n" +
+        "carress your back\ntill you fall asleep\nand whisper sweet things\nso your dreams are sweet\n\n" +
+        "i'll hold you so close\nand keep you warm\nyou're my little princess\nand my lucky charm\n\n" +
+        "so sleep tight my beauty\nand dream of me too\ncause i'll surely dream of you\nand all the things we do\n\n" +
+        "and when the morning comes\nand the sun starts to shine\ni'll be right there\nwith you, my love divine\n\n" +
+        "to wake you up gently\nwith kisses and hugs\nto be your man\nand give you all my love\n",
     ];
 }

@@ -1294,5 +1294,9 @@ function getPoems() {
         "so sleep tight my beauty\nand dream of me too\ncause i'll surely dream of you\nand all the things we do\n\n" +
         "and when the morning comes\nand the sun starts to shine\ni'll be right there\nwith you, my love divine\n\n" +
         "to wake you up gently\nwith kisses and hugs\nto be your man\nand give you all my love\n",
+        "we're not that far, but still it feels\nlike we're in two split-up reels\ncalls fill the space we can't undo\nand the routine things i share with you\n\n" +
+        "even on all the quiet days\nwe still text along\nno text too small or too long\njust a little note, to say 'i love you'\n\n" +
+        "even when the days are tough\nand the world feels gray\ni'll always smile when i see your call\nand hear your voice, like not far away\n\n" +
+        "it's not a story made for show\nit's a love, that we both know\nthat even when the world feels far\ni love you endlessly, no matter how far\n",
     ];
 }

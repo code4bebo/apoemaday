@@ -1298,5 +1298,11 @@ function getPoems() {
         "even on all the quiet days\nwe still text along\nno text too small or too long\njust a little note, to say 'i love you'\n\n" +
         "even when the days are tough\nand the world feels gray\ni'll always smile when i see your call\nand hear your voice, like not far away\n\n" +
         "it's not a story made for show\nit's a love, that we both know\nthat even when the world feels far\ni love you endlessly, no matter how far\n",
+        "everytime i'm on the train\nto vienna so far\ni think of christmas\nwhen we travelled togeth-ar\n\n" +
+        "and of the fun we had\nand how happy i was\nwith you by my side\nand how we laughed, just because\n\n" +
+        "of the time we spent\ncuddled on the couch\nwatching our shows\nwhen you left, i felt a big ouch\n\n" +
+        "because those few days\nwere the best of my year\neverytime i think of them\ni shed a little tear\n\n" +
+        "because i miss you so much\ni just wanna cuddle up\nand hold you so tight\nwhile sipping hot chocolate from a cup\n\n" +
+        "i miss you my dear\nand i love you even more\ni can't wait to see you again\nthe one i adore\n",
     ];
 }

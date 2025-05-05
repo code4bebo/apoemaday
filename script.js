@@ -1304,5 +1304,10 @@ function getPoems() {
         "because those few days\nwere the best of my year\neverytime i think of them\ni shed a little tear\n\n" +
         "because i miss you so much\ni just wanna cuddle up\nand hold you so tight\nwhile sipping hot chocolate from a cup\n\n" +
         "i miss you my dear\nand i love you even more\ni can't wait to see you again\nthe one i adore\n",
+        "you're like a drug\ni can't get enough\nof you and your love\nit's like a sweet little hug\n\n" +
+        "your beautiful smile\nand your cute little face\nyour laugh and your voice\nmake my heart race\n\n" +
+        "race like i'm high\non a rollercoaster ride\nwith you by my side\ni feel so alive\n\n" +
+        "you lift me up\nand make me feel complete\nmy heart is so full\nwhen i'm with you so sweet\n\n" +
+        "thanks for being you\nand for all the love\nyou're my favorite person\nthe one i truly love <3\n",
     ];
 }

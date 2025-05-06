@@ -1309,5 +1309,9 @@ function getPoems() {
         "race like i'm high\non a rollercoaster ride\nwith you by my side\ni feel so alive\n\n" +
         "you lift me up\nand make me feel complete\nmy heart is so full\nwhen i'm with you so sweet\n\n" +
         "thanks for being you\nand for all the love\nyou're my favorite person\nthe one i truly love <3\n",
+        "good night my dear\nand sleep tight too\ni hope you headache\ngoes away fast, my boo\n\n" +
+        "i'm sorry you feel bad\nand i wish i could help\ni'd cuddle you tight\nand make you feel well\n\n" +
+        "but for now, just rest\nand take care of yourself\ndrink some water to feel better\nkeep it on the shelf\n\n" +
+        "and when you wake up\nand feel better again\ni'll be right here\nspamming you with updates again <3\n",
     ];
 }

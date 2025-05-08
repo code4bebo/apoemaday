@@ -1313,5 +1313,10 @@ function getPoems() {
         "i'm sorry you feel bad\nand i wish i could help\ni'd cuddle you tight\nand make you feel well\n\n" +
         "but for now, just rest\nand take care of yourself\ndrink some water to feel better\nkeep it on the shelf\n\n" +
         "and when you wake up\nand feel better again\ni'll be right here\nspamming you with updates again <3\n",
+        "i wanna hold you again\ni want to cuddle you tight\ni want to kiss you so much\nand make you feel alright\n\n" +
+        "i want to run my fingers\nthrough your beautiful hair\ni want to caress your face\nand show you i care\n\n" +
+        "i miss being with you\nand i miss seeing your face\nit's making me tear up\nand yet my heart's in a race\n\n" +
+        "i miss your cute little laugh\nand your beautiful smile\ni miss your cutesy clothes\nand your sassiness all the while\n\n" +
+        "i want to be with you\nand never leave your side\ni can't wait for the day\nwhere i can finally call you mine\n",
     ];
 }

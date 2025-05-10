@@ -1318,5 +1318,13 @@ function getPoems() {
         "i miss being with you\nand i miss seeing your face\nit's making me tear up\nand yet my heart's in a race\n\n" +
         "i miss your cute little laugh\nand your beautiful smile\ni miss your cutesy clothes\nand your sassiness all the while\n\n" +
         "i want to be with you\nand never leave your side\ni can't wait for the day\nwhere i can finally call you mine\n",
+        "i love you my dear\nand i hope you had fun\nmeeting old friends\nand eating with the setting sun\n\n" +
+        "i hope you had a blast\nand enjoyed the time\ni hope you laughed about jokes\nbut not more than about mine 🙈\n\n" +
+        "and yet in that room\nfull of people and noise\ni hope you felt my love\nand thought of my voice\n\n" +
+        "cause in that room\nbuzzing with laughter and cheer\ni'd only see you\nand want to be near\n\n" +
+        "i only think of you\nanywhere i go\ni want to hold your soft little hands\nand tell you, 'i love you so'\n\n" +
+        "and i'm starting to cry\nwhile writing this down\ni miss you so much\nand can't wait to be around\n\n" +
+        "sleep tight little princess\nand i hope you dream well\ni'll be right here in bed\nwaiting for you to tell\n\n" +
+        "about the fun you had\nand the stories you shared\nhoping that one day they'll be of me too\ncause i wanna be the one to take care\n",
     ];
 }

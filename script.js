@@ -1326,5 +1326,12 @@ function getPoems() {
         "and i'm starting to cry\nwhile writing this down\ni miss you so much\nand can't wait to be around\n\n" +
         "sleep tight little princess\nand i hope you dream well\ni'll be right here in bed\nwaiting for you to tell\n\n" +
         "about the fun you had\nand the stories you shared\nhoping that one day they'll be of me too\ncause i wanna be the one to take care\n",
+        "in my head?\nat any time?\nit's you i see\nwho i call mine\n\n" +
+        "in my heart?\nit beats for you\nfull of love\nit's all so true\n\n" +
+        "in my dreams?\nyou're by my side\nyou feel so near\nand i feel so alive\n\n" +
+        "in my arms?\nyou fit so well\nlike a puzzle piece\nlike the perfect shell\n\n" +
+        "in my life?\nyou're the one i adore\nmy little princess\nand so much more\n\n" +
+        "in my world?\nyou keep it spinning\nwith your love and laughter\ni feel like i'm winning\n\n" +
+        "in my everday?\nyou're my favorite part\nmy reason to come home\nthe one who stole my heart <3\n",
     ];
 }

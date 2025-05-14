@@ -1333,5 +1333,12 @@ function getPoems() {
         "in my life?\nyou're the one i adore\nmy little princess\nand so much more\n\n" +
         "in my world?\nyou keep it spinning\nwith your love and laughter\ni feel like i'm winning\n\n" +
         "in my everday?\nyou're my favorite part\nmy reason to come home\nthe one who stole my heart <3\n",
+        "how do i love you so much\ni ask myself every day\nhow are you so perfect\nin every single way\n\n" +
+        "how do you make me smile\neven when i'm feeling down\nhow do you make me laugh\neven when i wear a frown\n\n" +
+        "how do you make me feel\nlike i'm the only one\neven when the world is loud\nand the day is done\n\n" +
+        "how do you make me happy\neven when the skies are gray\nhow do you make me feel\nlike everything's okay\n\n" +
+        "i don't know how you do it\nand i don't know why\ni don't know how i deserve you\nbut i know that you make me feel high\n\n" +
+        "thank you for being my princess\nthank you for beeing my queen\ni thank you for being my everything\nthe best my heart has ever seen\n\n" +
+        "i love you, with all my might\nthrough every day and every night\ni'll always bere here to hold tight\nand show that i love you, my gorgeous light\n",
     ];
 }

@@ -1340,5 +1340,10 @@ function getPoems() {
         "i don't know how you do it\nand i don't know why\ni don't know how i deserve you\nbut i know that you make me feel high\n\n" +
         "thank you for being my princess\nthank you for beeing my queen\ni thank you for being my everything\nthe best my heart has ever seen\n\n" +
         "i love you, with all my might\nthrough every day and every night\ni'll always bere here to hold tight\nand show that i love you, my gorgeous light\n",
+        "princess princess, where are you?\ntucked in bed, after a long day too?\nwith your cute little smile\nand your feets below the blanket\n\n" +
+        "snuggled up tight\nand ready for bed\nlike the cutie you are\nnothing more to be said\n\n" +
+        "i'd love to cuddle you\nand kiss you goodnight\ncause that's what i wanna do\nevery single night\n\n" +
+        "to hold you so close\nand keep you warm\nto make you feel safe\nand keep you from harm\n\n" +
+        "i love you my princess\nso sleep well tonight\ndream of all the fun\nwe'll have tomorrow, alright?\n",
     ];
 }

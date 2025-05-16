@@ -1345,5 +1345,10 @@ function getPoems() {
         "i'd love to cuddle you\nand kiss you goodnight\ncause that's what i wanna do\nevery single night\n\n" +
         "to hold you so close\nand keep you warm\nto make you feel safe\nand keep you from harm\n\n" +
         "i love you my princess\nso sleep well tonight\ndream of all the fun\nwe'll have tomorrow, alright?\n",
+        "while your milchreis was a flop\nand the day itself so long\ni hope you had some fun today\ni had when we talked and yapped along\n\n" +
+        "and i can't wait to yap again\nto hear your voice and laugh so sweet\nat the end of the day\ntime with you, is the only thing i need\n\n" +
+        "because i love you so much\nand you mean the world to me\nyou make my days complete\nand make me feel so free\n\n" +
+        "and whenever i feel down\nand you yap along with me\nall the worry is forgotten\nand you're the only thing i see\n\n" +
+        "you're my light that keeps me going\nand my reason to keep a smile\nyou're the one who makes me happy\nand makes my life worthwhile\n",
     ];
 }

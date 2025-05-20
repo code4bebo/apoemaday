@@ -1350,5 +1350,9 @@ function getPoems() {
         "because i love you so much\nand you mean the world to me\nyou make my days complete\nand make me feel so free\n\n" +
         "and whenever i feel down\nand you yap along with me\nall the worry is forgotten\nand you're the only thing i see\n\n" +
         "you're my light that keeps me going\nand my reason to keep a smile\nyou're the one who makes me happy\nand makes my life worthwhile\n",
+        "thank you for doing\nthe best that you can\nyou're the best girlfriend\ni could ask for as a man\n\n" +
+        "and i see you're trying\nevery single day\nto be there for me as much as you can\nand to make me feel okay\n\n" +
+        "especially today\ni noticed it a lot\nwhen you tried to cheer me up\nand made me feel like a hotshot\n\n" +
+        "thank you my dear\nfor the love that you give\ni'll be sure to make you my wife\nand to make you feel like you live\n",
     ];
 }

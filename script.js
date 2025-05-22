@@ -1354,5 +1354,12 @@ function getPoems() {
         "and i see you're trying\nevery single day\nto be there for me as much as you can\nand to make me feel okay\n\n" +
         "especially today\ni noticed it a lot\nwhen you tried to cheer me up\nand made me feel like a hotshot\n\n" +
         "thank you my dear\nfor the love that you give\ni'll be sure to make you my wife\nand to make you feel like you live\n",
+        "i can't wait to be with you\non those hot summer nights\nwith the stars shining above\nand the moon just as bright\n\n" +
+        "to cuddle up close\nand lay down outside\nthose moments with you\nwould just feel so right\n\n" +
+        "to walk through the city\nand hold your hand tight\nto feel so close to you\nlike our hearts are entwined\n\n" +
+        "to kiss you so sweetly\nand hold you so near\nto feel your warmth\nand to feel you here\n\n" +
+        "the summertime with you\nhanging out by the pool\nwith you by my side\ni'm feeling nothing but pride\n\n" +
+        "and the summerparty with you\nwould be the best of all\nmy beautiful princess\nto crown it all\n\n" +
+        "i can't wait to be with you\nand to kiss your sweet lips\nto hug you so tight\nwith my hands on your hips\n",
     ];
 }

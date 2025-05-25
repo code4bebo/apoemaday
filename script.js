@@ -1361,5 +1361,9 @@ function getPoems() {
         "the summertime with you\nhanging out by the pool\nwith you by my side\ni'm feeling nothing but pride\n\n" +
         "and the summerparty with you\nwould be the best of all\nmy beautiful princess\nto crown it all\n\n" +
         "i can't wait to be with you\nand to kiss your sweet lips\nto hug you so tight\nwith my hands on your hips\n",
+        "thank you my princess\nfor spending time with me\nfor showing your love\nand for being so sweet\n\n" +
+        "for all the laughs we share\nand the fun that we have\ni'm so grateful for you\nand the love that you give\n\n" +
+        "for all the cuddles we share\nand the kisses we give\ni'm so happy to have you\nand to call you my miss\n\n" +
+        "so sleep tight cutie pie\nand see you tomorrow\ni'll be right here waiting\nwith love and no sorrow <3\n",
     ];
 }

@@ -1365,5 +1365,11 @@ function getPoems() {
         "for all the laughs we share\nand the fun that we have\ni'm so grateful for you\nand the love that you give\n\n" +
         "for all the cuddles we share\nand the kisses we give\ni'm so happy to have you\nand to call you my miss\n\n" +
         "so sleep tight cutie pie\nand see you tomorrow\ni'll be right here waiting\nwith love and no sorrow <3\n",
+        "gaming today was so much fun\nno matter the scary grandpa with the gun\nor the creepy little kid\nwho had me screaming just a bit\n\n" +
+        "when we go together\nand crack little jokes\nit makes me feel so happy\nand my heart just glows\n\n" +
+        "and when you teased me later on\ni felt so special\nlike the luckiest guy alive\nwho's found his perfect wife\n\n" +
+        "cause that's what you'll be\nmy wife, i'll have you see\nand i won't stop\nuntil we're together\n\n" +
+        "our setups side by side\nand our hearts intertwined\nto share all the laughs\nand all the love we can find\n\n" +
+        "it's gonnna be our little world\nand ours to keep\ni can't wait for the day\nwhen our evenings end on the same couch, falling asleep\n",
     ];
 }

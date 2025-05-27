@@ -1371,5 +1371,11 @@ function getPoems() {
         "cause that's what you'll be\nmy wife, i'll have you see\nand i won't stop\nuntil we're together\n\n" +
         "our setups side by side\nand our hearts intertwined\nto share all the laughs\nand all the love we can find\n\n" +
         "it's gonnna be our little world\nand ours to keep\ni can't wait for the day\nwhen our evenings end on the same couch, falling asleep\n",
+        "you know what i thought of today?\nus two planning away\nwith how the flat is gonna look\nand what decorations would steal some looks\n\n" +
+        "in our own little world\nwith our own little style\nthough most would probably be you\ncause i'm not that creative or versatile\n\n" +
+        "but i know that together\nwe'd make it our own\nwith our love and laughter\nand the memories we've grown\n\n" +
+        "and i can't wait for the day\nwhen we finally move in\nto our own little place\nwhere our love can begin\n\n" +
+        "to fill it with laughter\nand love that we share\nto make it our home\nwith you, my love, everywhere\n\n" +
+        "so let's keep on dremaing\nuntil that day is to come\nbecause once that day comes\ni know we'll have so much fun\n",
     ];
 }

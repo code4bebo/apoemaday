@@ -1377,5 +1377,10 @@ function getPoems() {
         "and i can't wait for the day\nwhen we finally move in\nto our own little place\nwhere our love can begin\n\n" +
         "to fill it with laughter\nand love that we share\nto make it our home\nwith you, my love, everywhere\n\n" +
         "so let's keep on dremaing\nuntil that day is to come\nbecause once that day comes\ni know we'll have so much fun\n",
+        "counting to one, i know i've won\ncounting to two, i know i love you\ncounting to three, you're the only one i see\ncounting to four, i'm with my knees on the floor\n\n" +
+        "counting to five, you make me feel alive\ncounting to six, we're the perfect mix\ncounting to seven, you're my little heaven\ncounting to eight, i can't wait for our next date\n\n" +
+        "counting to nine, you are sooo fine\ncounting to ten, i want to kiss you again\ncounting to eleven, you're my angel from heaven\ncounting to twelve, i love you more than anyone else\n\n" +
+        "counting to thirteen\nyou'll always be my queen\nup to twenty, my love for you is plenty\nto thirty and more, you make my heart soar\n\n" +
+        "to infinity and beyond, my love will never end\nto the stars and back, you're the perfect blend\nof beauty and grace, my heart's one true place\nso let's keep counting, my princess, at our love's pace\n",
     ];
 }

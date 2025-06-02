@@ -1382,5 +1382,9 @@ function getPoems() {
         "counting to nine, you are sooo fine\ncounting to ten, i want to kiss you again\ncounting to eleven, you're my angel from heaven\ncounting to twelve, i love you more than anyone else\n\n" +
         "counting to thirteen\nyou'll always be my queen\nup to twenty, my love for you is plenty\nto thirty and more, you make my heart soar\n\n" +
         "to infinity and beyond, my love will never end\nto the stars and back, you're the perfect blend\nof beauty and grace, my heart's one true place\nso let's keep counting, my princess, at our love's pace\n",
+        "i'm proud of you\nfor how strong you are\nalways pushing through\neven if it leaves a scar\n\n" +
+        "for how you keep going\neven when times are tough\nand how you keep smiling\neven when things get rough\n\n" +
+        "you are so strong\nand i love you so much\nyou are my everything\nand i love your touch\n\n" +
+        "and please always now\nthat when times get rough\ni'm always here for you\nand give you all my love\n",
     ];
 }

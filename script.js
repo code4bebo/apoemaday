@@ -1386,5 +1386,15 @@ function getPoems() {
         "for how you keep going\neven when times are tough\nand how you keep smiling\neven when things get rough\n\n" +
         "you are so strong\nand i love you so much\nyou are my everything\nand i love your touch\n\n" +
         "and please always now\nthat when times get rough\ni'm always here for you\nand give you all my love\n",
+        "i love when you act silly\nsing along to your songs\nmake some silly little mishaps\nand we laugh about them along\n\n" +
+        "i love when i can tease you\nby making fun of your word-twists\nevery laugh we share\nis another moment on my 'best of life' list\n\n" +
+        "i love when you smile\nand when you laugh oh so hard\nit makes me feel happy\nand fills my whole heart\n\n" +
+        "i love when you share\nall your thoughts and your dreams\nit makes me feel special\nlike we're a perfect team\n\n" +
+        "i love when you send\nthose little pictures of you\nyou in that dress\nor your sports-bra fails too\n\n" +
+        "and what i love most\nis when i can see your cute face\nyour pretty little smile\nit makes my heart race\n\n" +
+        "you are the cutest\nand prettiest all the way\ni always wondered, why 'blossom'?\nbut now i know what to say\n\n" +
+        "because you're the prettiest flower\nblooming in my heart\nnever wilting, always shining\nand never falling apart\n\n" +
+        "so thank you for being perfect\nand for being so sweet\ni'll always love you my dear\nand i can't wait until we meet\n\n" +
+        "sleep tight, my cute blossom\nand i hope that i'll dream\nof a flower meadow so colorful\nbut yet you're the only one i see\n",
     ];
 }
